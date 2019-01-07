@@ -4,8 +4,8 @@ title: Under Construction
 subtitle: I'm sorry, the site is under construction at the moment
 ---
 
-*I'm afriad our site is currently undergoing some work*
+  ***I'm afriad our site is currently undergoing some work***
 
-Please do come back to check again
+          Please do come back to check again
 
-[Exit here](www.bradleykennedy.co.uk)
+                    [Exit here](https://www.bradleykennedy.co.uk)
