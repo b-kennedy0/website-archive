@@ -6,6 +6,7 @@ subtitle: I'm sorry, the site is under construction at the moment
 
   ***I'm afriad our site is currently undergoing some work***
 
-          Please do come back to check again
+{: .box-warning}
+**Please do come back to check again**
 
-                    [Exit here](https://www.bradleykennedy.co.uk)
+[Click HERE to Exit](https://www.bradleykennedy.co.uk)
