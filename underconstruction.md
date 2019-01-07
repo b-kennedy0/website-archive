@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: minimal
 title: Under Construction
 subtitle: I'm sorry, the site is under construction at the moment
 ---
