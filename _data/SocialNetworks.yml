@@ -19,7 +19,7 @@ rpubs:
 researchgate:
   name: "Research Gate"
   baseURL: "https://www.researchgate.net/profile/"
-  icon: "fa-researchgate"
+  icon: "fa-facebook"
 
 github:
   name: "GitHub"
