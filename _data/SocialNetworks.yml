@@ -6,8 +6,13 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class.
 
+facebook:
+  name: "Facebook"
+  baseURL: "https://www.facebook.com/"
+  icon: "fa-facebook"
+
 rpubs:
-  name:"R Pubs"
+  name: "R Pubs"
   baseURL: "http://rpubs.com/"
   icon: "fa-r-project"
 
@@ -15,11 +20,6 @@ researchgate:
   name: "Research Gate"
   baseURL: "https://www.researchgate.net/profile/"
   icon: "fa-researchgate"
-
-facebook:
-  name: "Facebook"
-  baseURL: "https://www.facebook.com/"
-  icon: "fa-facebook"
 
 github:
   name: "GitHub"
