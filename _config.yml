@@ -18,9 +18,10 @@ baseurl: ""
 
 # Name of website
 title: Bradley Kennedy
+subtitle: BSc(Hons) MSc MBPsS
 
 # Short description of your site
-description: Page Description
+#description: Page Description
 
 # --- Navigation bar options --- #
 
