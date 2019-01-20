@@ -17,11 +17,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Bradley Kennedy
-subtitle: BSc(Hons) MSc MBPsS
+title: Bradley Kennedy | BSc(Hons) MSc MBPsS
 
 # Short description of your site
-#description: Page Description
+description: Online Portfolio
 
 # --- Navigation bar options --- #
 
