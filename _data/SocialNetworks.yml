@@ -4,7 +4,7 @@
 #   name: Specify a user-friendly name that will be used as a link title
 #   baseURL: Define a base URL which will be combined with the value of
 #            site.social-network-links.<key>
-#   icon: Specify a valid fontawesome icon class
+#   icon: Specify a valid fontawesome icon class.
 
 researchgate:
   name: "Research Gate"
