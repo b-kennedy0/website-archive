@@ -9,7 +9,7 @@
 researchgate:
   name: "Research Gate"
   baseURL: "https://www.researchgate.net/profile/"
-  icon: <i class="fab fa-researchgate"></i>
+  icon: "fa-researchgate"
 
 facebook:
   name: "Facebook"
