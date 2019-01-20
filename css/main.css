@@ -299,7 +299,7 @@ footer .copyright {
 footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
-  opacity: 0.0;
+  visibility: hidden;
 }
 
 @media only screen and (min-width: 768px) {
