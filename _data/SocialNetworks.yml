@@ -6,6 +6,11 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class.
 
+rpubs:
+  name:"R Pubs"
+  baseURL: "http://rpubs.com/"
+  icon: "fa-r-project"
+
 researchgate:
   name: "Research Gate"
   baseURL: "https://www.researchgate.net/profile/"
