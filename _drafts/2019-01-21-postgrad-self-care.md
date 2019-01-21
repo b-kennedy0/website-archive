@@ -2,6 +2,9 @@
 layout: post
 published: false
 title: Postgrad-self-care
+subtitle: Each post also has a subtitle
+tags: [Postgrad, Masters, PhD, self-care, PhD Chat]
+comments: true
 ---
 ## "Take 5" ... and then another 5 - Self care and productivity for postgraduates (or anybody with a to-do list)
 
