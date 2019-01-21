@@ -2,6 +2,9 @@
 layout: post
 published: false
 title: Academic-Twitter
+subtitle: Each post also has a subtitle
+tags: [Social Media][tech]
+comments: true
 ---
 ## A New Post
 
