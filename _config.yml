@@ -17,7 +17,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Bradley Kennedy | BSc(Hons) MSc MBPsS
+title: Bradley Kennedy
 
 # Short description of your site
 description: Online Portfolio
@@ -53,7 +53,7 @@ avatar: "https://b-kennedy0.github.io/img/avatar-icon.png"
 navbar-col: "#F5F5F5"
 navbar-text-col: "#404040"
 navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
+page-col: "#C0D1ED"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
