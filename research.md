@@ -8,8 +8,7 @@ title: Research
 <script> window.fbMessengerPlugins = window.fbMessengerPlugins || { init : function() { FB.init({ appId: "1678638095724206", xfbml: true, version: "v3.0" }); }, callable : [] }; window.fbAsyncInit = window.fbAsyncInit || function() { window.fbMessengerPlugins.callable.forEach( function( item ) { item(); } ); window.fbMessengerPlugins.init(); }; setTimeout( function() { (function(d, s, id){ var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) { return; } js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk')); }, 0); </script> <div class="fb-send-to-messenger test-fb-send-to-messenger" messenger_app_id="1678638095724206" page_id="421258858310082" data-ref="" color="blue" size="xlarge" cta_text="GET_STARTED"> </div>
 
 ---
-# Research
-_2018 - Present_
+# 2018 - Present
 Exploring the Parameters of Intentionality Judgements Utilising the Side-Effect Effect
 
 The side-effect effect (SEE; Knobe, 2003) demonstrates that observers utilise the moral valence of actions’ unintended consequences to decide whether those side effects were intentionally caused, with harmful side effects viewed as more intentional than helpful ones.
@@ -37,13 +36,13 @@ RPubs
 Sign up to the results mailing list here! (<http://bit.do/results-email>) 
 
 ---
-_2016-2017_
+# 2016-2017
 Examining the asymmetry of language and the associated structural correlates.
 
 MSc project investigated connectivity asymmetry (using Diffusion Spectrum Imaging) in structures such as the arcuate fasciculus and frontal aslant tract in individuals with atypical language dominance
 
 ---
-_2015-2016_
+# 2015-2016
 Hand preference for gesturing and the link to hemispheric language asymmetry in the neurodevelopmentally typical population.
 
 Undergraduate BSc project 'Psychology with Neuropsychology'
