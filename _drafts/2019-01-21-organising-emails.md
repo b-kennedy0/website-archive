@@ -2,6 +2,9 @@
 layout: post
 published: false
 title: Organising-emails
+subtitle: Each post also has a subtitle
+tags: [teacher, student, PhD Chat, tech]
+comments: true
 ---
 ## "Where is that email" - Tips for organising the chaos
 
