@@ -1,78 +1,50 @@
 ---
 layout: page
-title: Publications & Conferences
+title: Publications & Awards
+---
+## Publications and Conferences
+Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, in press). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. In press.
+
+**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S.(2018) Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (July 25, 2018). <https://doi.org/10.6084/m9.figshare.6860342.v1>
+
+**Kennedy, B. J.** (2018). Intention is in the eye of the beholder: Exploring the parameters of intentionality judgements utilising the side-effect effect. (oral presentation). Annual Postgraduate Conference, University of Chester (February 2018)
+
+**Kennedy, B. J.**, Karlsson, E., Mullins, P., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). Postgraduate Conference, Bangor (September 2017)
+
+**Kennedy, B. J.**, Karlsson, E., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). British Psychological Society (BPS) Welsh Branch - Annual Student Conference (April 2017)  
+
+## Conferences / Workshop Attended (not presented)  
+Open Science Workshop @ University College Cork, Ireland (31st Oct - 2nd Nov 2018)  
+
+---
+## Awards
+
+*Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
+
+*Nominated*: Outstanding Academic Support Staff, The 1839 Awards - Student Led Teaching Awards 2018
+
+*Awarded*: Best Student (Highest dissertation grade) MSc Neuroimaging, Bangor University. September 2017
+
+*Awarded*: Student Warden Development Scholarship - Awarded for developing a kitchen check administration application for iOS and Android smart devices. The app was then sold to Bangor University Halls of Residence for use from September 2017 with the Residential Warden team. (May 2017)
+
+*Awarded*: Best Oral Presentation (runner-up) cash prize @ BPS Welsh Branch Annual Student Conference (April 2017, Image below)
+
+*Awarded*: Gold Scholarship for Postgraduate study, Bangor University - (£3,000). September 2016
+
+Student Nomination (2018)
+>"Brad has been an inspiration to all students in his lab classes. He goes beyond to help everyone and makes sure we all understand. He is always there if you need help in your statistics."  
+
+Student Nomination (2018)
+>"Every lab class Brad is completely full of happiness and I can't help but enjoy his sessions. He doesn't speak down to you and proper sees you as a friend it feels."
 ---
 
-Stewart, S., Kennedy, B. J., & Haigh, M. (2018, in press). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. In press.
+## Open Science Framework
+Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of agents and recipients modulates the side-effect effect. <https://osf.io/5mgkn>
 
-​
+**Kennedy, B. J.**, Scudds, A., & Stewart, S. (2018, June 11). “What did you do that for?” – A study of intentions. - Knobe (2003) Replication Study. <https://doi.org/10.17605/OSF.IO/8H9AW>
 
-Kennedy, B. J., Scudds, A., Lafferty, M., & Stewart, S.(2018) Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (July 25, 2018). https://doi.org/10.6084/m9.figshare.6860342.v1
+**Kennedy, B. J.**, Scudds, A., & Stewart, S. (2018, June 11). A pilot study - Investigating the social opinions of job roles and working sectors. <https://doi.org/10.17605/OSF.IO/W279R>
 
-​
+**Kennedy, B. J.** (2018, June 11). Research Participation ChatBot. <https://doi.org/10.17605/OSF.IO/XJZ98>
 
-Kennedy, B. J. (2018). Intention is in the eye of the beholder: Exploring the parameters of intentionality judgements utilising the side-effect effect. (oral presentation). Annual Postgraduate Conference, University of Chester (February 2018)
-
-​
-
-Kennedy, B. J., Karlsson, E., Mullins, P., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). Postgraduate Conference, Bangor (September 2017)
-
-​
-
-Kennedy, B. J., Karlsson, E., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). British Psychological Society (BPS) Welsh Branch - Annual Student Conference (April 2017)
-
-Conferences / Workshop Attended (not presented)
- 
-Open Science Workshop @ University College Cork, Ireland (31st Oct - 2nd Nov 2018)
-
-Awards
-​
-Nominated: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
-
-​
-
-Nominated: Outstanding Academic Support Staff, The 1839 Awards - Student Led Teaching Awards 2018
-
-​
-
-Awarded: Best Student (Highest dissertation grade) MSc Neuroimaging, Bangor University. September 2017
-
-​
-
-Awarded: Student Warden Development Scholarship - Awarded for developing a kitchen check administration application for iOS and Android smart devices. The app was then sold to Bangor University Halls of Residence for use from September 2017 with the Residential Warden team. (May 2017)
-
-​
-
-Awarded: Best Oral Presentation (runner-up) cash prize @ BPS Welsh Branch Annual Student Conference (April 2017, Image below)
-
-​
-
-Awarded: Gold Scholarship for Postgraduate study, Bangor University - (£3,000). September 2016
-
-"Brad has been an inspiration to all students in his lab classes. He goes beyond to help everyone and makes sure we all understand. He is always there if you need help in your statistics."
-
-- Student Nomination (2018)
-
-"Every lab class Brad is completely full of happiness and I can't help but enjoy his sessions. He doesn't speak down to you and proper sees you as a friend it feels."
-
-​
-
-- Student Nomination (2018)
-
-Open Science Framework
-​
-Stewart, S., Kennedy, B. J., & Haigh, M. (2018, September 25). Valence of agents and recipients modulates the side-effect effect. https://osf.io/5mgkn
-
-​
-
-Kennedy, B. J., Scudds, A., & Stewart, S. (2018, June 11). “What did you do that for?” – A study of intentions. - Knobe (2003) Replication Study. https://doi.org/10.17605/OSF.IO/8H9AW
-
-​
-
-Kennedy, B. J., Scudds, A., & Stewart, S. (2018, June 11). A pilot study - Investigating the social opinions of job roles and working sectors. https://doi.org/10.17605/OSF.IO/W279R
-
-​
-
-Kennedy, B. J. (2018, June 11). Research Participation ChatBot. https://doi.org/10.17605/OSF.IO/XJZ98
-
-http://osf.io/ekmyr
+<http://osf.io/ekmyr>
