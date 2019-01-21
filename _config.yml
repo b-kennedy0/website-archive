@@ -51,13 +51,13 @@ avatar: "https://b-kennedy0.github.io/img/avatar-icon.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#003B6D"
+navbar-col: "#6699CC"
 navbar-text-col: "#BDBDBD"
 navbar-children-col: "#F5F5F5"
 page-col: "#ffffff"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#6699CC"
+footer-col: "#F5F5F5"
 footer-text-col: "#676767"
 footer-link-col: "#404040"
 
