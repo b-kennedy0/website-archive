@@ -7,7 +7,11 @@ title: Current Employment
 <p align="center">Graduate Teaching Assistant</p>
 <p align="center">University of Chester</p>
 <p align="center"><em>October 2017 - Present</em></p>
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 Teaching on:  
 - PS4005 Research Methods and Skills
 - PS5015 Becoming a Psychological Researcher
