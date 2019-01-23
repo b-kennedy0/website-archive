@@ -80,7 +80,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 
 **Contact Us**  
 If you have any questions about this Privacy Policy, please contact us:
-By visiting this page on our website: (https://www.bradleykennedy.co.uk/contact)  
+By visiting this page on our website: (<https://www.bradleykennedy.co.uk/contact>)  
 
 ---
 
@@ -106,4 +106,4 @@ I have no control over, and assume no responsibility for, the content, privacy p
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 2 days' notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.  
 
 **Contact Us**  
-If you have any questions about these Terms, please contact us (https://bradleykennedy.co.uk/contact)  
+If you have any questions about these Terms, please contact us (<https://bradleykennedy.co.uk/contact>)  
