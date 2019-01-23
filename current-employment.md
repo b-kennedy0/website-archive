@@ -6,7 +6,7 @@ title: Current Employment
 Graduate Teaching Assistant
 University of Chester
 October 2017 - Present
-![GTAs](/img/gtas 2018.jpg)"Graduate Teaching Assistants 2018"
+![GTAs](/img/gtas 2018.jpg "Graduate Teaching Assistants 2018")
 
 
 Teaching on:
