@@ -3,7 +3,7 @@ layout: page
 title: Current Employment
 ---
 
-<p align="center"><img src="/img/gtas 2018.jpg" alt="Graduate Teaching Assistants 2018" width="350" height="350" /></p>
+<p align="center"><img style="float: left;" src="/img/gtas 2018.jpg" alt="Graduate Teaching Assistants 2018" width="350" height="260" /></p>
 <p align="center">Graduate Teaching Assistant</p>
 <p align="center">University of Chester</p>
 <p align="center"><em>October 2017 - Present</em></p>
