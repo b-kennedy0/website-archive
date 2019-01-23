@@ -9,7 +9,7 @@ title: Current Employment
 <p align="center"><em>October 2017 - Present</em></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-Teaching on:  
+Teaching on:
 - PS4005 Research Methods and Skills
 - PS5015 Becoming a Psychological Researcher
 - WB5101 Work Based Learning
@@ -31,7 +31,6 @@ Data Science Society
 University of Chester 
 _September 2018 - Present_
 
-
 **Member -**
 Postgraduate Sub-Committee
 University of Chester
@@ -46,4 +45,3 @@ _November 2018 - Present_
 Postgraduate Research Symposium 2019 Committee
 University of Chester  
 _November 2018 - Present_
-
