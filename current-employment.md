@@ -3,12 +3,10 @@ layout: page
 title: Current Employment
 ---
 
-<p align="center">
-    Graduate Teaching Assistant
-    University of Chester
-    _October 2017 - Present_
-![GTAs](/img/gtas 2018.jpg "Graduate Teaching Assistants 2018")
-</p>
+<p align="center"><img src="/img/gtas 2018.jpg" alt="Graduate Teaching Assistants 2018" /></p>
+<p align="center">Graduate Teaching Assistant</p>
+<p align="center">University of Chester</p>
+<p align="center"><em>October 2017 - Present</em></p>
 
 Teaching on:  
 - PS4005 Research Methods and Skills
