@@ -470,7 +470,6 @@ footer .theme-by {
 .intro-header .page-heading {
   text-align: center;
   color: {{ site.navbar-col }};
-  font-size: 20px;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
@@ -478,7 +477,7 @@ footer .theme-by {
   color: #FFF;
   text-shadow: 1px 1px 3px #000;
 }
-.intro-header .page-heading h1 {
+.intro-header .page-heading h2 {
   margin-top: 0;
   font-size: 80px;
 }
