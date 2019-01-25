@@ -10,6 +10,11 @@ title: Research
 <p><em>*(requires Faceboook log-in)</em></p>
 
 ---
+### Table of Contents
+**[2018 - Present](#2018-Present)**
+**[2016-2018](#2016-2017)**
+**[2015-2016](#2015-2016)**
+
 # 2018 - Present
 Exploring the Parameters of Intentionality Judgements Utilising the Side-Effect Effect
 
