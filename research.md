@@ -25,13 +25,10 @@ Recent work has suggested that when observers account for other factors such as 
 
 Initial stages of investigation are considering the influence of the job role of the instigator and the setting in which they are placed i.e. their sector of work. Understanding the SEE may have further implications for the jury decision process of rendering verdicts. The PhD research is fully embedded within the Open Science ethos. (See Open Science Framework link)
 
-osf-logo-black.original.png
-Open Science Framework
-<http://osf.io/ekmyr>
+<a href="http://osf.io/ekmyr"><img src="/img/osf icon circle.png" title="Click here for Open Science Framework Profile" alt="Open Science Framework" width="100" height="100"/></a>
 
-[![Research Gate Logo](/img/Research_gate_icon.png =100x50 "Click for Research Gate Account")](https://www.researchgate.net/profile/Bradley_Kennedy2)
 
-<a href="https://www.researchgate.net/profile/Bradley_Kennedy2"><img src="/img/Research_gate_icon.png" title="Click here for Research Gate Profile" alt="Research Gate Logo" width="200" height="100"/></a>
+<a href="https://www.researchgate.net/profile/Bradley_Kennedy2"><img src="/img/Research_gate_icon.png" title="Click here for Research Gate Profile" alt="Research Gate Logo" width="100" height="100"/></a>
 
 Research Gate
 
