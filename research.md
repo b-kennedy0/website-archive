@@ -23,7 +23,7 @@ Recent work has suggested that when observers account for other factors such as 
 
 Initial stages of investigation are considering the influence of the job role of the instigator and the setting in which they are placed i.e. their sector of work. Understanding the SEE may have further implications for the jury decision process of rendering verdicts. The PhD research is fully embedded within the Open Science ethos. (See Open Science Framework link)
 
-**Click below for OSF Profile, Research Gate, GitHub, RPubs and Results list email sign up**  
+**Click below for OSF Profile, Research Gate, GitHub, RPubs & Results list email sign up**  
 <a href="http://osf.io/ekmyr" target="_blank" rel="noopener"><img src="/img/osf icon circle.png" title="Click here for Open Science Framework Profile" alt="Open Science Framework" width="100" height="100"/></a>&nbsp; &nbsp; &nbsp;<a href="https://www.researchgate.net/profile/Bradley_Kennedy2" target="_blank" rel="noopener"><img src="/img/Research_gate_icon.png" title="Click here for Research Gate Profile" alt="Research Gate Logo" width="110" height="80"/></a>&nbsp; &nbsp; &nbsp;<a href="https://github.com/b-kennedy0" target="_blank" rel="noopener"><img src="/img/github_icon.png" title="Click here for GitHub Profile" alt="GitHub Logo" width="110" height="100"/></a>&nbsp; &nbsp; &nbsp;<a href="http://rpubs.com/bkennedy" target="_blank" rel="noopener"><img src="/img/RPubs_icon.png" title="Click here for RPubs Profile" alt="RPubs Logo" width="170" height="100"/></a>&nbsp; &nbsp; &nbsp;<a href="http://bit.do/results-email" target="_blank" rel="noopener"><img src="/img/email_icon.gif" title="Click here to sign up" alt="Email icon" width="140" height="120"/></a>  
 
 ---
