@@ -31,6 +31,8 @@ Open Science Framework
 
 [![Research Gate Logo](/img/Research_gate_icon.png =100x50 "Click for Research Gate Account")](https://www.researchgate.net/profile/Bradley_Kennedy2)
 
+<a href="https://www.researchgate.net/profile/Bradley_Kennedy2"><img src="/img/Research_gate_icon.png" alt="Research Gate Logo" width="200" height="100"/></a>
+
 Research Gate
 
 [![GitHub Logo](/img/github_icon.png "Click for GitHub Account")](https://github.com/b-kennedy0)
