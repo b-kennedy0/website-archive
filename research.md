@@ -30,6 +30,9 @@ Open Science Framework
 <http://osf.io/ekmyr>
 
 [!(/img/Research_gate_icon.png "Click for Research Gate Account")](https://www.researchgate.net/profile/Bradley_Kennedy2)
+
+!(/img/Research_gate_icon.png)
+
 Research Gate
 
 [!(/img/github_icon.png "Click for GitHub Account")](https://github.com/b-kennedy0)
