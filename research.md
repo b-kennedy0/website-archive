@@ -12,9 +12,7 @@ title: Research
 
 ---
 ### Quick Navigation
-**[2018 - Present](#2018-Present)**<br>
-**[2016-2018](#2016-2017)**<br>
-**[2015-2016](#2015-2016)**<br>
+**[2018 - Present](#2018-Present)** | **[2016-2018](#2016-2017)** | **[2015-2016](#2015-2016)**<br>
 
 # 2018 - Present
 Exploring the Parameters of Intentionality Judgements Utilising the Side-Effect Effect
