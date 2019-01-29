@@ -29,11 +29,10 @@ osf-logo-black.original.png
 Open Science Framework
 <http://osf.io/ekmyr>
 
-<i class="fab fa-researchgate"></i>
+[!(/img/Research_gate_icon.png "Click for Research Gate Account")](https://www.researchgate.net/profile/Bradley_Kennedy2)
 Research Gate
-<https://www.researchgate.net/profile/Bradley_Kennedy2>
 
-GitHub-Mark.png
+[!(/img/github_icon.png "Click for GitHub Account")](https://github.com/b-kennedy0)
 GitHub
 <https://github.com/b-kennedy0>
 
