@@ -32,13 +32,13 @@ _Research Gate_
 <a href="https://www.researchgate.net/profile/Bradley_Kennedy2"><img src="/img/Research_gate_icon.png" title="Click here for Research Gate Profile" alt="Research Gate Logo" width="80" height="60"/></a>
 
 _GitHub_  
-<a href="https://github.com/b-kennedy0"><img src="/img/github_icon.png" title="Click here for GitHub Profile" alt="GitHub Logo" width="100" height="100"/></a>
+<a href="https://github.com/b-kennedy0"><img src="/img/github_icon.png" title="Click here for GitHub Profile" alt="GitHub Logo" width="110" height="100"/></a>
 
 _R Pubs_    
-<a href="http://rpubs.com/bkennedy"><img src="/img/RPubs_icon.png" title="Click here for RPubs Profile" alt="RPubs Logo" width="160" height="100"/></a>
+<a href="http://rpubs.com/bkennedy"><img src="/img/RPubs_icon.png" title="Click here for RPubs Profile" alt="RPubs Logo" width="170" height="100"/></a>
 
 _Sign up to the results mailing lsit here!_   
-<a href="http://bit.do/results-email"><img src="/img/email_icon.gif" title="Click here to sign up" alt="Email icon" width="120" height="100"/></a>
+<a href="http://bit.do/results-email"><img src="/img/email_icon.gif" title="Click here to sign up" alt="Email icon" width="140" height="120"/></a>
 
 ---
 # 2016-2017
