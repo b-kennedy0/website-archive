@@ -29,7 +29,7 @@ osf-logo-black.original.png
 Open Science Framework
 <http://osf.io/ekmyr>
 
-rg.png
+<i class="fab fa-researchgate"></i>
 Research Gate
 <https://www.researchgate.net/profile/Bradley_Kennedy2>
 
