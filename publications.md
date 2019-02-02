@@ -48,4 +48,4 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of ag
 
 **Kennedy, B. J.** (2018, June 11). Research Participation ChatBot. <https://doi.org/10.17605/OSF.IO/XJZ98>
 
-<http://osf.io/ekmyr>
+<a href="http://osf.io/ekmyr" target="_blank" rel="noopener"><img src="/img/osf icon circle.png" title="Click here for Open Science Framework Profile" alt="Open Science Framework" width="100" height="100"/>
