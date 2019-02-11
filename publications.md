@@ -40,6 +40,8 @@ Student Nomination (2018)
 ---
 
 ## Open Science Framework
+**Kennedy, B. J.** (2019, February 11). “Did they mean to?” – A study of Intentions, praise and blame; Study 1. <https://doi.org/10.17605/OSF.IO/KNCEA>
+
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of agents and recipients modulates the side-effect effect. <https://osf.io/5mgkn>
 
 **Kennedy, B. J.**, Scudds, A., & Stewart, S. (2018, June 11). “What did you do that for?” – A study of intentions. - Knobe (2003) Replication Study. <https://doi.org/10.17605/OSF.IO/8H9AW>
