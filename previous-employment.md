@@ -2,7 +2,15 @@
 layout: page
 title: Previous Employment
 ---
-# UNDER CONSTRUCTION
+<table style="border-color: #ff0000; margin-left: auto; margin-right: auto;" border="2">
+<tbody>
+<tr>
+<td>
+<h3 style="text-align: center;"><span style="text-decoration: underline;"><strong><span style="color: #ff0000; text-decoration: underline;">! UNDER CONSTRUCTION !</span></strong></span></h3>
+</td>
+</tr>
+</tbody>
+</table>
 
 Application development - Halls of Residence, Bangor University
 August 2017
