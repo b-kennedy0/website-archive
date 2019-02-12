@@ -35,16 +35,16 @@ _July 2016_
 
 ### Bachelor of Science with Honours - BSc (Hons) Psychology with Neuropsychology
 _2013-2016_ ([Bangor University](https://www.bangor.ac.uk/))
-| Level 4 Modules | Level 5 Modules | Level 6 Modules |
-| ----------- | ----------- | ----------- | 
-| Psychology as a Science | Social Psychology | Consumer & Applied Psychology |
-| Clinical & Health Psychology | Aspects of Clinical Psychology | Control of Mental Processes |
-| Scientific Writing & Communication 1 & 2 | Cognitive Psychology | Psychology with Neuropsychology Project |
-| Brain & Mind | Biological Psychology | The Social Brain |
-| Developmental Psychology | Developmental Psychology | Disorders of Social Cognition |
-| Research Methods 1 & 2 | Research Methods 3 & 4 |  |
-|  | Personality & Individual Differences |  |
-|  | Employability in Psychology |  |
+| Level 4 Modules | Level 5 Modules | Level 6 Modules |  
+| ----------- | ----------- | ----------- |  
+| Psychology as a Science | Social Psychology | Consumer & Applied Psychology |  
+| Clinical & Health Psychology | Aspects of Clinical Psychology | Control of Mental Processes |  
+| Scientific Writing & Communication 1 & 2 | Cognitive Psychology | Psychology with Neuropsychology Project |  
+| Brain & Mind | Biological Psychology | The Social Brain |  
+| Developmental Psychology | Developmental Psychology | Disorders of Social Cognition |  
+| Research Methods 1 & 2 | Research Methods 3 & 4 |  |  
+|  | Personality & Individual Differences |  |  
+|  | Employability in Psychology |  |  
 
 
 ### Advanced Level Qualifications 
