@@ -18,9 +18,8 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 20
 
 ---
 ## Awards
-
-*Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018 
 <p><img style="float: right;" src="/img/most inspiring lec award 2018.jpg" alt="Most Inspiring Lecturer" width="250" height="300" /></p> <p><img style="float: right;" src="/img/outstanding academic award 2018.jpg" alt="Outstanding Academic Award" width="250" height="300" /></p>
+*Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
 *Nominated*: Outstanding Academic Support Staff, The 1839 Awards - Student Led Teaching Awards 2018
 
 *Awarded*: Best Student (Highest dissertation grade) MSc Neuroimaging, Bangor University. *September 2017*
