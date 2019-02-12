@@ -14,7 +14,7 @@ title: Academic Qualifications
 
 # Current:
 ### PhD Psychology 
-_2017 - Present_ ([University of Chester](https://www1.chester.ac.uk/)) - See [Research Tab](https://bradleykennedy.co.uk/research/)
+_2017 - Present_ ([University of Chester](https://www1.chester.ac.uk/)) - See [Research Tab](https://bradleykennedy.co.uk/research/)  
 _Graduate Member of the British Psychological Society_ ([MBPsS](https://www.bps.org.uk/))
 
 # Previous:
@@ -49,11 +49,11 @@ _2013-2016_ ([Bangor University](https://www.bangor.ac.uk/))
 
 
 ### Advanced Level Qualifications 
-_2011-2013_ ([Deeside consortium of schools sixth form](http://www.connahsquayhs.org.uk/))
+_2011-2013_ ([Deeside consortium of schools sixth form](http://www.connahsquayhs.org.uk/))  
 Psychology, English Literature & Welsh Baccalaureate
 
 ### GCSEs 
-_2007-2011_ ([Connah's Quay High School](http://www.connahsquayhs.org.uk/))
+_2007-2011_ ([Connah's Quay High School](http://www.connahsquayhs.org.uk/))  
 10x A* -> A, 1x B, 1x C
 Including: English, Maths, Biology, Physics, Chemistry and Welsh 2nd Language
 
