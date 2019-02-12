@@ -35,6 +35,7 @@ _July 2016_
 
 ### Bachelor of Science with Honours - BSc (Hons) Psychology with Neuropsychology
 _2013-2016_ ([Bangor University](https://www.bangor.ac.uk/))
+
 | Level 4 Modules | Level 5 Modules | Level 6 Modules |  
 | ----------- | ----------- | ----------- |  
 | Psychology as a Science | Social Psychology | Consumer & Applied Psychology |  
