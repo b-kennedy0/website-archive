@@ -2,11 +2,11 @@
 layout: page
 title: Publications & Awards
 ---
-**Navigation**
-**[Publications and Conferences](#publications)** 
-**[Conferences / Workshop Attended (not presented)](#conferences)** 
+**Navigation**  
+**[Publications and Conferences](#publications)**  
+**[Conferences / Workshop Attended (not presented)](#conferences)**  
 **[Awards](#awards)**  
-**[Open Science Framework](#osf)**
+**[Open Science Framework](#osf)**  
 
 ---
 
