@@ -2,7 +2,15 @@
 layout: page
 title: Publications & Awards
 ---
-## Publications and Conferences
+**Navigation**
+**[Publications and Conferences](#publications)** 
+**[Conferences / Workshop Attended (not presented)](#conferences)** 
+**[Awards](#awards)**  
+**[Open Science Framework](#osf)**
+
+---
+
+## Publications and Conferences {#publications}
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *in press*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. In press.
 
 **Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S.(2018) Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1>
@@ -13,11 +21,11 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *in press*). Breaking bad, b
 
 **Kennedy, B. J.**, Karlsson, E., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). British Psychological Society (BPS) Welsh Branch - Annual Student Conference (*April 2017*)  
 
-## Conferences / Workshop Attended (not presented)  
+## Conferences / Workshop Attended (not presented)  {#conferences}
 Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 2018*)  
 
 ---
-## Awards
+## Awards {#awards}
 <p><img style="float: right;" src="/img/most inspiring lec award 2018.jpg" alt="Most Inspiring Lecturer" width="250" height="300" /></p> <p><img style="float: right;" src="/img/outstanding academic award 2018.jpg" alt="Outstanding Academic Award" width="250" height="300" /></p>
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
 *Nominated*: Outstanding Academic Support Staff, The 1839 Awards - Student Led Teaching Awards 2018
@@ -38,7 +46,7 @@ Student Nomination (2018)
 
 ---
 
-## Open Science Framework
+## Open Science Framework {#osf}
 **Kennedy, B. J.** (2019, February 11). “Did they mean to?” – A study of Intentions, praise and blame; Study 1. <https://doi.org/10.17605/OSF.IO/KNCEA>
 
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of agents and recipients modulates the side-effect effect. <https://osf.io/5mgkn>
