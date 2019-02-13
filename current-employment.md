@@ -3,11 +3,10 @@ layout: page
 title: Current Employment
 ---
 
-<p align="center"><img style="float: left;" src="/img/gtas 2018.jpg" alt="Graduate Teaching Assistants 2018" width="350" height="280" /></p>
+<p align="center"><img style="float: left;" src="/img/gtas 2018.jpg" alt="Graduate Teaching Assistants 2018" width="330" height="260" /></p>
 <p align="center">Graduate Teaching Assistant</p>
 <p align="center">University of Chester</p>
 <p align="center"><em>October 2017 - Present</em></p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 Teaching on:
 - PS4005 Research Methods and Skills
@@ -23,7 +22,7 @@ Marking on:
 - PS5015 Becoming a Psychological Researcher
 - WB5101 Work Based Learning
 
-[University of Chester Staff Profile](https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy)
+<a title="Click to view Staff Profile" href="https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://b-kennedy0.github.io/img/UOC-Logo_2010.jpg" width="420" height="140" /></a>
 
 # Extracurricular Activites
 **Communications Officer -**
