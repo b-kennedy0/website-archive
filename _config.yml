@@ -115,7 +115,7 @@ url-pretty: "bradleykennedy.co.uk"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-119326789-2"
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-119326789-2"
