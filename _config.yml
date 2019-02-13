@@ -82,7 +82,7 @@ author:
 social-network-links:
 #  rss: true
   email: "hello@bradleykennedy.co.uk"
-  facebook: bradleykennedy
+#  facebook: bradleykennedy
 #  github: daattali
   twitter: kennedybj
 #  reddit: yourname
@@ -118,7 +118,7 @@ url-pretty: "bradleykennedy.co.uk"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-119326789-2"
 
 # Google Tag Manager ID
 #gtm: ""
