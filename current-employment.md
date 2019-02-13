@@ -26,21 +26,21 @@ Marking on:
 
 # Extracurricular Activites
 **Communications Officer -**
-Data Science Society
-University of Chester 
-_September 2018 - Present_
-
-**Member -**
-Postgraduate Sub-Committee
-University of Chester
-_October 2018 - Present_
-
-**PGR Student Representative -**
-Research & Knowledge Transfer Office Committee
-University of Chester 
-_November 2018 - Present_
-
-**Member -**
-Postgraduate Research Symposium 2019 Committee
+Data Science Society  
 University of Chester  
-_November 2018 - Present_
+_September 2018 - Present_  
+
+**Member -**  
+Postgraduate Sub-Committee  
+University of Chester  
+_October 2018 - Present_  
+
+**PGR Student Representative -**  
+Research & Knowledge Transfer Office Committee  
+University of Chester  
+_November 2018 - Present_  
+
+**Member -**  
+Postgraduate Research Symposium 2019 Committee  
+University of Chester  
+_November 2018 - Present_  
