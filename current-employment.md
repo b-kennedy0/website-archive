@@ -3,7 +3,7 @@ layout: page
 title: Current Employment
 ---
 
-<p align="center"><img style="float: left; border-width: 20px; margin: 10px;" src="/img/gtas 2018.jpg" alt="Graduate Teaching Assistants 2018" width="280" height="220" /></p>
+<p align="center"><img style="float: right; border-width: 20px; margin: 10px;" src="/img/gtas 2018.jpg" alt="Graduate Teaching Assistants 2018" width="280" height="220" /></p>
 <h4 align="center">Graduate Teaching Assistant</h4>
 <p align="center"><em>University of Chester</em></p>
 <p align="center"><em>October 2017 - Present</em></p>
@@ -25,7 +25,8 @@ Marking on:
 <a title="Click to view Staff Profile" href="https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://b-kennedy0.github.io/img/UOC-Logo_2010.jpg" width="420" height="140" /></a>
 
 # Extracurricular Activites
-**Communications Officer -**
+
+**Communications Officer -**  
 Data Science Society  
 University of Chester  
 _September 2018 - Present_  
