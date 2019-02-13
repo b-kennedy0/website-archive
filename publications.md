@@ -10,7 +10,7 @@ title: Publications & Awards
 
 ---
 
-## Publications and Conferences {#publications}
+# Publications and Conferences {#publications}
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *in press*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. In press.
 
 **Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S.(2018) Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1>
@@ -25,7 +25,7 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *in press*). Breaking bad, b
 Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 2018*)  
 
 ---
-## Awards {#awards}
+# Awards {#awards}
 <p><img style="float: right;" src="/img/most inspiring lec award 2018.jpg" alt="Most Inspiring Lecturer" width="220" height="300" /></p> <p><img style="float: right;" src="/img/outstanding academic award 2018.jpg" alt="Outstanding Academic Award" width="220" height="300" /></p>
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
 
@@ -45,9 +45,15 @@ Student Nomination (2018)
 Student Nomination (2018)
 >"Every lab class Brad is completely full of happiness and I can't help but enjoy his sessions. He doesn't speak down to you and proper sees you as a friend it feels."
 
+Student Module Evaluation (2019)
+>"Brad is amazing! Really helps with things you don’t understand fully and takes the time to teach them you. He talks through demos etc. Such as working on spss thoroughly and that finds me showing friends in other lab classes showing them what to do."
+
+Student Module Evaluation (2019)
+>"Brad is very helpful in lab class, he explains things well and gives constructive feedback."
+
 ---
 
-## Open Science Framework {#osf}
+# Open Science Framework {#osf}
 **Kennedy, B. J.** (2019, February 11). “Did they mean to?” – A study of Intentions, praise and blame; Study 1. <https://doi.org/10.17605/OSF.IO/KNCEA>
 
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of agents and recipients modulates the side-effect effect. <https://osf.io/5mgkn>
@@ -59,4 +65,5 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of ag
 **Kennedy, B. J.** (2018, June 11). Research Participation ChatBot. <https://doi.org/10.17605/OSF.IO/XJZ98>
 
 *Click OSF Logo below for Profile Page*  
+
 <a href="http://osf.io/ekmyr" target="_blank" rel="noopener"><img src="/img/osf icon circle.png" title="Click here for Open Science Framework Profile" alt="Open Science Framework" width="100" height="100"/>
