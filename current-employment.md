@@ -24,7 +24,7 @@ Marking on:
 
 <a title="Click to view Staff Profile" href="https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://b-kennedy0.github.io/img/UOC-Logo_2010.jpg" width="420" height="140" /></a>
 
-# Extracurricular Activites
+# Extracurricular
 
 **Communications Officer -**  
 Data Science Society  
