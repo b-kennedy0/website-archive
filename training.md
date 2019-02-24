@@ -12,7 +12,7 @@ title: Training
 </tbody>
 </table>
 
-
+<img src="https://b-kennedy0.github.io/img/logos/UOC-Logo_2010.jpg" alt="UoC Logo" width="167" height="55" style="float:left"/>  
 #### School of Psychology - University of Chester:
 - 3-Day Training, Introduction to R by Dr Andrew Stewart, _University of Manchester_  
 - TALENT - Teaching and Learning Essentials for New Teachers, _Learning and Teaching Institue, UoC_  
@@ -21,6 +21,7 @@ title: Training
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/UOC-Logo_2010.jpg" alt="UoC Logo" width="167" height="55" style="float:right"/>  
 #### General - University of Chester:  
 - AQSS Academic Integrity training  
 - Preventing unconscious biases workshop  
@@ -32,11 +33,13 @@ title: Training
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/UOC-Logo_2010.jpg" alt="UoC Logo" width="167" height="55" style="float:left"/>  
 #### Royal Air Force Air Cadet Organisation - Volunteer Gliding Squadron:  
 - St Johns Ambulance Activity First Aid (Valid until 22/01/20)  
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/UOC-Logo_2010.jpg" alt="UoC Logo" width="167" height="55" style="float:right"/>  
 #### Bangor University:  
 - Sensitivity and Awareness Training  
 - Basic First Aid  
@@ -45,12 +48,14 @@ title: Training
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/UOC-Logo_2010.jpg" alt="UoC Logo" width="167" height="55" style="float:left"/>  
 #### Bevris Ltd:  
 - Health & Safety in the Workplace  
 - Communicating effectively  
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/UOC-Logo_2010.jpg" alt="UoC Logo" width="167" height="55" style="float:right"/>  
 #### Halls of residence - 6 Days Student Warden Training (2015 & 2016 - 2 Training sessions) 
 - Health & Safety  
 - Fire marshalling  
