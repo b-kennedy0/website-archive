@@ -26,7 +26,7 @@ title: Training
 - Preventing unconscious biases workshop  
 - Providing effective feedback workshop  
 - Equality & diversity training  
--Anti-bribery training  
+- Anti-bribery training  
 - Data protection  
 - Prevent in Higher Education  
 
