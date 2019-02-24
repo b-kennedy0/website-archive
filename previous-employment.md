@@ -2,21 +2,14 @@
 layout: page
 title: Previous Employment
 ---
-<table style="border-color: #ff0000; margin-left: auto; margin-right: auto;" border="2">
-<tbody>
-<tr>
-<td>
-<h3 style="text-align: center;"><span style="text-decoration: underline;"><strong><span style="color: #ff0000; text-decoration: underline;">! UNDER CONSTRUCTION !</span></strong></span></h3>
-</td>
-</tr>
-</tbody>
-</table>
-
+<img src="https://b-kennedy0.github.io/img/logos/app.jpg" alt="Phone App" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Application development - Halls of Residence, Bangor University  
 ##### _August 2017_
 Contracted to develop an application for inspection administration to aid the Operations team of Bangor University Halls of Residence  
 
 ---
+
+<img src="https://b-kennedy0.github.io/img/logos/Halls picture.jpg" alt="Bangor Halls" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Ffriddoedd Village Student Warden - Bangor University  
 ##### _June 2015- August 2017_  
 [View Website](https://www.bangor.ac.uk/accommodation/halls/wardens.php.en)  
@@ -24,6 +17,7 @@ Ensuring student welfare and attending to matters of a disciplinary nature. Prov
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/people.png" alt="People Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Peer Guide Facilitator - Student Services Bangor University
 ##### _October 2014 - August 2017_  
 [Link to website](https://www.bangor.ac.uk/studentservices/peer_guides/index.php.en)  
@@ -32,6 +26,7 @@ Run information sessions about the Peer Guiding Scheme. Recruit volunteers for t
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/serve legal.png" alt="Serve Legal Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Serve Legal - Media Compliance Team
 ##### _October 2016 - August 2017_  
 [Link to website](http://www.servelegal.co.uk/)  
@@ -39,6 +34,7 @@ Covert visitor to licensed sites to determine compliance with UK Media licensing
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/gts logo.png" alt="GTs Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Temporary Supervisor - GT's Bar & Grill, Wepre Lane
 ##### _June 2016 - August 2016_   
 [Link to website](http://www.gtsbargrill.co.uk/)  
@@ -46,6 +42,7 @@ Part-time summer work - Waiting on duties, Staff Training and development, Resta
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/bangor_psych.jpg" alt="Bangor Psychology Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Psychology Oral Presentation Practice Session Mentor - School of Psychology, Bangor University
 ##### _November 2014 - May 2016_  
 [Link to website](https://www.bangor.ac.uk/psychology/)   
@@ -53,6 +50,7 @@ Student Mentor to run a class of up to 20 HE Students. Responsibilities included
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/age verify.jpg" alt="Age Verify Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Serve Legal - Age Verification Compliance Visitor
 ##### _May 2014 - August 2015_  
 [Link to website](http://www.servelegal.co.uk/)  
@@ -60,6 +58,7 @@ Covert visitor to clients of Serve Legal to test purchase their age restricted p
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/BEA_logo_en.png" alt="BEA Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Bangor Employability Award Office Summer Internship - Bangor University, Student Services
 ##### _May 2015 - July 2015 (3 Month internship)_  
 [Link to Newsletter interview](https://onedrive.live.com/redir?resid=25072B20749E0760!985&authkey=!APv4G6zeaWtkGuE&ithint=file%252cpdf)   
@@ -71,18 +70,21 @@ _Skills:_ Developed administrative organisational skills. Developed skills in da
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/email-logo.png" alt="Email Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Psychology Email Buddy - Bangor University, School of Psychology
 ##### _November 2014 - June 2015_  
 Responsible for contacting prospective students who are interested in coming to Bangor University to study Psychology. Responding to questions/inquiries and concerns of the prospective students in order for them to make a decision about the University's suitability for them.
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/tnt-logo-official.gif" alt="TNT Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Billing Centre Clerk - TNT Deeside, Wales
 ##### _August 2014 - September 2014_  
 Temporary administration and financial work. UK Billing Centre for TNT main administration.
 
 ---
 
+<img src="https://b-kennedy0.github.io/img/logos/palomino.jpg" alt="Palomino Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Restaurant Manager & Fire Warden - Bevris Ltd The Palomino, Wepre
 ##### _February 2012 - May 2015_  
 Management of staff and customers. Coordinating work force. Ensuring high quality training and service. Fire equipment service checks including fire alarm tests and fire drills with customers.
