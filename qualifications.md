@@ -2,16 +2,6 @@
 layout: page
 title: Academic Qualifications
 ---
-<table style="border-color: #ff0000; margin-left: auto; margin-right: auto;" border="2">
-<tbody>
-<tr>
-<td>
-<h3 style="text-align: center;"><span style="text-decoration: underline;"><strong><span style="color: #ff0000; text-decoration: underline;">! UNDER CONSTRUCTION !</span></strong></span></h3>
-</td>
-</tr>
-</tbody>
-</table>
-
 # Current:
 ### PhD Psychology 
 _2017 - Present_ ([University of Chester](https://www1.chester.ac.uk/)) - See [Research Tab](https://bradleykennedy.co.uk/research/)  
