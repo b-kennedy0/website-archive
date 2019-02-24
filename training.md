@@ -23,9 +23,10 @@ title: Training
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/632vgscrest.png" alt="632VGS Logo" width="85" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://b-kennedy0.github.io/img/logos/632vgscrest.png" alt="632VGS Logo" width="85" height="110" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 #### Royal Air Force Air Cadet Organisation - Volunteer Gliding Squadron:  
-- St Johns Ambulance Activity First Aid (Valid until 22/01/20)  
+- St Johns Ambulance Activity First Aid (Valid until 22/01/20)   
+<p> &nbsp; </p>
 
 ---
 
@@ -42,6 +43,7 @@ title: Training
 #### Bevris Ltd:  
 - Health & Safety in the Workplace  
 - Communicating effectively  
+<p>&nbsp;</p>
 
 ---
 
