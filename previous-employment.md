@@ -27,9 +27,8 @@ title: Previous Employment
 
 #### Peer Guide Facilitator - Student Services Bangor University
 ##### _October 2014 - August 2017_  
-Link to website https://www.bangor.ac.uk/studentservices/peer_guides/index.php.en 
-
-Link to view video of the peer guides we train https://youtu.be/tkEO0SyRp3w 
+[Link to website](https://www.bangor.ac.uk/studentservices/peer_guides/index.php.en)  
+[Link to view video of the peer guides we train](https://youtu.be/tkEO0SyRp3w)
 
 >Run information sessions about the Peer Guiding Scheme. Recruit volunteers for the role. Provide training to new and returning Peer Guides. Run focus groups in order to gather qualitative data about past experiences with the scheme from both students and the peer guides.
 
@@ -37,7 +36,7 @@ Link to view video of the peer guides we train https://youtu.be/tkEO0SyRp3w
 
 #### Serve Legal - Media Compliance Team
 ##### _October 2016 - August 2017_  
-Link to website http://www.servelegal.co.uk/ 
+[Link to website](http://www.servelegal.co.uk/) 
 
 >Covert visitor to licensed sites to determine compliance with UK Media licensing laws.
 
@@ -45,7 +44,7 @@ Link to website http://www.servelegal.co.uk/
 
 #### Temporary Supervisor - GT's Bar & Grill, Wepre Lane
 ##### _June 2016 - August 2016_   
-Link to website http://www.gtsbargrill.co.uk/ 
+[Link to website](http://www.gtsbargrill.co.uk/)  
 
 >Part-time summer work - Waiting on duties, Staff Training and development, Restaurant supervision
 
@@ -53,7 +52,7 @@ Link to website http://www.gtsbargrill.co.uk/
 
 #### Psychology Oral Presentation Practice Session Mentor - School of Psychology, Bangor University
 ##### _November 2014 - May 2016_  
-Link to website https://www.bangor.ac.uk/psychology/ 
+[Link to website](https://www.bangor.ac.uk/psychology/)   
 
 >Student Mentor to run a class of up to 20 HE Students. Responsibilities included facilitating peer feedback on oral presentations in academic style. Providing critical evaluations for presentations. Keeping of basic administration including registrations and individual student tracker sheets. This role also included providing individual support to students with Personal Learning Support Plans. This support was in the form of short one to one meetings to discuss causes of anxiety with the specific students and methods to assist their learning and progression in the class.
 
@@ -61,7 +60,7 @@ Link to website https://www.bangor.ac.uk/psychology/
 
 #### Serve Legal - Age Verification Compliance Visitor
 ##### _May 2014 - August 2015_  
-Link to website http://www.servelegal.co.uk/
+[Link to website](http://www.servelegal.co.uk/)  
 
 >Covert visitor to clients of Serve Legal to test purchase their age restricted products to determine client compliance with UK law and testing procedures. Clients including Supermarkets, betting shops, corner stores, service stations, hotels etc.
 
@@ -69,7 +68,7 @@ Link to website http://www.servelegal.co.uk/
 
 #### Bangor Employability Award Office Summer Internship - Bangor University, Student Services
 ##### _May 2015 - July 2015 (3 Month internship)_  
-Link to Newsletter interview https://onedrive.live.com/redir?resid=25072B20749E0760!985&authkey=!APv4G6zeaWtkGuE&ithint=file%252cpdf 
+[Link to Newsletter interview](https://onedrive.live.com/redir?resid=25072B20749E0760!985&authkey=!APv4G6zeaWtkGuE&ithint=file%252cpdf)   
 
 >Paid summer internship in the Bangor Employability Award (BEA) office leading a project titled: "Students' Union Clubs and Societies Recognition Project"
 
