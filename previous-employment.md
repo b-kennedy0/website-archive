@@ -14,13 +14,12 @@ title: Previous Employment
 
 #### Application development - Halls of Residence, Bangor University  
 ##### _August 2017_
-Contracted to develop an application for inspection administration to aid the Operations team of Bangor University Halls of Residence
+Contracted to develop an application for inspection administration to aid the Operations team of Bangor University Halls of Residence  
 
 ---
-
 #### Ffriddoedd Village Student Warden - Bangor University  
 ##### _June 2015- August 2017_  
-[View Website](https://www.bangor.ac.uk/accommodation/halls/wardens.php.en) 
+[View Website](https://www.bangor.ac.uk/accommodation/halls/wardens.php.en)  
 Ensuring student welfare and attending to matters of a disciplinary nature. Providing students with advice and support throughout their residence. Ensuring a community feel to the Halls Village. Providing accurate and relevant information to students and family/friends of students. To be an accurate sign-poster to key university support systems. Rota system On-Duty shifts which involve responding to site call outs for emergencies and welfare reasons. Performing an active role during fire drills each semester. Conducting weekly visits to the flats encompassed in my care.
 
 ---
@@ -28,14 +27,14 @@ Ensuring student welfare and attending to matters of a disciplinary nature. Prov
 #### Peer Guide Facilitator - Student Services Bangor University
 ##### _October 2014 - August 2017_  
 [Link to website](https://www.bangor.ac.uk/studentservices/peer_guides/index.php.en)  
-[Link to view video of the peer guides we train](https://youtu.be/tkEO0SyRp3w)
+[Link to view video of the peer guides we train](https://youtu.be/tkEO0SyRp3w)  
 Run information sessions about the Peer Guiding Scheme. Recruit volunteers for the role. Provide training to new and returning Peer Guides. Run focus groups in order to gather qualitative data about past experiences with the scheme from both students and the peer guides.
 
 ---
 
 #### Serve Legal - Media Compliance Team
 ##### _October 2016 - August 2017_  
-[Link to website](http://www.servelegal.co.uk/) 
+[Link to website](http://www.servelegal.co.uk/)  
 Covert visitor to licensed sites to determine compliance with UK Media licensing laws.
 
 ---
