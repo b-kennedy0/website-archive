@@ -11,7 +11,7 @@ title: Publications & Awards
 ---
 
 # Publications and Conferences {#publications}
-**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2019). Knobe (2003) Replication study. University of Chester PGR Symposium 2019 (*February 21, 2019*).
+**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (*February 21, 2019*).
 
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *in press*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. In press.
 
@@ -41,6 +41,10 @@ Organising Committee & Chairing Sessions - PGR Symposium, University of Chester 
 *Awarded*: Best Oral Presentation (runner-up) cash prize @ BPS Welsh Branch Annual Student Conference (*April 2017*, Image below)
 
 *Awarded*: Gold Scholarship for Postgraduate study, Bangor University - (£3,000). *September 2016*
+
+
+<img style="float:left;" src="/img/BPS Conference.jpg" alt="BPS Welsh Branch Conference 2017" width="350" height="300" />b-kennedy0.github.io/img/BPS Conferene 2017.jpg
+
 
 Student Nomination (2018)
 >"Brad has been an inspiration to all students in his lab classes. He goes beyond to help everyone and makes sure we all understand. He is always there if you need help in your statistics."  
