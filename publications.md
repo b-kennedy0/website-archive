@@ -42,7 +42,7 @@ Organising Committee & Chairing Sessions - PGR Symposium, University of Chester 
 
 *Awarded*: Gold Scholarship for Postgraduate study, Bangor University - (£3,000). *September 2016*
 
-<img src="https://b-kennedy0.github.io/img/BPS Conference 2017.jpg" alt="BPS Welsh Branch Conference 2017" width="290" height="190" style="border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://b-kennedy0.github.io/img/BPS Conference 2017.jpg" alt="BPS Welsh Branch Conference 2017" width="290" height="190" style="border-width: 10px; margin-right: auto; margin-left: auto; display: block;"/>  
 
 Student Nomination (2018)
 >"Brad has been an inspiration to all students in his lab classes. He goes beyond to help everyone and makes sure we all understand. He is always there if you need help in your statistics."  
