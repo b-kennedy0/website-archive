@@ -43,7 +43,9 @@ Organising Committee & Chairing Sessions - PGR Symposium, University of Chester 
 *Awarded*: Gold Scholarship for Postgraduate study, Bangor University - (£3,000). *September 2016*
 
 
-<img style="float:left;" src="/img/BPS Conference.jpg" alt="BPS Welsh Branch Conference 2017" width="350" height="300" />b-kennedy0.github.io/img/BPS Conferene 2017.jpg
+<img style="float:left;" src="/img/BPS Conference.jpg" alt="BPS Welsh Branch Conference 2017" width="350" height="300" />
+
+b-kennedy0.github.io/img/BPS Conferene 2017.jpg
 
 
 Student Nomination (2018)
