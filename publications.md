@@ -45,6 +45,7 @@ Organising Committee & Chairing Sessions - PGR Symposium, University of Chester 
 
 <img src="https://b-kennedy0.github.io/img/BPS Conference 2017.jpg" alt="BPS Welsh Branch Conference 2017" width="290" height="190" style="border-width: 10px; margin-right: auto; margin-left: auto; display: block;"/>  
 
+---
 # Student Feedback {#studentfeedback}
 Student Nomination (2018)
 >"Brad has been an inspiration to all students in his lab classes. He goes beyond to help everyone and makes sure we all understand. He is always there if you need help in your statistics."  
