@@ -2,22 +2,15 @@
 layout: page
 title: Volunteering
 ---
-<table style="border-color: #ff0000; margin-left: auto; margin-right: auto;" border="2">
-<tbody>
-<tr>
-<td>
-<h3 style="text-align: center;"><span style="text-decoration: underline;"><strong><span style="color: #ff0000; text-decoration: underline;">! UNDER CONSTRUCTION !</span></strong></span></h3>
-</td>
-</tr>
-</tbody>
-</table>
 
 632 vgs fb https://www.facebook.com/632SqnVGS/ 
 632 vgs website https://632vgs.co.uk/ 
 
-### Civilian Gliding Instructor
-_Currently: 632 VGS (Volunteer Gliding Squadron), RAF Tern hill_
-(May 2018 - Present)
+### Civilian Gliding Instructor  
+_Currently: 632 VGS (Volunteer Gliding Squadron), RAF Tern hill_  
+(May 2018 - Present)  
+
+
 
 Aircraft: Grob 103 (Viking)https://www.raf.mod.uk/aircraft/viking-t1/ 
 
