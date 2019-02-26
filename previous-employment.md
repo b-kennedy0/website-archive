@@ -12,7 +12,7 @@ Contracted to develop an application for inspection administration to aid the Op
 <img src="https://b-kennedy0.github.io/img/logos/Halls picture.jpg" alt="Bangor Halls" width="175" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Ffriddoedd Village Student Warden - Bangor University  
 ##### _June 2015- August 2017_  
-[View Website](https://www.bangor.ac.uk/accommodation/halls/wardens.php.en)  
+[View Website](https://www.bangor.ac.uk/accommodation/halls/mentors.php.en)  
 Ensuring student welfare and attending to matters of a disciplinary nature. Providing students with advice and support throughout their residence. Ensuring a community feel to the Halls Village. Providing accurate and relevant information to students and family/friends of students. To be an accurate sign-poster to key university support systems. Rota system On-Duty shifts which involve responding to site call outs for emergencies and welfare reasons. Performing an active role during fire drills each semester. Conducting weekly visits to the flats encompassed in my care.
 
 ---
