@@ -17,6 +17,8 @@ _Previous: 631 VGS (Volunteer Gliding Squadron), RAF Woodvale_
 [631 VGS Website](http://631vgs.com/)   
 Aircraft: Grob 109b (Vigilant)
 
+---
+
 _Gliding scholarship & Advanced training from Oct 2011 - Sep 2012_  
 Based at Royal Air Force Woodvale in the North West, 631 VGS was tasked to provide gliding training to affiliated cadets of the Air Training Corps (ATC) and Combined Cadet Force (CCF) in addition to training and developing our own staff to help us achieve this. Achieved Grade 1 Pilot status.
 
