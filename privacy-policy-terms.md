@@ -2,6 +2,8 @@
 layout: page
 title: Privacy Policy & Terms of Use
 ---
+<a href="#" onclick="document.cookie='cookiebar=;expires=Thu, 01 Jan 1970 00:00:01 GMT;path=/'; setupCookieBar(); return false;">Click here to revoke the Cookie consent</a>
+
 # Effective date: October 09, 2018
 *Bradley Kennedy Mobile* ("us", "we", or "our") operates the www.bradleykennedy.co.uk website and the Bradley Kennedy Mobile mobile application (the "Service").  
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
