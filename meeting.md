@@ -8,7 +8,7 @@ title: Meet with...
 <tbody>
 <tr>
 <td style="width: 143px;">
-<h1 id="brad" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Brad</a></h1>
+<h1 id="brad" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Brad</a></h1>
 </td>
 </tr>
 <tr>
