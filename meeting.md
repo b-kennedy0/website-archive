@@ -8,27 +8,27 @@ title: Meet with...
 <tbody>
 <tr>
 <td>
-<h1 id="brad-kennedy" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Brad Kennedy</a></h1>
+<h1 id="brad" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Brad</a></h1>
 </td>
 </tr>
 <tr>
 <td>
-<h1 id="sam-ashcroft" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_sam/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Sam Ashcroft</a></h1>
+<h1 id="sam" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_sam/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Sam</a></h1>
 </td>
 </tr>
 <tr>
 <td>
-<h1 id="dale-chandler" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_dale/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Dale Chandler</a></h1>
+<h1 id="dale" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_dale/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Dale</a></h1>
 </td>
 </tr>
 <tr>
 <td>
-<h1 id="connor-pell" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_connor/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Connor Pell</a></h1>
+<h1 id="connor" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_connor/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Connor</a></h1>
 </td>
 </tr>
 <tr>
 <td>
-<h1 id="segio-gonzalez-diaz" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_sergio/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Segio Gonzalez Diaz</a></h1>
+<h1 id="segio" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_sergio/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA">Segio</a></h1>
 </td>
 </tr>
 </tbody>
