@@ -5,7 +5,7 @@ title: Meet with...
 
 # _Select the person your meeting is with:_
 
-##  [Brad Kennedy](https://maker.ifttt.com/trigger/brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA)  
+##  [Brad Kennedy](https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA)  
 
 ## [Sam Ashcroft]()  
 
