@@ -3,7 +3,7 @@ layout: minimal
 title: Meet with...
 ---
 
-<h1 id="select-the-person-your-meeting-is-with" style="text-align: center;"><em>Select the person your meeting is with:</em>&nbsp;</h1>
+<h1 id="title" style="text-align: center;"><em>Select the person you're meeting:</em>&nbsp;</h1>
 <table style="height: 386px; margin-left: auto; margin-right: auto;" border="10" width="173" cellspacing="10" cellpadding="2">
 <tbody>
 <tr>
