@@ -8,7 +8,7 @@ title: Meet with...
 <tbody>
 <tr>
 <td style="width: 148px;">
-<h1 id="arrived button" style="text-align: center;"><span style="text-decoration: underline;">Arrived</span></h1>
+<h1 id="arrived button" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Arrived</span></h1>
 </td>
 </tr>
 </tbody>
