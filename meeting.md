@@ -4,7 +4,7 @@ title: Meet with...
 ---
 
 <h1 id="title" style="text-align: center;"><em>Click below to notify of your arrival:</em></h1>
-<table style="height: 78px; background-color: #7def40; border-color: #8bef56; margin-left: auto; margin-right: auto;" border="10" width="194" cellspacing="10" cellpadding="2">
+<table style="height: 78px; margin-left: auto; margin-right: auto;" border="10" width="194" cellspacing="10" cellpadding="2">
 <tbody>
 <tr>
 <td style="width: 148px;">
