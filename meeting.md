@@ -3,7 +3,18 @@ layout: minimal
 title: Meet with...
 ---
 
-<h1 id="title" style="text-align: center;"><em>Select the person you're meeting:</em>&nbsp;</h1>
+<h1 id="title" style="text-align: center;"><em>Click below to notify of your arrival:</em></h1>
+<table style="height: 78px; margin-left: auto; margin-right: auto;" border="10" width="194" cellspacing="10" cellpadding="2">
+<tbody>
+<tr>
+<td style="width: 148px;">
+<h1 id="arrived button" style="text-align: center;"><span style="text-decoration: underline;">Arrived</span></h1>
+</td>
+</tr>
+</tbody>
+</table>
+
+<!--- <h1 id="title" style="text-align: center;"><em>Select the person you're meeting:</em>&nbsp;</h1>
 <table style="height: 386px; margin-left: auto; margin-right: auto;" border="10" width="173" cellspacing="10" cellpadding="2">
 <tbody>
 <tr>
@@ -33,5 +44,6 @@ title: Meet with...
 </tr>
 </tbody>
 </table>
+---!>
 
 ---
