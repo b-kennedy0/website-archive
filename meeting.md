@@ -14,7 +14,8 @@ title: Meet with...
 </tbody>
 </table>
 
-<!--- <h1 id="title" style="text-align: center;"><em>Select the person you're meeting:</em>&nbsp;</h1>
+<!--
+<h1 id="title" style="text-align: center;"><em>Select the person you're meeting:</em>&nbsp;</h1>
 <table style="height: 386px; margin-left: auto; margin-right: auto;" border="10" width="173" cellspacing="10" cellpadding="2">
 <tbody>
 <tr>
@@ -44,6 +45,6 @@ title: Meet with...
 </tr>
 </tbody>
 </table>
----!>
+-->
 
 ---
