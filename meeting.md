@@ -14,7 +14,7 @@ title: Meet with...
 </tbody>
 </table>
 
-
+<!--
 <script type="text/javascript">
 function randomlinks(){
     var myrandom=Math.round(Math.random()*9)
@@ -36,6 +36,7 @@ function randomlinks(){
 <form>
 <input type="button" value="random link!" onClick="randomlinks()">
 </form>
+-->
 
 <!--
 <h1 id="title" style="text-align: center;"><em>Select the person you're meeting:</em>&nbsp;</h1>
