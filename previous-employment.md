@@ -26,6 +26,19 @@ Run information sessions about the Peer Guiding Scheme. Recruit volunteers for t
 
 ---
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-5185156449570385"
+     data-ad-slot="3753669067"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+---
+
 <img src="https://b-kennedy0.github.io/img/logos/serve legal.png" alt="Serve Legal Logo" width="160" height="60" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Serve Legal - Media Compliance Team
 ##### _October 2016 - August 2017_  
