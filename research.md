@@ -10,6 +10,7 @@ title: Research
 
 <p><em>*(requires Faceboook log-in)</em></p>
 
+Got a question? Email me: research@bradleykennedy.co.uk
 ---
 
 <!---
