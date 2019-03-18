@@ -10,7 +10,9 @@ title: Research
 
 <p><em>*(requires Faceboook log-in)</em></p>
 
-Got a question? Email me: research@bradleykennedy.co.uk
+<h2 style="text-align: center;">Got a question? Email me:</h2>
+<h2 style="text-align: center;"><a href="mailto:research@bradleykennedy.co.uk">research@bradleykennedy.co.uk</a></h2>
+
 ---
 
 <!---
