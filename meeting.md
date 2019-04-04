@@ -14,7 +14,7 @@ title: Meet with...
 </tbody>
 </table>
 <p>&nbsp;</p>
-<p><a href="file:///Y:\PhD\Studys\Study%201\Thanks for taking part!.ppsx">Text</a></p>
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://b-kennedy0.github.io/Thanks for taking part!.ppsx]' width='100%' height='600px' frameborder='0'>
 
 <!--
 <script type="text/javascript">
