@@ -10,9 +10,8 @@ title: Meet with...
 <td style="width: 195px;">
 <h1 id="arrived button" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');">Meeting</a></h1>
 </td>
-<td style="width: 100px;">
-<h2><strong>OR</strong></h2>
-</td>
+</tr>
+<tr>
 <td style="width: 195px;">
 <h1 style="text-align: center;"><a href="https://maker.ifttt.com/trigger/participant/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');">Participant</a></h1>
 </td>
