@@ -2,13 +2,16 @@
 layout: minimal
 title: Meet with...
 ---
-
-<h1 id="title" style="text-align: center;"><em>Click below to notify of your arrival:</em></h1>
-<table style="height: 78px; margin-left: auto; margin-right: auto;" border="10" width="194" cellspacing="10" cellpadding="2">
+<h1 id="title" style="text-align: center;"><em>Click below to notify of your arrival </em></h1>
+<h2 style="text-align: center;">Are you here for a Meeting or as a Participant?</h2>
+<table style="height: 99px; margin-left: auto; margin-right: auto;" border="10" width="184" cellspacing="10" cellpadding="2">
 <tbody>
 <tr>
-<td style="width: 148px;">
-<h1 id="arrived button" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Arrived</span></a></h1>
+<td style="width: 138px;">
+<h1 id="arrived button" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Meeting</span></h1>
+</td>
+<td style="width: 138px;">
+<h1 style="text-align: center;"><a href="https://maker.ifttt.com/trigger/participant/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Participant</span></h1>
 </td>
 </tr>
 </tbody>
