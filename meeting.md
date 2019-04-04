@@ -8,12 +8,10 @@ title: Meet with...
 <tbody>
 <tr>
 <td style="width: 138px;">
-<h1 id="arrived button" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Meeting</span>
-    </h1>
+<h1 id="arrived button" style="text-align: center;"><a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Meeting</a></span></h1>
 </td>
 <td style="width: 138px;">
-<h1 style="text-align: center;"><a href="https://maker.ifttt.com/trigger/participant/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Participant</span>
-    </h1>
+<h1 style="text-align: center;"><a href="https://maker.ifttt.com/trigger/participant/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');"><span style="text-decoration: underline;">Participant</a></span></h1>
 </td>
 </tr>
 </tbody>
