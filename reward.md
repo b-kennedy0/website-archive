@@ -4,4 +4,4 @@ title: Thank you
 ---
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT6uYdVIWwyOVfqbMxtdLhowJfKAS0NT1zcOIgxM2pZCt7-Cb2Y0jGymMEgL8o2XbqL4SJG8OwMHeOD/embed?start=true&loop=false&delayms=10000000000&rm=minimal" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://outlooklivechesterac-my.sharepoint.com/personal/b_kennedy_chester_ac_uk/_layouts/15/Doc.aspx?sourcedoc={36f5b40f-62c7-4c01-b72f-1bb71097864d}&amp;action=embedview&amp;wdAr=1.7777777777777777&amp;wdEaa=1" width="1186px" height="691px" frameborder="0"></iframe>
