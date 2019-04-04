@@ -13,6 +13,8 @@ title: Meet with...
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
+<p><a href="file:///Y:\PhD\Studys\Study%201\Thanks for taking part!.ppsx">Text</a></p>
 
 <!--
 <script type="text/javascript">
