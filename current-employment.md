@@ -31,12 +31,12 @@ Data Science Society
 University of Chester  
 _September 2018 - Present_  
 
-**Member -**  
+**Student Representative for the Faculty of Social Science -**  
 Postgraduate Sub-Committee  
 University of Chester  
 _October 2018 - Present_  
 
-**PGR Student Representative -**  
+**Representative for the University Postgraduate Student body -**  
 Research & Knowledge Transfer Office Committee  
 University of Chester  
 _November 2018 - Present_  
