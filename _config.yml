@@ -81,7 +81,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "hello@bradleykennedy.co.uk"
+  email: contact/
 #  facebook: bradleykennedy
 #  github: daattali
   twitter: kennedybj
