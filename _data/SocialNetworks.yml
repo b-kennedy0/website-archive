@@ -48,7 +48,8 @@ google-plus:
 
 email:
   name: "Email me"
-  baseURL: "mailto:"
+#  baseURL: "mailto:"
+  baseURL: "https://bradleykennedy.co.uk/"
   icon: "fas fa-envelope"
 
 linkedin:
