@@ -20,7 +20,9 @@ layout: page
 <td style="width: 198px;">
 <h3 style="text-align: center;"><strong>632 WEIGHT APP</strong></h3>
 </td>
-<td style="width: 198px; text-align: center;"><strong>NOT IN USE</strong></td>
+<td style="width: 198px;">
+<h3 style="text-align: center;"><strong>NOT IN USE</strong></h3>
+</td>
 </tr>
 </tbody>
 </table>
