@@ -2,7 +2,6 @@
 title: Apps
 layout: page
 ---
-<h1 style="text-align: center;">AVAILABLE APPS</h1>
 
 ---
 
