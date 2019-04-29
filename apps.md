@@ -21,7 +21,7 @@ layout: page
 <h3 style="text-align: center;"><strong>632 WEIGHT APP</strong></h3>
 </td>
 <td style="width: 198px;">
-<h3 style="text-align: center;"><strong>NOT IN USE</strong></h3>
+<h3 style="text-align: center;"><strong>NOT AVAILABLE</strong></h3>
 </td>
 </tr>
 </tbody>
