@@ -15,7 +15,7 @@ title: Publications & Awards
 # Publications and Conferences {#publications}  
 **Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (*February 21, 2019*).
 
-Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *in press*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. In press.
+Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *under review*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. Under review.
 
 **Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2018). Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1>
 
