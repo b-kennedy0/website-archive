@@ -5,6 +5,8 @@ layout: page
 
 Teaching page
 
+# Check out my [teaching awards](https://bradleykennedy.co.uk/publications/#awards)  
+
 ---
 
 # Student Feedback {#studentfeedback}
