@@ -10,7 +10,8 @@ title: Publications & Awards
 **[Student Feedback](#studentfeedback)**  
 **[Open Science Framework](#osf)**  
 
---- {#publications}
+--- 
+{#publications}
 
 # Publications and Conferences  
 **Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (*February 21, 2019*).
@@ -34,7 +35,8 @@ Organising Committee & Chairing Sessions - PGR Symposium, University of Chester 
 
 Co-presented workshop "Becoming an Open Scientist: Lessons from the Replication Crisis" - University of Chester Research Festival (*8th April 2019*). Dr Suzanne Stewart & Mr Bradley J Kennedy. <https://www.chester.ac.uk/research/festival>  
 
---- {#awards}
+--- 
+{#awards}
 # Awards 
 <p><img style="float: right;" src="/img/most inspiring lec award 2018.jpg" alt="Most Inspiring Lecturer" width="220" height="300" /></p> <p><img style="float: right;" src="/img/outstanding academic award 2018.jpg" alt="Outstanding Academic Award" width="220" height="300" /></p>
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
