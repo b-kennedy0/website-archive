@@ -67,7 +67,7 @@ Student Module Evaluation (2019)
 >"Brad is very helpful in lab class, he explains things well and gives constructive feedback."
 
 Student End-of-Year Evaluation (2019)
->"I found the labs to be very useful in gaining an understanding of what was expected of me in the assessments. Without the lab class i feel I would have really struggled in gain the level of understanding I have. My lab tutor was incredibly understanding of my needs and willing to provide support as and when required."  
+>"I found the labs to be very useful in gaining an understanding of what was expected of me in the assessments. Without the lab class I feel I would have really struggled to gain the level of understanding I have. My lab tutor was incredibly understanding of my needs and willing to provide support as and when required."  
 
 ---
 
