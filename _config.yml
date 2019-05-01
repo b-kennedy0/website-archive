@@ -29,13 +29,13 @@ navbar-links:
   Home: ""
   Academia:
     - Research: "research"
-        Open Science: "open-science"
+    - Open Science: "open-science"
     - Teaching: "teaching"
     - Qualifications: "qualifications"
     - Publications & Awards: "publications"
-    - Training: "training"
   Employment:
     - Current Employment: "current-employment"
+    - Training: "training"
     - Previous Employment: "previous-employment"
     - Volunteering: "volunteering"
   #Blog: "blog"
