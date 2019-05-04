@@ -52,6 +52,11 @@ email:
   baseURL: "https://bradleykennedy.co.uk/"
   icon: "fas fa-envelope"
 
+apps:
+  name:"Check out my apps"
+  baseURL: "https://bradleykennedy.co.uk/"
+  icon: "fab fa-app-store-ios"
+
 linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
