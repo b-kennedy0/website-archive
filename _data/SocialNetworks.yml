@@ -53,7 +53,7 @@ email:
   icon: "fas fa-envelope"
 
 apps:
-  name:"Check out my apps"
+  name: "Check out my apps"
   baseURL: "https://bradleykennedy.co.uk/"
   icon: "fab fa-app-store-ios"
 
