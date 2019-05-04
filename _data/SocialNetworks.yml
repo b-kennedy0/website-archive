@@ -55,7 +55,7 @@ email:
 apps:
   name: "Check out my apps"
   baseURL: "https://bradleykennedy.co.uk/"
-  icon: "fab fa-app-store"
+  icon: "fab fa-app-store-ios"
 
 linkedin:
   name: "LinkedIn"
