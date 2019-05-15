@@ -6,7 +6,7 @@ layout: page
 Open Science represents a new approach to the scientific process based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools ([European Commission, 2016b:33](https://www.fosteropenscience.eu/node/1431#ec2016b)).  
 Open Science is about extending the principles of openness to the whole research cycle (see figure 1), fostering sharing and collaboration as early as possible thus entailing a systemic change to the way science and research is done. - [FOSTER](https://www.fosteropenscience.eu/content/what-open-science-introduction)
 
-![Research Work Cycle]("https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/OpenScienceResearchInitiative-ResearchLifecycle.png")
+<p><img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/OpenScienceResearchInitiative-ResearchLifecycle.png?raw=true" alt="Open Research Cycle" width="690" height="450" /></p>  
 _Figure 1._ Promoting openness at different stages of the research process ([Open Science and Research Initiative, 2014](https://www.fosteropenscience.eu/node/1431#osri2014))
 
 
