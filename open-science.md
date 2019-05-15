@@ -1,7 +1,7 @@
 ---
 title: Open Science
 layout: page
-bigimg: /img/osf circles.png
+bigimg: "/img/osf circles.png"
 ---
 # What is Open Science? 
 Open Science represents a new approach to the scientific process based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools ([European Commission, 2016b:33](https://www.fosteropenscience.eu/node/1431#ec2016b)).  
