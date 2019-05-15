@@ -2,14 +2,16 @@
 title: Open Science
 layout: page
 ---
+# What is Open Science? 
+Open Science represents a new approach to the scientific process based on cooperative work and new ways of diffusing knowledge by using digital technologies and new collaborative tools ([European Commission, 2016b:33](https://www.fosteropenscience.eu/node/1431#ec2016b)).  
+Open Science is about extending the principles of openness to the whole research cycle (see figure 1), fostering sharing and collaboration as early as possible thus entailing a systemic change to the way science and research is done. - [FOSTER](https://www.fosteropenscience.eu/content/what-open-science-introduction)
 
-Open Science Page
+![Research Work Cycle]("/img/OpenScienceResearchInitiative-ResearchLifecycle.png")
+_Figure 1._ Promoting openness at different stages of the research process ([Open Science and Research Initiative, 2014](https://www.fosteropenscience.eu/node/1431#osri2014))
 
----
 
----
+# Open Science Framework
 
-# Open Science Framework {#osf}
 **Kennedy, B. J.** (2019, February 11). “Did they mean to?” – A study of Intentions, praise and blame; Study 1. <https://doi.org/10.17605/OSF.IO/KNCEA>
 
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of agents and recipients modulates the side-effect effect. <https://osf.io/5mgkn>
@@ -19,6 +21,7 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, September 25). Valence of ag
 **Kennedy, B. J.**, Scudds, A., & Stewart, S. (2018, June 11). A pilot study - Investigating the social opinions of job roles and working sectors. <https://doi.org/10.17605/OSF.IO/W279R>
 
 **Kennedy, B. J.** (2018, June 11). Research Participation ChatBot. <https://doi.org/10.17605/OSF.IO/XJZ98>
+
 
 *Click OSF Logo below for Profile Page*  
 
