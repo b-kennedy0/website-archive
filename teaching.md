@@ -2,14 +2,10 @@
 title: Teaching
 layout: page
 ---
+<h3><span style="text-decoration: underline;"><strong>Student Feedback 2018-2019</strong></span><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/2018-9_StudentFeedback.png?raw=true" alt="2018-2019 Student Feedback" width="693" height="441" /></h3>
 
-Teaching page
+# Student Feedback
 
-# Check out my [teaching awards](https://bradleykennedy.co.uk/publications/#awards)  
-
----
-
-# Student Feedback {#studentfeedback}
 Student Nomination (2018)
 >"Brad has been an inspiration to all students in his lab classes. He goes beyond to help everyone and makes sure we all understand. He is always there if you need help in your statistics."  
 
@@ -24,5 +20,8 @@ Student Module Evaluation (2019)
 
 Student End-of-Year Evaluation (2019)
 >"I found the labs to be very useful in gaining an understanding of what was expected of me in the assessments. Without the lab class I feel I would have really struggled to gain the level of understanding I have. My lab tutor was incredibly understanding of my needs and willing to provide support as and when required."  
+
+---
+### Check out my [teaching awards!](https://bradleykennedy.co.uk/publications/#awards)  
 
 ---
