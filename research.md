@@ -72,7 +72,7 @@ Undergraduate BSc project 'Psychology with Neuropsychology'
 
 ---
 
-<h3 style="text-align: center;">Got a question? Email me:</h3>
+<h3 style="text-align: center;">Got a question?</h3>
 <h3 style="text-align: center;"><a href="mailto:research@bradleykennedy.co.uk">research@bradleykennedy.co.uk</a></h3>
 
 [Back to Top](#TopOfPage)
