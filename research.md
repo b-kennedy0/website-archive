@@ -4,6 +4,8 @@ title: Research
 ---
 <a name="TopOfPage"></a>
 
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; img-src https://*; child-src 'none';">
+
 <script>
   var div = document.createElement('div');
   div.className = 'fb-customerchat';
@@ -38,30 +40,6 @@ title: Research
     }(document, 'script', 'facebook-jssdk'));
   }, 0);
 </script>
-
-<!-- Load Facebook SDK for JavaScript -->
-<div id="fb-root"></div>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      xfbml            : true,
-      version          : 'v3.3'
-    });
-  };
-
-  (function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<!-- Your customer chat code -->
-
-<div class="fb-customerchat"
-  page_id="421258858310082">
-  </div>
 
 <!--- <h2 style="text-align: center;"><strong>Get Involved !</strong></h2>
 <h3 style="text-align: center;">Click below and my chatbot will get in touch with you</h3>
