@@ -5,7 +5,6 @@ title: Research
 <a name="TopOfPage"></a>
 
 <script>
-  header('Referrer-Policy: origin');
   var div = document.createElement('div');
   div.className = 'fb-customerchat';
   div.setAttribute('page_id', '421258858310082');
