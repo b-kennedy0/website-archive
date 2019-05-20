@@ -19,7 +19,7 @@ title: Research
         appId            : '1678638095724206',
         autoLogAppEvents : true,
         xfbml            : true,
-        version          : 'v3.0'
+        version          : 'v3.3'
       });
     }, callable: []
   };
