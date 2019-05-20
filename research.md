@@ -9,6 +9,9 @@ title: Research
   div.className = 'fb-customerchat';
   div.setAttribute('page_id', '421258858310082');
   div.setAttribute('ref', 'b64:cGVyc193ZWJzaXRl');
+  div.setAttribute('theme_color', '#082954');
+  div.setAttribute('logged_in_greeting', 'Hey! Want to get involved in this research?');
+  div.setAttribute('logged_out_greeting', 'Hey! Want to get involved in this research? Log into Facebook to start chatting');
   document.body.appendChild(div);
   window.fbMessengerPlugins = window.fbMessengerPlugins || {
     init: function () {
@@ -34,14 +37,6 @@ title: Research
       fjs.parentNode.insertBefore(js, fjs);
     }(document, 'script', 'facebook-jssdk'));
   }, 0);
-  
-  <div class="fb-customerchat"
-  attribution=setup_tool
-  page_id="421258858310082"
-  theme_color="#082954"
-  logged_in_greeting="Hey! Want to get involved in this research?"
-  logged_out_greeting="Hey! Want to get involved in this research? Log into Facebook to start chatting">
-</div>
 </script>
 
 <h2 style="text-align: center;"><strong>Get Involved !</strong></h2>
