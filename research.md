@@ -58,11 +58,10 @@ title: Research
 }(document, 'script', 'facebook-jssdk'));</script>
 
 <!-- Your customer chat code -->
-<div>
-  class="fb-customerchat"
-  attribution=setup_tool
+
+<div class="fb-customerchat"
   page_id="421258858310082">
-</div>
+  </div>
 
 <!--- <h2 style="text-align: center;"><strong>Get Involved !</strong></h2>
 <h3 style="text-align: center;">Click below and my chatbot will get in touch with you</h3>
