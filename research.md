@@ -4,7 +4,10 @@ title: Research
 ---
 <a name="TopOfPage"></a>
 
-<meta http-equiv="Content-Security-Policy" content="default-src 'origin'">
+<!--- meta http-equiv="Content-Security-Policy" content="default-src 'origin'">
+--->
+
+<meta name="referrer" content="origin">
 
 <script>
   var div = document.createElement('div');
