@@ -20,7 +20,7 @@ title: Research
   js = d.createElement(s); js.id = id;
   js.src = 'https://connect.facebook.net/en_GB/sdk/xfbml.customerchat.js';
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
+}(document, 'script', 'facebook-jssdk'));
 
 <!-- Your customer chat code -->
 <div class="fb-customerchat"
@@ -30,6 +30,7 @@ title: Research
   logged_in_greeting="Hey! Want to get involved in this research?"
   logged_out_greeting="Hey! Want to get involved in this research? Log into Facebook to start chatting">
 </div>
+</script>
 
 <h2 style="text-align: center;"><strong>Get Involved !</strong></h2>
 <h3 style="text-align: center;">Click below and my chatbot will get in touch with you</h3>
