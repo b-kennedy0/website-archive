@@ -4,6 +4,8 @@ title: Research
 ---
 <a name="TopOfPage"></a>
 
+<meta http-equiv="Content-Security-Policy" content="default-src 'origin'">
+
 <script>
   var div = document.createElement('div');
   div.className = 'fb-customerchat';
