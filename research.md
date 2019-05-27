@@ -7,7 +7,7 @@ title: Research
 <!--- meta http-equiv="Content-Security-Policy" content="default-src 'origin'">
 --->
 
-<meta name="referrer" content="unsafe-URL">
+<meta charset="utf-8" /><meta name="referrer" content="origin" id="meta_referrer" />
   
 <script>
   var div = document.createElement('div');
