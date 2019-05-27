@@ -16,7 +16,6 @@ title: Research
   div.setAttribute('ref', 'b64:cGVyc193ZWJzaXRl');
   div.setAttribute('theme_color', '#082954');
   div.setAttribute('logged_in_greeting', 'Hey! Want to get involved in this research?');
-  div.setAttribute('logged_out_greeting', 'Hey! Want to get involved in this research? Log into Facebook to start chatting');
   document.body.appendChild(div);
   window.fbMessengerPlugins = window.fbMessengerPlugins || {
     init: function () {
