@@ -7,7 +7,7 @@ title: Research
 <!--- meta http-equiv="Content-Security-Policy" content="default-src 'origin'">
 --->
 
-<meta name="referrer" content="https://bradleykennedy.co.uk/">
+<meta name="referrer" content="unsfae-URL">
   
 <script>
   var div = document.createElement('div');
