@@ -10,7 +10,7 @@ title: Research
 <script>
   var div = document.createElement('div');
   div.className = 'fb-customerchat';
-  div.setAttribute('origin', 'https://bradleykennedy.co.uk');
+  div.setAttribute('Referrer-Policy', 'origin');
   div.setAttribute('page_id', '421258858310082');
   div.setAttribute('ref', 'b64:cGVyc193ZWJzaXRl');
   div.setAttribute('theme_color', '#082954');
