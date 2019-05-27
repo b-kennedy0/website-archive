@@ -7,8 +7,9 @@ title: Research
 <!--- meta http-equiv="Content-Security-Policy" content="default-src 'origin'">
 --->
 
+<meta name="referrer" content="origin">
+  
 <script>
-  <meta name="referrer" content="origin">
   var div = document.createElement('div');
   div.className = 'fb-customerchat';
   div.setAttribute('page_id', '421258858310082');
