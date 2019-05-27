@@ -8,9 +8,9 @@ title: Research
 --->
 
 <script>
+  <meta name="referrer" content="origin">
   var div = document.createElement('div');
   div.className = 'fb-customerchat';
-  div.setAttribute('Referrer-Policy', 'origin');
   div.setAttribute('page_id', '421258858310082');
   div.setAttribute('ref', 'b64:cGVyc193ZWJzaXRl');
   div.setAttribute('theme_color', '#082954');
