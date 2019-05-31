@@ -3,14 +3,17 @@ layout: page
 title: Publications & Awards
 ---
 **Navigation**  
-**[Publications and Conferences](#publications)**  
+**[Publications, Conferences and Presentations](#publications)**  
 **[Conferences / Workshop Attended (not presented)](#conferences)**  
-**[Workshops Presented](#workshops)**  
 **[Awards](#awards)**  
 
 --- 
 
-# Publications and Conferences {#publications}
+# Publications, Conferences and Presentations {#publications}  
+**Kennedy, B. J.** (2019) Open Science & Utilising Open Data. (Invited talk). Chester Data Insights, Chester UK (*May 28, 2019*).
+
+Stewart, S. & **Kennedy, B. J.** (2019) Becoming an Open Scientist: Lessons from the Replication Crisis. (Co-presented workshop). University of Chester Research Festival (*8th April 2019*) - <https://www.chester.ac.uk/research/festival>  
+
 **Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (*February 21, 2019*).
 
 Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *under review*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. Under review.
@@ -28,13 +31,7 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *under review*). Breaking ba
 ## Conferences / Workshop Attended (not presented)  {#conferences}
 Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 2018*)  
 
-Organising Committee & Chairing Sessions - PGR Symposium, University of Chester (*21st-22nd Feb 2019*)
-
----
-
-## Workshops Presented {#workshops}
-
-Co-presented workshop "Becoming an Open Scientist: Lessons from the Replication Crisis" - University of Chester Research Festival (*8th April 2019*). Dr Suzanne Stewart & Mr Bradley J Kennedy. <https://www.chester.ac.uk/research/festival>  
+Chairing Sessions - PGR Symposium, University of Chester (*21st-22nd Feb 2019*)
 
 --- 
 
