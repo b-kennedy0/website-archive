@@ -10,6 +10,7 @@ title: Publications & Awards
 --- 
 
 # Publications, Conferences and Presentations {#publications}  
+<p><img style="float: right;" src="/img/ChesterDataInsights.jpg" alt="Chester Data Insights Talk" width="330" height="247" /></p>
 **Kennedy, B. J.** (2019) Open Science & Utilising Open Data. (Invited talk). Chester Data Insights, Chester UK (*May 28, 2019*).
 
 Stewart, S. & **Kennedy, B. J.** (2019) Becoming an Open Scientist: Lessons from the Replication Crisis. (Co-presented workshop). University of Chester Research Festival (*8th April 2019*) - <https://www.chester.ac.uk/research/festival>  
