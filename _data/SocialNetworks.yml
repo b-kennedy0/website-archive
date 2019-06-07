@@ -41,11 +41,6 @@ reddit:
   baseURL: "https://reddit.com/u/"
   icon: "fab fa-reddit-alien"
 
-google-plus:
-  name: "Google+"
-  baseURL: "https://plus.google.com/"
-  icon: "fab fa-google-plus-g"
-
 email:
   name: "Email me"
 #  baseURL: "mailto:"
@@ -61,11 +56,6 @@ linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
   icon: "fab fa-linkedin-in"
-
-xing:
-  name: "Xing"
-  baseURL: "https://www.xing.com/profile/"
-  icon: "fab fa-xing"
 
 stackoverflow:
   name: "StackOverflow"
@@ -102,17 +92,3 @@ rss:
   baseURL: "{{ '/feed.xml' | prepend: site.baseurl }}"
   icon: "fas fa-rss"
 
-steam:
-  name: "Steam"
-  baseURL: "https://steamcommunity.com/id/"
-  icon: "fab fa-steam"
-
-twitch:
-  name: "Twitch"
-  baseURL: "https://www.twitch.tv/"
-  icon: "fab fa-twitch"
-
-yelp:
-  name: "Yelp"
-  baseURL: "https://{{ site.author.yelp }}.yelp.com"
-  icon: "fab fa-yelp"
