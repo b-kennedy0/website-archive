@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Academic Qualifications
+bigimg: "/img/library.jpg"
 ---
 # Current:  
 <img style="float: right; border-width: 20px; margin: 10px;" src="/img/graduation 2017.jpg" alt="Graduation 2017" width="120" height="210">  
