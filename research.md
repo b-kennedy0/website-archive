@@ -74,9 +74,10 @@ Initial stages of investigation are considering the influence of the job role of
 <img style="float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/COPYB0452_DTI_thresh35_LHem.png?raw=true" width="201" height="137" />
 Examining the asymmetry of language and the associated structural correlates.
 
-MSc project investigated connectivity asymmetry (using Diffusion Spectrum Imaging) in structures such as the arcuate fasciculus and frontal aslant tract in individuals with atypical language dominance. <img style="float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/brain1.jpg?raw=true" alt="" width="327" height="245" />  
+<img style="float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/brain1.jpg?raw=true" alt="" width="327" height="245" />
+MSc project investigated connectivity asymmetry (using Diffusion Spectrum Imaging) in structures such as the arcuate fasciculus and frontal aslant tract in individuals with atypical language dominance.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6XZ54ijJYSk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" align="middle" src="https://www.youtube.com/embed/6XZ54ijJYSk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 # 2015-2016
