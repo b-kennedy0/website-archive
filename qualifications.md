@@ -48,7 +48,7 @@ Psychology, English Literature & Welsh Baccalaureate
 
 ### GCSEs 
 _2007-2011_ ([Connah's Quay High School](http://www.connahsquayhs.org.uk/))  
-10x A* -> A, 1x B, 1x C
+10x A* -> A, 1x B, 1x C  
 Including: English, Maths, Biology, Physics, Chemistry and Welsh 2nd Language
 
 ---
