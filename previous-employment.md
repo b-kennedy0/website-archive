@@ -9,7 +9,7 @@ Contracted to develop an application for inspection administration to aid the Op
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/Halls picture.jpg" alt="Bangor Halls" width="175" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
+<img src="https://b-kennedy0.github.io/img/logos/Halls picture.jpg" alt="Bangor Halls" width="175" height="120" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Ffriddoedd Village Student Warden - Bangor University  
 ##### _June 2015- August 2017_  
 [View Website](https://www.bangor.ac.uk/accommodation/halls/mentors.php.en)  
@@ -39,7 +39,7 @@ Run information sessions about the Peer Guiding Scheme. Recruit volunteers for t
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/serve legal.png" alt="Serve Legal Logo" width="160" height="60" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
+<img src="https://b-kennedy0.github.io/img/logos/serve legal.png" alt="Serve Legal Logo" width="160" height="60" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Serve Legal - Media Compliance Team
 ##### _October 2016 - August 2017_  
 [Link to website](http://www.servelegal.co.uk/)  
@@ -55,7 +55,7 @@ Part-time summer work - Waiting on duties, Staff Training and development, Resta
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/bangor_psych.jpg" alt="Bangor Psychology Logo" width="120" height="140" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
+<img src="https://b-kennedy0.github.io/img/logos/bangor_psych.jpg" alt="Bangor Psychology Logo" width="120" height="140" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Psychology Oral Presentation Practice Session Mentor - School of Psychology, Bangor University
 ##### _November 2014 - May 2016_  
 [Link to website](https://www.bangor.ac.uk/psychology/)   
@@ -71,7 +71,7 @@ Covert visitor to clients of Serve Legal to test purchase their age restricted p
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/BEA_logo_en.png" alt="BEA Logo" width="140" height="115" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
+<img src="https://b-kennedy0.github.io/img/logos/BEA_logo_en.png" alt="BEA Logo" width="140" height="115" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Bangor Employability Award Office Summer Internship - Bangor University, Student Services
 ##### _May 2015 - July 2015 (3 Month internship)_  
 [Link to Newsletter interview](https://onedrive.live.com/redir?resid=25072B20749E0760!985&authkey=!APv4G6zeaWtkGuE&ithint=file%252cpdf)   
@@ -90,7 +90,7 @@ Responsible for contacting prospective students who are interested in coming to 
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/tnt-logo-official.gif" alt="TNT Logo" width="130" height="70" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
+<img src="https://b-kennedy0.github.io/img/logos/tnt-logo-official.gif" alt="TNT Logo" width="130" height="70" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>
 #### Billing Centre Clerk - TNT Deeside, Wales
 ##### _August 2014 - September 2014_  
 Temporary administration and financial work. UK Billing Centre for TNT main administration.
