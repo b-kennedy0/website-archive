@@ -1,6 +1,7 @@
 ---
 title: Teaching
 layout: page
+bigimg: "/img/lecture_room/jpg"
 ---
 Currently, at the University of Chester, my main teaching areas are across the Research Methods and Skills module (PS4005) and assisting with the delivery of the Becoming a Psychological Researcher (PS5015) module. I will also be teaching Core Topics in Psychology group workshops (PS4010). I am also involved with the marking and draft reading for the above modules as well as Applications of Psychology in Education (PS4016) and Forensic Psychology (PS4019). I am also a tutor on the Work Based Learning (WBL5101) module which runs later in the academic year for Level 5 students.
 
