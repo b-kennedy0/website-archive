@@ -88,29 +88,22 @@ social-network-links:
 #  facebook: bradleykennedy
 #  github: daattali
   twitter: kennedybj
-#  reddit: yourname
-#  google-plus: +DeanAttali
   linkedin: bradleykennedy1
   researchgate: Bradley_Kennedy2
   rpubs: bkennedy
   doodle: bradley-kennedy
   apps: apps/
-#  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +441244512752
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
   twitter: true
   facebook: true
-  google: false
   linkedin: true
 
 # How to display the link to the website in the footer
