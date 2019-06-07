@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+bigimg: "/img/brain_cover.jpg"
 ---
 <a name="TopOfPage"></a>
 
