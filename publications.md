@@ -29,10 +29,12 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *under review*). Breaking ba
 
 ---
 
-## Conferences / Workshop Attended (not presented)  {#conferences}
-Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 2018*)  
+## Conferences / Workshop Attended (not presented)  {#conferences}  
+“Future-proofing your research: Moving Towards Open & Reproducible Research” Workshop, Lancaster University Library (*4th June 2019*)
 
 Chairing Sessions - PGR Symposium, University of Chester (*21st-22nd Feb 2019*)
+
+Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 2018*)  
 
 --- 
 
@@ -53,4 +55,3 @@ Chairing Sessions - PGR Symposium, University of Chester (*21st-22nd Feb 2019*)
 <img src="https://b-kennedy0.github.io/img/BPS Conference 2017.jpg" alt="BPS Welsh Branch Conference 2017" width="300" height="190" style="border-width: 10px; margin-right: auto; margin-left: auto; display: block;"/>  
 
 ---
-
