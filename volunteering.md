@@ -2,9 +2,13 @@
 layout: page
 title: Volunteering
 bigimg:
-  - "/img/1st viki 2.jpg"
-  - "/img/viking.jpg"
-  - "/img/631 sqn photo.jpg.jpg"
+  - "/img/bigimg/1stviking1.jpg"
+  - "/img/bigimg/1stviking2.jpg"
+  - "/img/bigimg/1stviking3.jpg"
+  - "/img/bigimg/g1testviking.jpg"
+  - "/img/bigimg/soloviking.jpg"
+  - "/img/bigimg/vikingcool.jpeg"
+  - "/img/bigimg/vikinghot.jpeg"
 ---
 ### Civilian Gliding Instructor  
 _Currently: 632 VGS (Volunteer Gliding Squadron), RAF Tern hill_  
