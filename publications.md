@@ -46,7 +46,7 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 20
 
 *Awarded*: Best Student (Highest dissertation grade) MSc Neuroimaging, Bangor University. *September 2017*
 
-*Awarded*: Student Warden Development Scholarship - Awarded for developing a kitchen check administration application for iOS and Android smart devices. The app was then sold to Bangor University Halls of Residence for use from September 2017 with the Residential Warden team. (*May 2017*)
+*Awarded*: Student Warden Development Scholarship - Awarded for developing a kitchen check administration application for iOS and Android. The app was then sold to Bangor University Halls of Residence for use from September 2017 with the Residential Warden team. (*May 2017*)
 
 *Awarded*: Best Oral Presentation (runner-up) cash prize @ BPS Welsh Branch Annual Student Conference (*April 2017*, Image below)
 
