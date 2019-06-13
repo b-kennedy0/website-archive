@@ -3,11 +3,40 @@ title: Teaching
 layout: page
 bigimg: "/img/lecture_room.jpg"
 ---
-Currently, at the University of Chester, my main teaching areas are across the Research Methods and Skills module (PS4005) and assisting with the delivery of the Becoming a Psychological Researcher (PS5015) module. I will also be teaching Core Topics in Psychology group workshops (PS4010). I am also involved with the marking and draft reading for the above modules as well as Applications of Psychology in Education (PS4016) and Forensic Psychology (PS4019). I am also a tutor on the Work Based Learning (WBL5101) module which runs later in the academic year for Level 5 students.
+Currently, at the University of Chester, my main teaching areas are across the Research Methods and Skills module (PS4005) and assisting with the delivery of the Becoming a Psychological Researcher (PS5015) module. I will also be teaching Core Topics in Psychology group workshops (PS4010). 
+I am involved with the marking and draft reading for the above modules as well as Applications of Psychology in Education (PS4016) and Forensic Psychology (PS4019). Later in the academic year, I am a tutor on the Work Based Learning (WBL5101) module for Level 5 students.
 
 <h3><span style="text-decoration: underline;"><strong>Student Feedback 2018-2019</strong></span><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/2018-9_StudentFeedback.png?raw=true" alt="2018-2019 Student Feedback" width="693" height="441" /></h3>
 
 # Student Feedback
+
+## 2019
+
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+Student Nomination for Teaching Award (2019)
+>"I enjoy coming to his lab class, he is very passionate about his work and cares a lot about our work and our understanding of the topic, he is overall just an amazing teacher and truly inspirational. He has taught me a lot about new ways to learn without it being boring as he engages with his students and is always up for a laugh."  
+
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf1.png?raw=true" alt="Female Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+Student Nomination for Teaching Award (2019)
+>"He is so helpful and patient when teaching us all in lab classes, he has been so supportive in providing us help when we need it and explaining things thoroughly but in a way we all understand. I have been able to explain more thoroughly to some of my friends who found it hard to understand some things on SPSS and etc. because of the understanding he has given us. His lab classes are always informative as well as being fun/funny which engages us. His teaching has inspired me and aided me to get the firsts I have done."
+
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf2.png?raw=true" alt="Female Avatar 2" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+Student Nomination for Teaching Award (2019)
+>"He has been a supportive tutor throughout our first year, leading engaging lab classes and offering academic support throughout the year. He has always had time to support our assignments and provide feedback to ensure we develop. His classes are informative and fun. I think he has really aided my first year and allowed me to get the grades I have (all being 1sts due to my coherent understanding) as he has taught us content and showed us how to apply things appropriately."
+
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf3.png?raw=true" alt="Female Avatar 3" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+Student End-of-Year Evaluation (2019)
+>"I found the labs to be very useful in gaining an understanding of what was expected of me in the assessments. Without the lab class I feel I would have really struggled to gain the level of understanding I have. My lab tutor was incredibly understanding of my needs and willing to provide support as and when required."  
+
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf2.png?raw=true" alt="Female Avatar 2" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+Student Module Evaluation (2019)
+>"Brad is very helpful in lab class, he explains things well and gives constructive feedback."
+
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav2.png?raw=true" alt="Male Avatar 2" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+Student Module Evaluation (2019)
+>"Brad is amazing! Really helps with things you don’t understand fully and takes the time to teach them you. He talks through demos etc. Such as working on spss thoroughly and that finds me showing friends in other lab classes showing them what to do."
+
+## 2018
 
 <img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2018)
@@ -16,18 +45,6 @@ Student Nomination for Teaching Award (2018)
 <img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf1.png?raw=true" alt="Female Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2018)
 >"Every lab class Brad is completely full of happiness and I can't help but enjoy his sessions. He doesn't speak down to you and proper sees you as a friend it feels."
-
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav2.png?raw=true" alt="Male Avatar 2" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
-Student Module Evaluation (2019)
->"Brad is amazing! Really helps with things you don’t understand fully and takes the time to teach them you. He talks through demos etc. Such as working on spss thoroughly and that finds me showing friends in other lab classes showing them what to do."
-
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf2.png?raw=true" alt="Female Avatar 2" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
-Student Module Evaluation (2019)
->"Brad is very helpful in lab class, he explains things well and gives constructive feedback."
-
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf3.png?raw=true" alt="Female Avatar 3" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
-Student End-of-Year Evaluation (2019)
->"I found the labs to be very useful in gaining an understanding of what was expected of me in the assessments. Without the lab class I feel I would have really struggled to gain the level of understanding I have. My lab tutor was incredibly understanding of my needs and willing to provide support as and when required."  
 
 ---
 ### Check out my [teaching awards!](https://bradleykennedy.co.uk/publications/#awards)  
