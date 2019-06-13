@@ -10,7 +10,7 @@ I am involved with the marking and draft reading for the above modules as well a
 
 # Student Feedback
 
-## 2019
+## 2019 {#student-feedback-2019}  
 
 <img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2019)
@@ -29,14 +29,14 @@ Student End-of-Year Evaluation (2019)
 >"I found the labs to be very useful in gaining an understanding of what was expected of me in the assessments. Without the lab class I feel I would have really struggled to gain the level of understanding I have. My lab tutor was incredibly understanding of my needs and willing to provide support as and when required."  
 
 <img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf2.png?raw=true" alt="Female Avatar 2" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
-Student Module Evaluation (2019)
+Student mid-year Evaluation (2019)
 >"Brad is very helpful in lab class, he explains things well and gives constructive feedback."
 
 <img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav2.png?raw=true" alt="Male Avatar 2" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
-Student Module Evaluation (2019)
+Student mid-year Evaluation (2019)
 >"Brad is amazing! Really helps with things you don’t understand fully and takes the time to teach them you. He talks through demos etc. Such as working on spss thoroughly and that finds me showing friends in other lab classes showing them what to do."
 
-## 2018
+## 2018 {#student-feedback-2018}  
 
 <img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2018)
