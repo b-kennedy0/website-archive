@@ -22,6 +22,8 @@ Marking on:
 - PS5015 Becoming a Psychological Researcher
 - WB5101 Work Based Learning
 
+Click University of Chester Logo to view Staff Profile
+
 <a title="Click to view Staff Profile" href="https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://b-kennedy0.github.io/img/UOC-Logo_2010.jpg" width="264" height="87" /></a>
 
 # Extracurricular
