@@ -6,7 +6,7 @@ title: Publications & Awards
 **[Publications, Conferences and Presentations](#publications)**  
 **[Conferences / Workshop Attended (not presented)](#conferences)**  
 **[Awards](#awards)**  
-**[Open Science Projects](/publications#osf)**  
+**[Open Science Projects](open-science/#OSF)**  
 
 --- 
 
