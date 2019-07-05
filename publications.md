@@ -23,7 +23,7 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *under review*). Breaking ba
 
 **Kennedy, B. J.** (2018). Intention is in the eye of the beholder: Exploring the parameters of intentionality judgements utilising the side-effect effect. (oral presentation). Annual Postgraduate Conference, University of Chester (*February 2018*)
 
-**Kennedy, B. J.**, Karlsson, E., Mullins, P., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). Postgraduate Conference, Bangor (*September 2017*)
+**Kennedy, B. J.**, Karlsson, E., Mullins, P., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). Annual Postgraduate Conference, Bangor (*September 2017*)
 
 **Kennedy, B. J.**, Karlsson, E., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). British Psychological Society (BPS) Welsh Branch - Annual Student Conference (*April 2017*)  
 
