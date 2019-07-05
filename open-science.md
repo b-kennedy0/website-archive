@@ -11,7 +11,7 @@ Open Science is about extending the principles of openness to the whole research
 _Figure 1._ Promoting openness at different stages of the research process ([Open Science and Research Initiative, 2014](https://www.fosteropenscience.eu/node/1431#osri2014))
 
 
-# Open Science Framework
+# Open Science Framework {#OSF}  
 
 **Kennedy, B. J.** (2019, February 11). “Did they mean to?” – A study of Intentions, praise and blame; Study 1. <https://doi.org/10.17605/OSF.IO/KNCEA>
 
