@@ -9,7 +9,7 @@ bigimg: "/img/library.jpg"
 _2017 - Present_ ([University of Chester](https://www1.chester.ac.uk/)) - See [Research Tab](https://bradleykennedy.co.uk/research/)  
 
 _Graduate Member of the British Psychological Society_ ([MBPsS](https://www.bps.org.uk/))  
-_Associate Fellow of the Higher Education Academy_ ([AFHEA](https://www.heacademy.ac.uk/))  
+_Associate Fellow of the Higher Education Academy_ ([AFHEA](https://www.heacademy.ac.uk/); Awarded 24/04/19)  
 
 # Previous:
 ### Master of Science - MSc (Dist) Neuroimaging 
