@@ -27,4 +27,4 @@ layout: page
 </table>
 
 ---
-http://link.gallery/kennedybj
+<http://link.gallery/kennedybj>
