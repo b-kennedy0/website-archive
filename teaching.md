@@ -12,11 +12,11 @@ I am involved with the marking and draft reading for the above modules as well a
 
 ## 2019 {#student-feedback-2019}  
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2019)
 >"I enjoy coming to his lab class, he is very passionate about his work and cares a lot about our work and our understanding of the topic, he is overall just an amazing teacher and truly inspirational. He has taught me a lot about new ways to learn without it being boring as he engages with his students and is always up for a laugh."  
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf1.png?raw=true" alt="Female Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf1.png?raw=true" alt="Female Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2019)
 >"He is so helpful and patient when teaching us all in lab classes, he has been so supportive in providing us help when we need it and explaining things thoroughly but in a way we all understand. I have been able to explain more thoroughly to some of my friends who found it hard to understand some things on SPSS and etc. because of the understanding he has given us. His lab classes are always informative as well as being fun/funny which engages us. His teaching has inspired me and aided me to get the firsts I have done."
 
