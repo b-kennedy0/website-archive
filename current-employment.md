@@ -8,12 +8,12 @@ title: Current Employment
 <p align="center"><em>University of Chester</em></p>
 <p align="center"><em>October 2017 - Present</em></p>
 
-Teaching on:
+Teaching:
 - PS4005 Research Methods and Skills
 - PS5015 Becoming a Psychological Researcher
 - WB5101 Work Based Learning
 
-Marking on:
+Marking:
 - PS4005 Research Methods and Skills
 - PS4010 Core Topics in Psychology
 - PS4011 The Psychology of the Unusual
@@ -22,21 +22,21 @@ Marking on:
 - PS5015 Becoming a Psychological Researcher
 - WB5101 Work Based Learning
 
-Click University of Chester Logo to view Staff Profile
+[View University Staff Profile](https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy)
 
 <a title="Click to view Staff Profile" href="https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://b-kennedy0.github.io/img/UOC-Logo_2010.jpg" width="264" height="87" /></a>
 
-# Extracurricular
+# Extracurricular & Other roles
+
+**Editor -**  
+[The Quarterly](http://www.psypag.co.uk/the-quarterly/)  
+PsyPAG UK  
+_August 2019 - Present_  
 
 **Communications Officer -**  
-Data Science Society  
+[Data Science Society](https://www.chestersu.com/activities/societies/society/11037/)  
 University of Chester  
 _September 2018 - Present_  
-
-**Student Representative for the Faculty of Social Science -**  
-Postgraduate Sub-Committee  
-University of Chester  
-_October 2018 - Present_  
 
 **Representative for the University Postgraduate Student body -**  
 Research & Knowledge Transfer Office Committee  
@@ -47,3 +47,8 @@ _November 2018 - Present_
 Postgraduate Research Symposium 2019 Committee  
 University of Chester  
 _November 2018 - Present_  
+
+**Student Representative for the Faculty of Social Science -**  
+Postgraduate Sub-Committee  
+University of Chester  
+_September 2018 - September 2019_  
