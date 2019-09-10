@@ -3,14 +3,18 @@ title: Teaching
 layout: page
 bigimg: "/img/lecture_room.jpg"
 ---
-| Teaching: | Marking, Draft Reading |
+## Modules I teach and assess:
+
+| Teaching: | Marking/ Draft Reading |
 | ----------- | ----------- |
-| Research Methods and Skills (PS4005) | Applications of Psychology in Education (PS4016) |
-| Becoming a Psychological Researcher (PS5015) | Forensic Psychology (PS4019) |
-| Core Topics in Psychology (PS4010) | Research Methods and Skills (PS4005) |
-| Work Based Learning (WBL5101) | Psychology of the Unusal (PS4011) |
-| Understanding the Mind (PS5017) | Becoming a Psychological Researcher (PS5015) |
-| | Core Topics in Psychology (PS4010) |
+| Research Methods and Skills (PS4005) | Research Methods and Skills (PS4005)  |
+| Becoming a Psychological Researcher (PS5015) | Becoming a Psychological Researcher (PS5015)  |
+| Core Topics in Psychology (PS4010) | Core Topics in Psychology (PS4010) |
+| Work Based Learning (WBL5101) | Work Based Learning (WBL5101)  |
+| Understanding the Mind (PS5017) | Understanding the Mind (PS5017) |
+| | Psychology of the Unusal (PS4011) |
+| | Applications of Psychology in Education (PS4016) |
+| | Forensic Psychology (PS4019)  |
 | | Understanding the Mind (PS5017) |
 
 <h3><span style="text-decoration: underline;"><strong>Student Feedback 2018-2019</strong></span><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/2018-9_StudentFeedback.png?raw=true" alt="2018-2019 Student Feedback" width="693" height="441" /></h3>
