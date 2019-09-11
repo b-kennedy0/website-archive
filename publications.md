@@ -12,6 +12,8 @@ title: Publications & Awards
 
 <p><a title="My ORCID iD" href="https://orcid.org/0000-0003-4636-2210" target="_blank" rel="noopener"><img style="float: right;" src="/img/logos/ORCIDiD_icon.png" alt="ORCID iD" width="100" height="100" /></a></p>
 # Publications, Conferences and Presentations {#publications}  
+Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. ISBN:9781093510195
+
 **Kennedy, B. J.** (2019). The RISC Project; Researching Intentions in Social Contexts. (oral presentation). Annual Postgraduate Conference, University of Chester (*June 25, 2019*)
 
 <p><img style="float: right;" src="/img/ChesterDataInsights.jpg" alt="Chester Data Insights Talk" width="330" height="247" /></p>
