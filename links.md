@@ -12,6 +12,6 @@ title: Links
   <a href="https://link.bradleykennedy.co.uk/RISC-Study" target="_blank" rel="noopener" class="button">Take part in RISC study</a>
   <a href="https://link.bradleykennedy.co.uk/presentation" target="_blank" rel="noopener" class="button">Presentation</a>
   <a href="https://link.bradleykennedy.co.uk/reminder" target="_blank" rel="noopener" class="button">Meeting Reminder</a>
-  <a href="https://maker.ifttt.com/trigger/study_finished/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://slides.com/bradleyjames/study1/fullscreen') class="button">FINISHED</a>
+  <a href="https://maker.ifttt.com/trigger/study_finished/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://slides.com/bradleyjames/study1/fullscreen');" class="button">FINISHED</a>
 </div>
   </div>
