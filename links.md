@@ -2,9 +2,7 @@
 layout: minimal
 title: Links
 ---
-
 <h2 style="text-align: center;">Links</h2>
-<p>&nbsp;</p>
 <hr />
 <div class="text-center">
   <div class="btn-group">
@@ -14,14 +12,12 @@ title: Links
   <a href="https://link.bradleykennedy.co.uk/presentation" target="_blank" rel="noopener" class="button">Start Presentation</a>
 </div>
   </div>
-<p>&nbsp;</p>
 <hr />
 <div class="text-center">
   <div class="btn-group">
   <a href="https://link.bradleykennedy.co.uk/RISC-Study" target="_blank" rel="noopener" class="button">Take part in RISC study</a>
 </div>
   </div>
-<p>&nbsp;</p>
 <hr />
 <div class="text-center">
   <div class="btn-group">
