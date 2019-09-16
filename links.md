@@ -5,9 +5,9 @@ title: Links
 
 <h2>Vertical Button Group</h2>
 
-<div class="btn-group">
-  <button class="button">Button</button>
-  <button class="button">Button</button>
-  <button class="button">Button</button>
-  <button class="button">Button</button>
+<div class="btn-group" style="text-align: center;">
+  <a href="http://google.com" class="button">Go to Google</a>
+  <a href="http://google.com" class="button">Go to Google</a>
+  <a href="http://google.com" class="button">Go to Google</a>
+  <a href="http://google.com" class="button">Go to Google</a>
 </div>
