@@ -24,6 +24,4 @@ title: Links
   <a href="https://monzo.me/bradleykennedy5" target="_blank" rel="noopener" class="button">Pay</a>
 </div>
   </div>
-<p>&nbsp;</p>
 <hr />
-  
