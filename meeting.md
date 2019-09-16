@@ -10,7 +10,6 @@ title: Meet with...
   <a href="https://maker.ifttt.com/trigger/meet_brad/with/key/jW5gFlUAqTpO-5rTCoHtDYfrLyVkbbblKYqZT-dyBtA" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');" class="button">Meeting</a>
 </div>
   </div>
-<p>&nbsp;</p>
 <hr />
 <div class="text-center">
   <div class="btn-group">
