@@ -2,8 +2,7 @@
 layout: minimal
 title: Study Option
 ---
-<h1 style="text-align: center;">Thank you for your interest in taking part in the RISC Study</h1>
-<img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/RISC%20Logo%20crop.PNG?raw=true" alt="RISC Logo" width="246" height="172" />
+<h1 style="text-align: center;">Thank you for your interest in taking part in the RISC Study<br /> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/RISC%20Logo%20crop.PNG?raw=true" alt="RISC Logo" width="246" height="172" /></h1>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <h1 id="title" style="text-align: center;"><em>If you are a University of Chester student, click below for RPS:</em></h1>
