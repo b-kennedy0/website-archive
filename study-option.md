@@ -5,7 +5,7 @@ title: Study Option
 <h1 style="text-align: center;">Thank you for your interest in taking part in the RISC Study</h1>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h1 id="title" style="text-align: center;"><em>If you are University of Chester student, click here for RPS:</em></h1>
+<h1 id="title" style="text-align: center;"><em>If you are a University of Chester student, click below for RPS:</em></h1>
 <p>&nbsp;</p>
 <div class="text-center">
   <div class="btn-group">
