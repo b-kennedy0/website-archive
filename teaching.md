@@ -60,6 +60,3 @@ Student Nomination for Teaching Award (2018)
 >"Every lab class Brad is completely full of happiness and I can't help but enjoy his sessions. He doesn't speak down to you and proper sees you as a friend it feels."
 
 ---
-### Check out my [teaching awards!](https://bradleykennedy.co.uk/publications/#awards)  
-
----
