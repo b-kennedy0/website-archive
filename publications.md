@@ -45,18 +45,22 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 20
 
 --- 
 
-# Awards {#awards}
+# Awards {#awards}  
+*Awarded*: Training Grant (QR Funding) - "Future-proofing your research – Moving towards open and reproducible research practices" Lancaster University (4th June 2019) £60. *May 2019*
+
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2019  
 <p><img style="float: right;" src="/img/most inspiring lec award 2018.jpg" alt="Most Inspiring Lecturer" width="240" height="320" /></p> <p><img style="float: right;" src="/img/outstanding academic award 2018.jpg" alt="Outstanding Academic Award" width="240" height="320" /></p>
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
 
 *Nominated*: Outstanding Academic Support Staff, The 1839 Awards - Student Led Teaching Awards 2018
 
+*Awarded*: Training Grant (QR Funding) - University of Manchester R Training Feb-Mar 2018 £36. *January 2018*
+
 *Awarded*: Best Student (Highest dissertation grade) MSc Neuroimaging, Bangor University. *September 2017*
 
-*Awarded*: Student Warden Development Scholarship - Awarded for developing a kitchen check administration application for iOS and Android. The app was then sold to Bangor University Halls of Residence for use from September 2017 with the Residential Warden team. (*May 2017*)
+*Awarded*: Student Warden Development Scholarship - Awarded for developing a kitchen check administration application for iOS and Android. The app was then sold to Bangor University Halls of Residence for use from September 2017 with the Residential Warden team. *May 2017*
 
-*Awarded*: Best Oral Presentation (runner-up) cash prize @ BPS Welsh Branch Annual Student Conference (*April 2017*, Image below)
+*Awarded*: Best Oral Presentation (runner-up) cash prize @ BPS Welsh Branch Annual Student Conference *April 2017* (Image below)
 
 *Awarded*: Gold Scholarship for Postgraduate study, Bangor University - (£3,000). *September 2016*
 
