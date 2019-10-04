@@ -13,6 +13,8 @@ title: Publications & Awards
 <p><a title="My ORCID iD" href="https://orcid.org/0000-0003-4636-2210" target="_blank" rel="noopener"><img style="float: right;" src="/img/logos/ORCIDiD_icon.png" alt="ORCID iD" width="100" height="100" /></a></p>
 # Publications, Conferences and Presentations {#publications}  
 
+Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019, *under review*). Open Access: A primer from UKRN. Under review.
+
 Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. ISBN:9781093510195  
 
 **Kennedy, B. J.** (2019). The RISC Project; Researching Intentions in Social Contexts. (oral presentation). Annual Postgraduate Conference, University of Chester (*June 25, 2019*)
@@ -46,7 +48,7 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 20
 --- 
 
 # Awards {#awards}  
-*Awarded*: Training Grant (QR Funding) - "Future-proofing your research – Moving towards open and reproducible research practices" Lancaster University (4th June 2019) £60. *May 2019*
+*Awarded*: Training Grant (QR Funding) - "Future-proofing your research – Moving towards open and reproducible research practices" Workshop, Lancaster University. 4th June 2019 - (£60) *May 2019*
 
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2019  
 <p><img style="float: right;" src="/img/most inspiring lec award 2018.jpg" alt="Most Inspiring Lecturer" width="240" height="320" /></p> <p><img style="float: right;" src="/img/outstanding academic award 2018.jpg" alt="Outstanding Academic Award" width="240" height="320" /></p>
@@ -54,7 +56,7 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Nov 20
 
 *Nominated*: Outstanding Academic Support Staff, The 1839 Awards - Student Led Teaching Awards 2018
 
-*Awarded*: Training Grant (QR Funding) - University of Manchester R Training Feb-Mar 2018 £36. *January 2018*
+*Awarded*: Training Grant (QR Funding): R Training, University of Manchester. Feb-Mar 2018 - (£36) *January 2018*
 
 *Awarded*: Best Student (Highest dissertation grade) MSc Neuroimaging, Bangor University. *September 2017*
 
