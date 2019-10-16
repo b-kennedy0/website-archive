@@ -15,12 +15,6 @@ title: Links
 <hr />
 <div class="text-center">
   <div class="btn-group">
-  <a href="https://link.bradleykennedy.co.uk/RISC-Study" target="_blank" rel="noopener" class="button">Take part in RISC study</a>
-</div>
-  </div>
-<hr />
-<div class="text-center">
-  <div class="btn-group">
   <a href="https://monzo.me/bradleykennedy5" target="_blank" rel="noopener" class="button">Pay</a>
 </div>
   </div>
