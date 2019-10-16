@@ -5,7 +5,7 @@ title: Study Option
 <h1 style="text-align: center;">Thank you for your interest in taking part in the RISC Study<br /> <img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/RISC%20Logo%20crop.PNG?raw=true" alt="RISC Logo" width="246" height="172" /></h1>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h1 id="title" style="text-align: center;"><em>If you are a University of Chester student, click below for RPS:</em></h1>
+<h1 id="title" style="text-align: center;"><em>If you are a University of Chester student, click below for RPS: (you need to sign in to see the study)</em></h1>
 <p>&nbsp;</p>
 <div class="text-center">
   <div class="btn-group">
@@ -17,7 +17,7 @@ title: Study Option
 <p>&nbsp;</p>
 <div class="text-center">
   <div class="btn-group">
-  <a href="https://link.bradleykennedy.co.uk/RISC-Study" target="_blank" rel="noopener" class="button">Click here (Doodle)</a>
+  <a href="https://link.bradleykennedy.co.uk/RISC-Study" target="_blank" rel="noopener" class="button">Click here (Doodle)</a><h1 id="title" style="text-align: center;"><em>If no slots display on Doodle, please email b.kennedy@chester.ac.uk</em></h1>
 </div>
   </div>
   
