@@ -2,8 +2,16 @@
 layout: minimal
 title: Success
 ---
-
-<h1 id="select-the-person-your-meeting-is-with" style="text-align: center;"><em>Success, the person has now been notified</em></h1>
-<h2 style="text-align: center;"><span style="text-align: center;"><em>You may now close these pages</em></span></h2>
+<h1 style="text-align: center;"><img style="font-size: 14px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/greentick.png?raw=true" alt="" width="82" height="86" />&nbsp;<em>Success!</em></h1>
+<hr />
+<h1 style="text-align: center;">Brad has been notified</h1>
+<h2 style="text-align: center;">He will be with you soon</h2>
+<p>&nbsp;</p>
+<hr />
+<p style="text-align: center;">Triggered at:&nbsp;<span id="datetime"></span></p>
+<script>
+var dt = new Date();
+document.getElementById("datetime").innerHTML = dt.toLocaleTimeString();
+</script>
 
 ---
