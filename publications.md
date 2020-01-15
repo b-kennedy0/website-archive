@@ -39,6 +39,8 @@ Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *under review*). Breaking ba
 ---
 
 ## Conferences / Workshop Attended (not presented)  {#conferences}  
+Advanced Methods for Reproducible Science 2020 - Winter School @ Cumberland Lodge, The Great Park, Windsor (*5th-10th January 2020*)  
+
 “Future-proofing your research: Moving Towards Open & Reproducible Research” Workshop, Lancaster University Library (*4th June 2019*)
 
 Chairing Sessions - PGR Symposium, University of Chester (*21st-22nd Feb 2019*)
