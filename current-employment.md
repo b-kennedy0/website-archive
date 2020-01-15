@@ -32,7 +32,7 @@ _November 2018 - Present_
 **Member -**  
 Postgraduate Research Symposium 2019 Committee  
 University of Chester  
-_November 2018 - Present_  
+_November 2018 - November 2019_  
 
 **Student Representative for the Faculty of Social Science -**  
 Postgraduate Sub-Committee  
