@@ -23,6 +23,12 @@ bigimg: "/img/lecture_room.jpg"
 
 [Click for most recent feedback report](http://link.bradleykennedy.co.uk/report)  
 
+## 2020 {#student-feedback-2020}
+
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf3.png?raw=true" alt="Female Avatar 3" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+Student mid-year Evaluation (2020) 
+>"Brad is a great lab tutor."  
+
 ## 2019 {#student-feedback-2019}  
 
 <img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
