@@ -3,8 +3,6 @@ title: Teaching
 layout: page
 bigimg: "/img/lecture_room.jpg"
 ---
-## Modules I teach and assess:
-
 | Teaching: | Marking/ Draft Reading |
 | ----------- | ----------- |
 | Research Methods and Skills (PS4005) | Research Methods and Skills (PS4005)  |
