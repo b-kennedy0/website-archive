@@ -7,7 +7,6 @@ title: Links
 <div class="text-center">
   <div class="btn-group">
   <a href="https://link.bradleykennedy.co.uk/meeting" target="_blank" rel="noopener" class="button">Book Meeting Slot</a>
-  <a href="https://doodle.com/bradley-kennedy" target="_blank" rel="noopener" class="button">Suggest Meeting Times</a>
   <a href="https://link.bradleykennedy.co.uk/reminder" target="_blank" rel="noopener" class="button">Meeting Reminder Form</a>
   <a href="https://link.bradleykennedy.co.uk/presentation" target="_blank" rel="noopener" class="button">Start Presentation</a>
 </div>
