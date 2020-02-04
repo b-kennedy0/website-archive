@@ -15,6 +15,8 @@ title: Publications & Awards
 
 **Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  
 
+**Kennedy, B. J.**, Lautarescu, A., Plomp, E., & Gould van Praag, C. (2020) Open Research Calendar Twitter: @openresearchcal. (<https://openresearchcalendar.github.io/Open-Research-Calendar/>)
+
 Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019). Open Access: A primer from UKRN. <https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/>  
 
 Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. ISBN:9781093510195  
