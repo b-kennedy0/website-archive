@@ -1,8 +1,9 @@
 ---
 layout: minimal
 title: Links
+redirect_to: https://Link.Gallery/brad
 ---
-<h2 style="text-align: center;">Links</h2>
+<!-- <h2 style="text-align: center;">Links</h2>
 <hr />
 <div class="text-center">
   <div class="btn-group">
@@ -18,3 +19,4 @@ title: Links
 </div>
   </div>
 <hr />
+-->
