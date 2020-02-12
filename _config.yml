@@ -87,18 +87,19 @@ social-network-links:
   email: contact/
 # facebook: bradleykennedy
 # github: daattali
-  twitter: kennedybj
-  linkedin: bradleykennedy1
+# twitter: kennedybj
+# linkedin: bradleykennedy1
 # researchgate: Bradley_Kennedy2
-  rpubs: bkennedy
+# rpubs: bkennedy
 #  doodle: bradley-kennedy
-  apps: apps/
+# apps: apps/
 # stackoverflow: "3943160/daattali"
 # snapchat: deanat78
 # instagram: deanat78
 # youtube: user/deanat78
 # spotify: yourname
 # telephone: +441244512752
+  link: brad
 
 # Select which share links to show in posts
 share-links-active:
