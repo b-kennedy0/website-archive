@@ -7,7 +7,7 @@
 #   icon: Specify a valid fontawesome icon class.
 
 link:
-  name: "Links"
+  name: "Social Media & Other Profile Links"
   baseURL: "https://my.link.gallery/"
   icon: "fas fa-link"
   
