@@ -3,7 +3,7 @@ title: Teaching
 layout: page
 bigimg: "/img/lecture_room.jpg"
 ---
-| Teaching: | Marking/ Draft Reading |
+| Teaching: | Marking/ Draft Reading: |
 | ----------- | ----------- |
 | Research Methods and Skills (PS4005) | Research Methods and Skills (PS4005)  |
 | Becoming a Psychological Researcher (PS5015) | Becoming a Psychological Researcher (PS5015)  |
