@@ -14,6 +14,7 @@ bigimg: "/img/lecture_room.jpg"
 | | Applications of Psychology in Education (PS4016) |
 | | Forensic Psychology (PS4019)  |
 | | Understanding the Mind (PS5017) |
+| | Psychopathology (PS6007)
 
 <h3><span style="text-decoration: underline;"><strong>Student Feedback 2018-2019</strong></span><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/2018-9_StudentFeedback.png?raw=true" alt="2018-2019 Student Feedback" width="693" height="441" /></h3>
 
