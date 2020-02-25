@@ -12,7 +12,7 @@ bigimg:
   - "/img/bigimg/631sqn.jpg"
 ---
 ### Civilian Gliding Instructor  
-_Currently: 632 VGS (Volunteer Gliding Squadron), RAF Tern hill_  
+_Current: 632 VGS (Volunteer Gliding Squadron), RAF Tern hill_  
 (2018 - Present)  
 [632 VGS Facebook](https://www.facebook.com/632SqnVGS/)  
 [632 VGS Website](https://632vgs.co.uk/)   
