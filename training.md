@@ -35,7 +35,7 @@ title: Training
 - Sensitivity and Awareness Training  
 - Basic First Aid  
 - EpiPen Training  
-- Specific Student Support Training for students with anxiety issues  
+- Specific Student Support Training for students with anxiety   
 
 ---
 
