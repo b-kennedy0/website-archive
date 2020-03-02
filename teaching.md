@@ -28,7 +28,7 @@ bigimg: "/img/lecture_room.jpg"
 Student mid-year Evaluation (2020) 
 >"Brad is a great lab tutor."  
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/male1.png?raw=true" alt="Male 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/male1.png?raw=true" alt="Male 1" width="120" height="120" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student mid-year Evaluation (2020) 
 >"I have a fantastic lab tutor in Brad who has been understanding of my concerns and made me aware he is there to help either in lab or in a one on one meeting."  
 
