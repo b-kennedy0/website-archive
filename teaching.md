@@ -24,15 +24,15 @@ bigimg: "/img/lecture_room.jpg"
 
 ## 2020 {#student-feedback-2020}
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf3.png?raw=true" alt="Female Avatar 3" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/female1.png?raw=true" alt="Female 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student mid-year Evaluation (2020) 
 >"Brad is a great lab tutor."  
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/male1.png?raw=true" alt="Male 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student mid-year Evaluation (2020) 
 >"I have a fantastic lab tutor in Brad who has been understanding of my concerns and made me aware he is there to help either in lab or in a one on one meeting."  
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf1.png?raw=true" alt="Female Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/female2.png?raw=true" alt="Female 2" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student mid-year Evaluation (2020) 
 >"[My] lab tutor - Brad - explains things well when I don't understand the subject"
 
