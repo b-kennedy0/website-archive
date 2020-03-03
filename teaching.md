@@ -64,11 +64,11 @@ Student mid-year Evaluation (2019)
 
 ## 2018 {#student-feedback-2018}  
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentav1.png?raw=true" alt="Male Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2018)
 >"Brad has been an inspiration to all students in his lab classes. He goes beyond to help everyone and makes sure we all understand. He is always there if you need help in your statistics."  
 
-<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf1.png?raw=true" alt="Female Avatar 1" width="100" height="100" style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/avatar/studentavf1.png?raw=true" alt="Female Avatar 1" width="100" height="100" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 Student Nomination for Teaching Award (2018)
 >"Every lab class Brad is completely full of happiness and I can't help but enjoy his sessions. He doesn't speak down to you and proper sees you as a friend it feels."
 
