@@ -30,6 +30,25 @@ common-js:
     {% include footer.html %}
   
     {% include footer-scripts.html %}
+    
+    <script SameSite="None; Secure" src="https://static.landbot.io/landbot-widget/landbot-widget-1.0.0.js"></script>
+<script>
+  var myLandbot = new LandbotLivechat({
+    index: 'https://landbot.io/u/H-393427-LZNFYC12MLESP6PR/index.html',
+  });
+</script><script>
+  // Show a proactive message after 2 seconds
+  setTimeout(function() {
+    myLandbot.sendProactive({
+  "message": "Can I help at all?",
+  "author": "Brad Bot",
+  "avatar": "https://storage.googleapis.com/media.helloumi.com/98931/channels/PTVHM8UF34UMN49DORMHAI69ALXUKRD4.png",
+  "extra": {
+    "hide_textbox": true
+  }
+});
+  }, 2000);
+</script>
   
   </body>
 </html>
