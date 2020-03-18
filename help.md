@@ -14,4 +14,8 @@ layout: minimal
   <a href="https://link.bradk.co.uk/help" class="button">TeamViewer</a>
 </div>
   </div>
-  
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h2 style="text-align: center;">Problem solved?</h2>
+<p><a title="Click to buy me a coffee" href="https://monzo.me/bradleykennedy5/3?d=Coffee%20-%20Thanks!" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/bmac.jpeg?raw=true" alt="" width="395" height="289" /></a></p>  
