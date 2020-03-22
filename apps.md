@@ -14,13 +14,13 @@ layout: page
 </tr>
 <tr>
 <td style="width: 198px;">
-<h3 style="text-align: center;"><strong>PILOT DATA APP</strong></h3>
+<h3 style="text-align: center;"><a href="http://apps.bradleykennedy.co.uk/pilotdata" target="_blank" rel="noopener"><strong>PILOT DATA APP</strong></a></h3>
 </td>
 <td style="width: 198px;">
-<h3 style="text-align: center;"><strong>632 WEIGHT APP</strong></h3>
+<h3 style="text-align: center;"><a href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><strong>632 WEIGHT APP</strong></a></h3>
 </td>
 <td style="width: 198px;">
-<h3 style="text-align: center;"><strong>COVID-19</strong></h3>
+<h3 style="text-align: center;"><a href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><strong>COVID-19</strong></a></h3>
 </td>
 </tr>
 </tbody>
