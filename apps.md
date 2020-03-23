@@ -2,7 +2,7 @@
 title: My Apps
 layout: page
 ---
-### The server that hosts the apps costs to keep running - If you like these apps, please consider [supporting me](https://monzo.me/bradleykennedy5/?d=Support%20for%20Apps). 
+### If you like these apps, please consider [supporting me](https://monzo.me/bradleykennedy5/?d=Support%20for%20Apps) to cover the cost of the server. 
 ### Thank you!  
 
 ---
