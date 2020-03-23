@@ -2,28 +2,22 @@
 title: Apps
 layout: page
 ---
-
+# My Apps
+## The server that hosts the apps costs to keep running, If you like these apps, please consider [supporting me](https://monzo.me/bradleykennedy5/?d=Support%20for%20Apps). Thank you!
 ---
+<a title="Open App" href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.jpg?raw=true" alt="Covid" width="119" height="119" /></a>
+# COVID-19 App  
+[Click to run](http://apps.bradk.co.uk/covid19)  
+<img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /> [View on Github](https://github.com/b-kennedy0/covid-app)   
 
-<table style="height: 143px; border-color: #000000; margin-left: auto; margin-right: auto;" border="4" width="616">
-<tbody>
-<tr>
-<td style="width: 198px; text-align: center;"><a title="Pilot Data App" href="http://apps.bradleykennedy.co.uk/pilotdata" target="_blank" rel="noopener"><img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/pilotdataicon.png?raw=true" alt="App icon" width="192" height="192" /></a></td>
-<td style="width: 198px; text-align: center;">&nbsp;<a title="632 VGS Weight App" href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="" width="145" height="192" /></a></td>
-<td style="width: 198px; text-align: center;">&nbsp;<a title="COVID-19" href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><img src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/pilotdataicon.png?raw=true" alt="App icon" width="192" height="192" /></a></td>
-</tr>
-<tr>
-<td style="width: 198px;">
-<h3 style="text-align: center;"><a href="http://apps.bradleykennedy.co.uk/pilotdata" target="_blank" rel="noopener"><strong>PILOT DATA APP</strong></a></h3>
-</td>
-<td style="width: 198px;">
-<h3 style="text-align: center;"><a href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><strong>632 WEIGHT APP</strong></a></h3>
-</td>
-<td style="width: 198px;">
-<h3 style="text-align: center;"><a href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><strong>COVID-19</strong></a></h3>
-</td>
-</tr>
-</tbody>
-</table>
+<a title="Open App" href="http://apps.bradleykennedy.co.uk/pilotdata" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/pilotdataicon.png?raw=true" alt="Pilotdataicon" width="192" height="192" /></a>
+# Pilot Data Explorer  
+[Click to run](http://apps.bradleykennedy.co.uk/pilotdata)  
+<img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /> [View on Github](https://github.com/b-kennedy0/pilotstudy)   
+
+<a title="Open App" href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.jpg?raw=true" alt="Covid" width="119" height="119" /></a>
+# 632VGS Weight App  
+[Click to run](http://apps.bradleykennedy.co.uk/632vgs)  
+<img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="632vgs-crest" width="145" height="192" /> [View on Github](https://github.com/b-kennedy0/632vgs)   
 
 ---
