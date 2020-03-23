@@ -15,9 +15,9 @@ layout: page
 [Click to run](http://apps.bradleykennedy.co.uk/pilotdata)  
 <img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /> [View on Github](https://github.com/b-kennedy0/pilotstudy)   
 
-<a title="Open App" href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.jpg?raw=true" alt="Covid" width="119" height="119" /></a>
+<a title="Open App" href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="632vgs-crest" width="145" height="192" /></a>
 # 632VGS Weight App  
 [Click to run](http://apps.bradleykennedy.co.uk/632vgs)  
-<img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="632vgs-crest" width="145" height="192" /> [View on Github](https://github.com/b-kennedy0/632vgs)   
+<img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /> [View on Github](https://github.com/b-kennedy0/632vgs)   
 
 ---
