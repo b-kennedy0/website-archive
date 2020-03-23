@@ -11,6 +11,7 @@ Thank you!
 # COVID-19 App  
 [Click to run](http://apps.bradk.co.uk/covid19)  
 [View on Github](https://github.com/b-kennedy0/covid-app)  <a title="Open Github" href="https://github.com/b-kennedy0/covid-app" target="_blank" rel="noopener"><img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /></a>  
+<p>&nbsp;</p>
 
 ---
 
@@ -18,6 +19,7 @@ Thank you!
 # Pilot Data Explorer  
 [Click to run](http://apps.bradleykennedy.co.uk/pilotdata)  
 [View on Github](https://github.com/b-kennedy0/pilotstudy)  <a title="Open Github" href="https://github.com/b-kennedy0/pilotstudy" target="_blank" rel="noopener"><img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /></a>  
+<p>&nbsp;</p>
 
 ---
 
@@ -25,5 +27,6 @@ Thank you!
 # 632VGS Weight App  
 [Click to run](http://apps.bradleykennedy.co.uk/632vgs)  
 [View on Github](https://github.com/b-kennedy0/632vgs)  <a title="Open Github" href="https://github.com/b-kennedy0/632vgs" target="_blank" rel="noopener"><img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /></a>  
+<p>&nbsp;</p>
 
 ---
