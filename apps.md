@@ -3,8 +3,9 @@ title: Apps
 layout: page
 ---
 The server that hosts the apps costs to keep running, If you like these apps, please consider [supporting me](https://monzo.me/bradleykennedy5/?d=Support%20for%20Apps). 
-Thank you!
+Thank you!  
 ---
+
 <a title="Open App" href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.png?raw=true" alt="" width="135" height="136" /></a>
 # COVID-19 App  
 [Click to run](http://apps.bradk.co.uk/covid19)  
