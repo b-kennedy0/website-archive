@@ -6,6 +6,12 @@ layout: null
 
 /* --- General --- */
 
+iframe {
+    display:block;
+    width:100%;
+    height:100vh;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
