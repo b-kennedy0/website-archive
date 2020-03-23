@@ -2,10 +2,10 @@
 title: Apps
 layout: page
 ---
-# My Apps
-## The server that hosts the apps costs to keep running, If you like these apps, please consider [supporting me](https://monzo.me/bradleykennedy5/?d=Support%20for%20Apps). Thank you!
+The server that hosts the apps costs to keep running, If you like these apps, please consider [supporting me](https://monzo.me/bradleykennedy5/?d=Support%20for%20Apps). 
+Thank you!
 ---
-<a title="Open App" href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.jpg?raw=true" alt="Covid" width="119" height="119" /></a>
+<a title="Open App" href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.png?raw=true" alt="" width="135" height="136" /></a>
 # COVID-19 App  
 [Click to run](http://apps.bradk.co.uk/covid19)  
 <img style="float: left; border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /> [View on Github](https://github.com/b-kennedy0/covid-app)   
