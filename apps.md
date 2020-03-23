@@ -7,7 +7,7 @@ Thank you!
 
 ---
 
-<a title="Open App" href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.png?raw=true" alt="" width="135" height="136" /></a>
+<a title="Open App" href="http://apps.bradk.co.uk/covid19" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/covid.png?raw=true" alt="" width="135" height="136" /></a>
 # COVID-19 App  
 [Click to run](http://apps.bradk.co.uk/covid19)  
 <p>&nbsp;</p>
@@ -16,7 +16,7 @@ Thank you!
 <p>&nbsp;</p>
 ---
 
-<a title="Open App" href="http://apps.bradleykennedy.co.uk/pilotdata" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/pilotdataicon.png?raw=true" alt="Pilotdataicon" width="160" height="160" /></a>
+<a title="Open App" href="http://apps.bradleykennedy.co.uk/pilotdata" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/pilotdataicon.png?raw=true" alt="Pilotdataicon" width="160" height="160" /></a>
 # Pilot Data Explorer  
 [Click to run](http://apps.bradleykennedy.co.uk/pilotdata)  
 <p>&nbsp;</p>
@@ -25,7 +25,7 @@ Thank you!
 <p>&nbsp;</p>
 ---
 
-<a title="Open App" href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: left;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="632vgs-crest" width="145" height="192" /></a>
+<a title="Open App" href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="632vgs-crest" width="120" height="159" /></a>
 # 632VGS Weight App  
 [Click to run](http://apps.bradleykennedy.co.uk/632vgs)  
 <p>&nbsp;</p>
