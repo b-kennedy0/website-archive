@@ -16,7 +16,7 @@ This app plots the latest Cases & Deaths data for the COVID-19 Pandemic. Data is
 
 ---
 
-<a title="Open App" href="http://apps.bradleykennedy.co.uk/pilotdata" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/pilotdataicon.png?raw=true" alt="Pilotdataicon" width="160" height="160" /></a>
+<a title="Open App" href="http://apps.bradk.co.uk/pilotdata" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/pilotdataicon.png?raw=true" alt="Pilotdataicon" width="160" height="160" /></a>
 # Pilot Data Explorer  
 #### Tap icon to run
 This app allows you to interact with data from the pilot study conducted as part of my PhD research. You can select two job roles and compare their characteristic ratings.  
@@ -25,7 +25,7 @@ This app allows you to interact with data from the pilot study conducted as part
 
 ---
 
-<a title="Open App" href="http://apps.bradleykennedy.co.uk/632vgs" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="632vgs-crest" width="120" height="159" /></a>
+<a title="Open App" href="http://apps.bradk.co.uk/632vgs" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/632crest.png?raw=true" alt="632vgs-crest" width="120" height="159" /></a>
 # 632VGS Weight App  
 #### Tap icon to run
 This app was created to assist glider pilots with weight and balance calculations for the aircraft at [632 VGS](https://632vgs.co.uk/) RAF Ternhill.  
