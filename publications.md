@@ -13,6 +13,8 @@ title: Publications & Awards
 <p><a title="My ORCID iD" href="https://orcid.org/0000-0003-4636-2210" target="_blank" rel="noopener"><img style="float: right;" src="/img/logos/ORCIDiD_icon.png" alt="ORCID iD" width="100" height="100" /></a></p>
 # Publications, Conferences and Presentations {#publications}  
 
+**Kennedy, B.J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal. <http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf>  
+
 **Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  
 
 **Kennedy, B. J.**, Lautarescu, A., Plomp, E., & Gould van Praag, C. (2020) Open Research Calendar; A community tool (Twitter: @openresearchcal). (<https://openresearchcalendar.github.io/Open-Research-Calendar/>)
