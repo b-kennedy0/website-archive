@@ -20,7 +20,7 @@ bigimg: "/img/lecture_room.jpg"
 
 <h3><span style="text-decoration: underline;"><strong>Student Feedback 2018-2019</strong></span><img style="display: block; margin-left: auto; margin-right: auto;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/2018-9_StudentFeedback.png?raw=true" alt="2018-2019 Student Feedback" width="693" height="441" /></h3>
 
-<!-- [Click for most recent feedback report](http://link.bradleykennedy.co.uk/report)  -->
+[Click for most recent feedback report](https://bradley-kennedy.shinyapps.io/Teaching_feedback/)
 
 ## 2020 {#student-feedback-2020}
 
