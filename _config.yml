@@ -7,7 +7,7 @@
 paginate_path: "/blog/page:num/"
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
-url: "https://b-kennedy0.github.io"
+url: "https://bradleykennedy.co.uk"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
