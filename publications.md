@@ -15,13 +15,13 @@ title: Publications & Awards
 
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
-**Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal. <http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf>  
+**Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal. <http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf>  (OA)  
 
-**Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  
+**Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  (OA, OM)  
 
-**Kennedy, B. J.**, Lautarescu, A., Plomp, E., & Gould van Praag, C. (2020) Open Research Calendar; A community tool (Twitter: @openresearchcal). (<https://openresearchcalendar.github.io/Open-Research-Calendar/>)
+**Kennedy, B. J.**, Lautarescu, A., Plomp, E., & Gould van Praag, C. (2020) Open Research Calendar; A community tool (Twitter: @openresearchcal). (<https://openresearchcalendar.github.io/Open-Research-Calendar/>) (OA, OM, OD)  
 
-Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019). Open Access: A primer from UKRN. <https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/>  
+Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019). Open Access: A primer from UKRN. <https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/>  (OA)  
 
 Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. ISBN:9781093510195  
 
@@ -36,7 +36,7 @@ Stewart, S. L. K., & **Kennedy, B. J.** (2019) Becoming an Open Scientist: Lesso
 
 Stewart, S. L. K., **Kennedy, B. J.**, & Haigh, M. (*in prep*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. *in prep* (OM, OD)  
 
-**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. L. K. (2018). Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1>
+**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. L. K. (2018). Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1> (OA)  
 
 **Kennedy, B. J.** (2018). Intention is in the eye of the beholder: Exploring the parameters of intentionality judgements utilising the side-effect effect. (oral presentation). Annual Postgraduate Conference, University of Chester (*February 2018*)
 
@@ -47,7 +47,7 @@ Stewart, S. L. K., **Kennedy, B. J.**, & Haigh, M. (*in prep*). Breaking bad, br
 ---
 
 ## Conferences / Workshop Attended (not presented)  {#conferences}  
-"Beware: Results May Vary - Openness as a Way of Enhancing Research Quality", University of Manchester (*28th February 2020*)  
+"Beware: Results May Vary - Openness as a Way of Enhancing Research Quality", University of Manchester (*28th February 2020*)   
 
 Advanced Methods for Reproducible Science 2020 - Winter School @ Cumberland Lodge, The Great Park, Windsor (*5th-10th January 2020*)  
 
