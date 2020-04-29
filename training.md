@@ -31,7 +31,6 @@ title: Training
 - Safe Guarding Training
 - PREVENT
 - St Johns Ambulance Activity First Aid   
-<p> &nbsp; </p>
 
 ---
 
