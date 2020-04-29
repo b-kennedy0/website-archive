@@ -28,12 +28,12 @@ description: Online Portfolio
 navbar-links:
   Home: ""
   Academia:
-    - My Apps: "apps"
     - Research: "research"
     - Open Science: "open-science"
     - Teaching: "teaching"
     - Qualifications: "qualifications"
     - Publications & Awards: "publications"
+    - My Apps: "apps"
   Employment:
     - Current Employment: "current-employment"
     - Training: "training"
