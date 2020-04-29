@@ -46,7 +46,8 @@ title: Training
 <img src="https://b-kennedy0.github.io/img/logos/restaurant.jpg" alt="Restaurant" width="190" height="110" style="float:left; border-width: 25px; margin-right: 20px; margin-left: 20px;"/>  
 #### Bevris Ltd:  
 - Health & Safety in the Workplace  
-- Communicating effectively Workshop  
+- Communicating effectively workshop  
+
 
 ---
 
