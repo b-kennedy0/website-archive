@@ -21,9 +21,9 @@ title: Publications & Awards
 
 **Kennedy, B. J.**, Lautarescu, A., Plomp, E., & Gould van Praag, C. (2020) Open Research Calendar; A community tool (Twitter: @openresearchcal). (<https://openresearchcalendar.github.io/Open-Research-Calendar/>) (OA, OM, OD)  
 
-Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019). Open Access: A primer from UKRN. <https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/>  (OA)  
+Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019). Open Access: A primer from UKRN. (<https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/>) (OA)  
 
-Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. ISBN:9781093510195  
+Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. [ISBN:9781093510195](https://www.amazon.co.uk/dp/B07QJD7TJR/ref=cm_sw_em_r_mt_dp_U_AKCTCb6X7P882)  
 
 **Kennedy, B. J.** (2019). The RISC Project; Researching Intentions in Social Contexts. (oral presentation). Annual Postgraduate Conference, University of Chester (*June 25, 2019*)
 
@@ -82,5 +82,5 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Novemb
 
 ---
 <hr />
-<h3>News: Check out a Lab Report writing guide I have co-authored</h3><iframe src="https://read.amazon.co.uk/kp/card?asin=B07QJD7TJR&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_AKCTCb6X7P882" width="336" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h3>Check out a Lab Report writing guide I have co-authored</h3><iframe src="https://read.amazon.co.uk/kp/card?asin=B07QJD7TJR&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_AKCTCb6X7P882" width="336" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <hr />
