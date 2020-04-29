@@ -2,7 +2,7 @@
 layout: page
 title: Training
 ---
-<img src="https://b-kennedy0.github.io/img/logos/UoC School of Psychology 2.jpg" alt="School Logo" width="140" height="140" style="float:left; border-width: 15px; margin-right: 25px; margin-left: 25px;"/>  
+<img src="https://b-kennedy0.github.io/img/logos/UoC School of Psychology 2.jpg" alt="School Logo" width="140" height="140" style="float:left; border-width: 25px; margin-right: 20px; margin-left: 20px;"/>  
 #### School of Psychology - University of Chester:
 - Preparing for your PhD upgrade Workshop, _Student Futures, UoC_  
 - Getting Published Workshop, _Internal Staff Development, School of Psychology_  
@@ -26,7 +26,7 @@ title: Training
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/632vgscrest.png" alt="632VGS Logo" width="85" height="110" style="float:left; border-width: 15px; margin-right: 25px; margin-left: 25px;"/>  
+<img src="https://b-kennedy0.github.io/img/logos/632vgscrest.png" alt="632VGS Logo" width="85" height="110" style="float:left; border-width: 25px; margin-right: 20px; margin-left: 20px;"/>  
 #### Royal Air Force Air Cadet Organisation - Volunteer Gliding Squadron:  
 - Safe Guarding Training
 - PREVENT
@@ -43,7 +43,7 @@ title: Training
 
 ---
 
-<img src="https://b-kennedy0.github.io/img/logos/restaurant.jpg" alt="Restaurant" width="190" height="110" style="float:left; border-width: 15px; margin-right: 25px; margin-left: 25px;"/>  
+<img src="https://b-kennedy0.github.io/img/logos/restaurant.jpg" alt="Restaurant" width="190" height="110" style="float:left; border-width: 25px; margin-right: 20px; margin-left: 20px;"/>  
 #### Bevris Ltd:  
 - Health & Safety in the Workplace  
 - Communicating effectively Workshop  
@@ -54,6 +54,6 @@ title: Training
 #### Halls of residence - 6 Days Student Warden Training (2015 & 2016 - 2 Training sessions) 
 - Health & Safety  
 - Fire marshalling  
-- Student services / Disability Service / International Office / Mental Health Services / Security Team / Sustainability / First Aid / Equality & Diversity / Disciplinary  
+- Student Services / Disability Service / International Office / Mental Health Services / Security Team / Sustainability / First Aid / Equality & Diversity / Disciplinary  
 
 ---
