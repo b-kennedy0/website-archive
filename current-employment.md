@@ -15,7 +15,7 @@ title: Current Employment
 # Extracurricular activity & Representative roles
 
 **Editor -**  
-[The Quarterly](http://www.psypag.co.uk/the-quarterly/)  
+[The Quarterly](https://www.bps.org.uk/publications/psypag-quarterly) (ISSN: 1746-6016)  
 PsyPAG UK  
 _August 2019 - Present_  
 
