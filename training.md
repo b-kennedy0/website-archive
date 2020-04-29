@@ -2,7 +2,7 @@
 layout: page
 title: Training
 ---
-<img src="https://b-kennedy0.github.io/img/logos/dep_psych.jpg" alt="DoP Logo" width="130" height="120" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
+<img src="https://b-kennedy0.github.io/img/logos/UoC School of Psychology 2.jpg" alt="School Logo" width="150" height="150" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 #### School of Psychology - University of Chester:
 - 3-Day Training, Introduction to R by Dr Andrew Stewart, _University of Manchester_  
 - TALENT - Teaching and Learning Essentials for New Teachers, _Learning and Teaching Institue, UoC_  
