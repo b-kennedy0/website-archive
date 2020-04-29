@@ -35,9 +35,9 @@ navbar-links:
     - Publications & Awards: "publications"
     - My Apps: "apps"
   Employment:
-    - Current Employment: "current-employment"
+    - Current: "current-employment"
     - Training: "training"
-    - Previous Employment: "previous-employment"
+    - Previous: "previous-employment"
     - Volunteering: "volunteering"
   #Blog: "blog"
   Contact: "contact"
