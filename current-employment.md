@@ -7,7 +7,7 @@ title: Current Employment
 <p align="center"><em>University of Chester</em></p>
 <p align="center"><em>October 2017 - Present</em></p>
 
-[View University Staff Profile](https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy)
+[View University Staff Profile](https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy)  
 [Read more about Teaching](/teaching)  
 
 <a title="Click to view Staff Profile" href="https://www1.chester.ac.uk/departments/psychology/staff/brad-kennedy" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://b-kennedy0.github.io/img/UOC-Logo_2010.jpg" width="264" height="87" /></a>
