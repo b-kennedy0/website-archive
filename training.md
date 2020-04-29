@@ -4,10 +4,13 @@ title: Training
 ---
 <img src="https://b-kennedy0.github.io/img/logos/UoC School of Psychology 2.jpg" alt="School Logo" width="150" height="150" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 #### School of Psychology - University of Chester:
+- Preparing for your PhD upgrade Workshop, _Student Futures, UoC_  
+- Getting Published Workshop, _Internal Staff Development, School of Psychology_  
+- Exam Invigilation Training, _Registry, UoC_  
 - 3-Day Training, Introduction to R by Dr Andrew Stewart, _University of Manchester_  
 - TALENT - Teaching and Learning Essentials for New Teachers, _Learning and Teaching Institue, UoC_  
-- Marking and Feedback training - _Learning and Teaching Institute, UoC_  
-- Dignity and Respect Workshop - _Human Resources_  
+- Marking and Feedback Training - _Learning and Teaching Institute, UoC_  
+- Dignity and Respect Workshop - _Human Resources, UoC_  
 
 ---
 
@@ -25,7 +28,9 @@ title: Training
 
 <img src="https://b-kennedy0.github.io/img/logos/632vgscrest.png" alt="632VGS Logo" width="85" height="110" style="float:left; border-width: 10px; margin-right: 20px; margin-left: 20px;"/>  
 #### Royal Air Force Air Cadet Organisation - Volunteer Gliding Squadron:  
-- St Johns Ambulance Activity First Aid (Valid until 22/01/20)   
+- Safe Guarding Training
+- PREVENT
+- St Johns Ambulance Activity First Aid   
 <p> &nbsp; </p>
 
 ---
