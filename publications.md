@@ -13,6 +13,8 @@ title: Publications & Awards
 <p><a title="My ORCID iD" href="https://orcid.org/0000-0003-4636-2210" target="_blank" rel="noopener"><img style="float: right;" src="/img/logos/ORCIDiD_icon.png" alt="ORCID iD" width="100" height="100" /></a></p>
 # Publications, Conferences and Presentations {#publications}  
 
+(OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
+
 **Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal. <http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf>  
 
 **Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  
@@ -28,13 +30,13 @@ Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secre
 <p><img style="float: right;" src="/img/ChesterDataInsights.jpg" alt="Chester Data Insights Talk" width="330" height="247" /></p>
 **Kennedy, B. J.** (2019) Open Science & Utilising Open Data. (Invited talk). Chester Data Insights, Chester UK (*May 28, 2019*).
 
-Stewart, S. & **Kennedy, B. J.** (2019) Becoming an Open Scientist: Lessons from the Replication Crisis. (Co-presented workshop). University of Chester Research Festival (*April 8, 2019*) - <https://www.chester.ac.uk/research/festival>  
+Stewart, S. L. K., & **Kennedy, B. J.** (2019) Becoming an Open Scientist: Lessons from the Replication Crisis. (Co-presented workshop). University of Chester annual Research Festival (*April 8, 2019*) - <https://www.chester.ac.uk/research/festival>  
 
-**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (*February 21, 2019*).
+**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. L. K. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (*February 21, 2019*).
 
-Stewart, S., **Kennedy, B. J.**, & Haigh, M. (2018, *under review*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. *Quarterly Journal of Experimental Psychology*, under review.
+Stewart, S. L. K., **Kennedy, B. J.**, & Haigh, M. (*in prep*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. *in prep* (OM, OD)  
 
-**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. (2018). Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1>
+**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. L. K. (2018). Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1>
 
 **Kennedy, B. J.** (2018). Intention is in the eye of the beholder: Exploring the parameters of intentionality judgements utilising the side-effect effect. (oral presentation). Annual Postgraduate Conference, University of Chester (*February 2018*)
 
@@ -80,5 +82,5 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Novemb
 
 ---
 <hr />
-<h3>News: Check out a book I have recently co-authored</h3><iframe src="https://read.amazon.co.uk/kp/card?asin=B07QJD7TJR&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_AKCTCb6X7P882" width="336" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+<h3>News: Check out a Lab Report writing guide I have co-authored</h3><iframe src="https://read.amazon.co.uk/kp/card?asin=B07QJD7TJR&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_AKCTCb6X7P882" width="336" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 <hr />
