@@ -21,7 +21,7 @@ title: Publications & Awards
 
 **Kennedy, B. J.**, Lautarescu, A., Plomp, E., & Gould van Praag, C. (2020) Open Research Calendar; A community tool (Twitter: @openresearchcal). (<https://openresearchcalendar.github.io/Open-Research-Calendar/>) (OA, OM, OD)  
 
-Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019). Open Access: A primer from UKRN. (<https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/>) (OA)  
+Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2019). Open Access: A primer from UKRN. [Link to primer](https://www.bristol.ac.uk/psychology/research/ukrn/about/resources/) (OA)  
 
 Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. [ISBN:9781093510195](https://www.amazon.co.uk/dp/B07QJD7TJR/ref=cm_sw_em_r_mt_dp_U_AKCTCb6X7P882)  
 
