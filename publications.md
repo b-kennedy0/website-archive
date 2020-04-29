@@ -15,7 +15,7 @@ title: Publications & Awards
 
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
-**Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal (ISSN: 1746-6016). <http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf>  (OA)  
+**Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf)  (OA)  
 
 **Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  (OA, OM)  
 
