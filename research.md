@@ -2,7 +2,6 @@
 layout: page
 title: Research
 bigimg: "/img/brain_cover.jpg"
-nav-short: true
 ---
 <a name="TopOfPage"></a>
 
