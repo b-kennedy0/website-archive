@@ -60,10 +60,12 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Novemb
 --- 
 
 # Awards {#awards}  
+*Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2020  
+<p><img style="float: left;" src="/img/certificates/MOST_INSPIRING_LECTURER_2019.jpg" alt="Most Inspiring Lecturer 2019" width="240" height="320" /></p> <p><img style="float: left;" src="/img/certificates/MOST_INSPIRING_LECTURER_2020.jpg" alt="Most Inspiring Lecturer 2020" width="240" height="320" /></p>
 *Awarded*: Training Grant (QR Funding) - "Future-proofing your research – Moving towards open and reproducible research practices" Workshop, Lancaster University. 4th June 2019 - (£60) *May 2019*
 
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2019  
-<p><img style="float: right;" src="/img/most inspiring lec award 2018.jpg" alt="Most Inspiring Lecturer" width="240" height="320" /></p> <p><img style="float: right;" src="/img/outstanding academic award 2018.jpg" alt="Outstanding Academic Award" width="240" height="320" /></p>
+<p><img style="float: right;" src="/img/certificates/MOST_INSPIRING_LECTURER_2018.jpg" alt="Most Inspiring Lecturer 2018" width="240" height="320" /></p> <p><img style="float: right;" src="/img/certificates/OUTSTANDING_ACADEMIC_SUPPORT_STAFF_2018.jpg" alt="Outstanding Academic Award 2018" width="240" height="320" /></p>
 *Nominated*: Most Inspiring Lecturer, The 1839 Awards - Student Led Teaching Awards 2018
 
 *Nominated*: Outstanding Academic Support Staff, The 1839 Awards - Student Led Teaching Awards 2018
