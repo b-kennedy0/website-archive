@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title></title>
+<title>Please log-in</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -84,7 +84,7 @@ div.vertical {
 		var hash= pwd;
 		hash= Sha1.hash(pwd);
 		var user= document.getElementById("username");
-		var url= hash + user + "/index.html";
+		var url= hash + "/" + user + "/index.html";
 		$.ajax({
 			url : url,
 			dataType : "html",
