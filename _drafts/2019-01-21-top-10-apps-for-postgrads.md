@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Top-10-Apps-for-Postgrads
 subtitle: Each post also has a subtitle
 tags: [apps, Postgrad, PhD Chat, PhD, Masters]
