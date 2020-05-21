@@ -91,6 +91,7 @@ div.vertical {
 			url : url,
 			dataType : "html",
 			success : function(data) {
+				<div class="la-pacman"></div>;
 				window.location= url;
 			},
 			error : function(xhr, ajaxOptions, thrownError) {
@@ -102,7 +103,6 @@ div.vertical {
 		});
 	}
 	$("#loginbutton").on("click", function() {
-		<div class="la-pacman"></div>;
 		loadPage($("#password").val());
 	});
 	$("#password").keypress(function(e) {
