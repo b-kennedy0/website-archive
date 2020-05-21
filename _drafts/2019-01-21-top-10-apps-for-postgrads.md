@@ -1,9 +1,9 @@
 ---
 layout: post
-published: true
 title: Top-10-Apps-for-Postgrads
 subtitle: Each post also has a subtitle
 tags: [apps, Postgrad, PhD Chat, PhD, Masters]
+permalink: /blog/test1
 comments: true
 ---
 ## Top 10 Apps for Postgraduates - Work Smarter, Not Harder
