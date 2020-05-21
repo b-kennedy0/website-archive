@@ -60,9 +60,12 @@ div.vertical {
 		<div class="horizontal">
 			<div class="vertical">
 				<div class="box">
-					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="password" /> <br />
+					<label for="username"><b>Username</b></label>
+					<input style="margin: 16px; text-align: center;" id="username" type="text" placeholder="Enter Username" required /> <br />
+					<label for="password"><b>Password</b></label>
+					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="Enter Password" required /> <br />
 					<button id="loginbutton" type="button">Enter</button>
-					<p id="wrongPassword" style="display: none">wrong password</p>
+					<p id="wrongPassword" style="display: none">Wrong user/password</p>
 				</div>
 			</div>
 		</div>
@@ -80,7 +83,8 @@ div.vertical {
 	function loadPage(pwd) {
 		var hash= pwd;
 		hash= Sha1.hash(pwd);
-		var url= hash + "/index.html";
+		var user= document.getElementById("username");
+		var url= hash + user + "/index.html";
 		$.ajax({
 			url : url,
 			dataType : "html",
@@ -90,7 +94,7 @@ div.vertical {
 			error : function(xhr, ajaxOptions, thrownError) {
 				parent.location.hash= hash;
 				//$("#wrongPassword").show();
-				$("#password").attr("placeholder","wrong password");
+				$("#password").attr("placeholder","Wrong user/password");
 				$("#password").val("");
 			}
 		});
