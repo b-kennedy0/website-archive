@@ -83,7 +83,7 @@ div.vertical {
 	function loadPage(pwd) {
 		var hash= pwd;
 		hash= Sha1.hash(pwd);
-		var user= document.getElementById("username").value.toLowerCase;
+		var user= document.getElementById("username").value.toLowerCase();
 		var url= hash + "/" + user + "/index.html";
 		$.ajax({
 			url : url,
