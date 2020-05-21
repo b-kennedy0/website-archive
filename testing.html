@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-<title>Please log-in</title>
+<title>Log-in</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -94,8 +94,6 @@ div.vertical {
 			error : function(xhr, ajaxOptions, thrownError) {
 				parent.location.hash= hash;
 				$("#wrongPassword").show();
-				$("#username").attr("placeholder","Wrong user/password");
-				$("#username").val("");
 				$("#password").attr("placeholder","Wrong user/password");
 				$("#password").val("");
 			}
