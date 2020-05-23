@@ -4,11 +4,11 @@
   location.href = "/login";
 }
   </script>
-  
+
   <script type="text/javascript">
-          function getCookie(username) {
-  var name = username + "=";
-  var ca = document.cookie.split(';');
+  function getCookie(username) {
+    var name = username + "=";
+    var ca = document.cookie.split(';');
   for(var i = 0; i < ca.length; i++) {
     var c = ca[i];
     while (c.charAt(0) == ' ') {
@@ -23,16 +23,12 @@
 
 function checkCookie() {
   var user = getCookie("username");
-  if (user != "") {
-    alert("Welcome again " + user);
-  } else {
-    user = prompt("Please enter your name:", "");
-    if (user != "" && user != null) {
-      setCookie("username", user, 365);
-    }
+  if (user != "bkennedy") {
+    location.href = "/login";
   }
 }
 window.onload = checkCookie;
+    
   </script>
 </html>
 
