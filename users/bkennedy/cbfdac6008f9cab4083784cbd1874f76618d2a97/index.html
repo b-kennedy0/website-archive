@@ -1,8 +1,19 @@
 <html>
   <script>
-    alert(document.cookie("username");
 if (document.cookie.indexOf("CrewCentreSession=Valid") == -1 || document.cookie("username") != "bkennedy" {
   location.href = "/login";
+}
+    
+function checkCookie() {
+  var username = getCookie("username");
+  if (username != "") {
+   alert("Welcome again " + username);
+  } else {
+    username = prompt("Please enter your name:", "");
+    if (username != "" && username != null) {
+      setCookie("username", username, 365);
+    }
+  }
 }
   </script>
 </html>
