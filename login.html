@@ -66,6 +66,7 @@ div.vertical {
 					<label for="password"><b>Password</b></label>
 					<input style="margin: 16px; text-align: center;" id="password" type="password" placeholder="Enter Password" required /> <br />
 					<button id="loginbutton" type="button">Log in</button>
+					<button id="cancelbutton" type="button">Cancel</button>
 					<p id="wrongPassword" style="display: none">Incorrect Username and/or Password</p>
 				</div>
                 <div><a href="/contact" target="_blank" rel="noopener">Forgot password?</a></div>
@@ -108,6 +109,9 @@ div.vertical {
 	}
 	$("#loginbutton").on("click", function() {
 		loadPage($("#password").val());
+	});
+	$("#cancelbutton").on("click", function() {
+		location.href='https://bradk.co.uk';
 	});
 	$("#password").keypress(function(e) {
 		if (e.which == 13) {
