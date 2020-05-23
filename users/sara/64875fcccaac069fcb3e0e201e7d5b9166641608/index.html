@@ -23,12 +23,12 @@
 
 function checkCookie() {
   var user = getCookie("username");
+  document.getElementById("UserName").innerHTML = user;
   if (user != "sara") {
     location.href = "/login";
   }
 }
 window.onload = checkCookie;
-document.getElementById("UserName").innerHTML = user;
   </script>
 </html>
 
