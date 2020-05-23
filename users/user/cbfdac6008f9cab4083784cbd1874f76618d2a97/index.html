@@ -1,3 +1,11 @@
+<?php
+if ( (isset( $_SESSION[ 'display_userpage' ] ) && $_SESSION[ 'display_userpage' ] === TRUE ) ) {
+  //keep displaying page.php
+} else {
+  header('Location:login.html');
+  exit;
+}
+?>
 <p style="text-align: center;"><strong>Hello User!</strong></p>
 <p style="text-align: center;">&nbsp;</p>
 <p style="text-align: center;">&nbsp;</p>
