@@ -82,11 +82,6 @@ div.vertical {
 	 <script type="text/javascript" src="https://rawcdn.githack.com/chrisveness/crypto/7067ee62f18c76dd4a9d372a00e647205460b62b/sha1.js"></script>
 
 	<script type="text/javascript">
-		var hashParams = window.location.hash.substr(1).split('&'); // substr(1) to remove the `#`
-		for(var i = 0; i < hashParams.length; i++){
-		var p = hashParams[i].split('=');
-    		document.getElementById(p[0]).value = decodeURIComponent(p[1]);;
-		}
 	"use strict";
 	function loadPage(pwd) {
 		var hash= pwd;
