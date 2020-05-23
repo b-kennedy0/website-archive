@@ -95,6 +95,7 @@ div.vertical {
 				var loginDuration = new Date();
 				loginDuration.setTime(loginDuration.getTime()+(sessionTimeout*60*60*1000));
 				document.cookie = "CrewCentreSession=Valid; "+loginDuration.toGMTString()+"; path=/";
+				document.cookie = "username=" + user + ";" + loginDuration.toGMTString() + "; path=/";
 				window.location= url;
 			},
 			error : function(xhr, ajaxOptions, thrownError) {
