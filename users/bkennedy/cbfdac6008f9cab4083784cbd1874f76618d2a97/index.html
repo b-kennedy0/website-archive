@@ -1,6 +1,7 @@
 <html>
   <script>
-if (document.cookie.indexOf("CrewCentreSession=Valid") == -1 || getCookie("username") != "bkennedy" {
+    var username = getCookie("username");
+if (document.cookie.indexOf("CrewCentreSession=Valid") == -1 || username != "bkennedy" {
   location.href = "/login";
 }
   </script>
