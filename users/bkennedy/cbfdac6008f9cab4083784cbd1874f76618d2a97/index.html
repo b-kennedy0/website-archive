@@ -1,24 +1,13 @@
 <html>
   <script>
-if (document.cookie.indexOf("CrewCentreSession=Valid") == -1 || document.cookie("username") != "bkennedy" {
+    var user = getCookie("username");
+    alert(user);
+      
+      if (document.cookie.indexOf("CrewCentreSession=Valid") == -1 {
   location.href = "/login";
-}
-    
-function checkCookie() {
-  var username = getCookie("username");
-  if (username != "") {
-   alert("Welcome again " + username);
-  } else {
-    username = prompt("Please enter your name:", "");
-    if (username != "" && username != null) {
-      setCookie("username", username, 365);
-    }
-  }
 }
   </script>
 </html>
-
-<body onload="checkCookie()"></body>
 
 <p style="text-align: center;"><strong>Hello Brad!</strong></p>
 <p style="text-align: center;">&nbsp;</p>
