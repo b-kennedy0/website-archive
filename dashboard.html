@@ -1,3 +1,13 @@
 <title>Dashboard</title>
-<iframe src="https://trello.com/b/DwKlcCBN.html" frameborder="0" scrolling="no" width=59% height=100% align="left"> </iframe>  
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%237986CB&amp;ctz=Europe%2FLondon&amp;src=Ymtlbm5lZHkxMjQ2QGdtYWlsLmNvbQ&amp;src=bWVldGluZ3NAYnJhZGxleWtlbm5lZHkuY28udWs&amp;color=%23039BE5&amp;color=%23009688&amp;showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showDate=0&amp;showTz=0&amp;mode=WEEK&amp;hl=en_GB" style="border:solid 1px #777" width=40% height=100% frameborder="0" scrolling="no" align="right"> </iframe>   
+<html>
+<script>
+window.setInterval("reloadIFrame();", 5000);
+
+function reloadIFrame() {
+ document.frames["trello"].location.reload();
+ document.frames["cal"].location.reload();
+}
+</script>
+</html>
+<iframe name="trello" src="https://trello.com/b/DwKlcCBN.html" frameborder="0" scrolling="no" width=59% height=100% align="left"> </iframe>  
+<iframe name="cal" src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=2&amp;bgcolor=%237986CB&amp;ctz=Europe%2FLondon&amp;src=Ymtlbm5lZHkxMjQ2QGdtYWlsLmNvbQ&amp;src=bWVldGluZ3NAYnJhZGxleWtlbm5lZHkuY28udWs&amp;color=%23039BE5&amp;color=%23009688&amp;showTitle=0&amp;showNav=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showDate=0&amp;showTz=0&amp;mode=WEEK&amp;hl=en_GB" style="border:solid 1px #777" width=40% height=100% frameborder="0" scrolling="no" align="right"> </iframe>   
