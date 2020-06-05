@@ -7,8 +7,8 @@
 window.setInterval("reloadIFrame();", 5000);
 
 function reloadIFrame() {
- document.frames["trello"].location.reload();
- document.frames["cal"].location.reload();
+ document.getElementById("cal").src=cal.src;
+ document.getElementById("trello").src=trello.src;
 }
 </script>
  
