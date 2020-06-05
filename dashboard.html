@@ -4,11 +4,14 @@
  </head>
 <body>
  <script type="text/javascript">
-     setInterval(reloadIFrame, 5000);
+     setInterval(reloadIFrame1, 10000);
+     setInterval(reloadIFrame2, 15000);
 
-function reloadIFrame() {
+function reloadIFrame1() {
     var frame = document.getElementById("trello");
            frame.src = frame.src;
+}
+function reloadIFrame2() {
     var frame2 = document.getElementById("cal");
            frame2.src = frame2.src;
 }
