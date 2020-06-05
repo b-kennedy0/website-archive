@@ -3,12 +3,14 @@
   <title>Dashboard</title>
  </head>
 <body>
- <script>
-window.setInterval("reloadIFrame();", 5000);
+ <script type="text/javascript">
+     setInterval(reloadIFrame, 5000);
 
 function reloadIFrame() {
- document.getElementById("cal").src=cal.src;
- document.getElementById("trello").src=trello.src;
+    var frame = document.getElementById("trello");
+           frame.src = frame.src;
+    var frame2 = document.getElementById("cal");
+           frame2.src = frame2.src;
 }
 </script>
  
