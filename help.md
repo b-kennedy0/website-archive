@@ -5,13 +5,13 @@ layout: minimal
 <p>&nbsp;</p>
 <div class="text-center">
   <div class="btn-group">
-  <a href="https://link.bradk.co.uk/support" class="button">Support via Google</a>
+  <a href="https://link.bradk.co.uk/google" class="button">Support via Google</a>
 </div>
   </div>
 <hr />
 <div class="text-center">
   <div class="btn-group">
-  <a href="https://link.bradk.co.uk/help" class="button">TeamViewer</a>
+  <a href="https://link.bradk.co.uk/teamviewer" class="button">TeamViewer</a>
 </div>
   </div>
 <p>&nbsp;</p>
