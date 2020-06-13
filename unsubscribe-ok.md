@@ -2,10 +2,11 @@
 layout: minimal
 title: Unsubscribed!
 ---
-<h1 style="text-align: center;"><img style="font-size: 14px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/greentick.png?raw=true" alt="" width="82" height="86" />&nbsp;<em>Success!</em></h1>
+<h1 style="text-align: center;"><img style="font-size: 14px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/greentick.png?raw=true" alt="" width="82" height="86" /> Successfully Unsubscribed</h1>
 <hr />
-<h1 style="text-align: center;">Successfully Unsubscribed</h1>
-<h2 style="text-align: center;">Your email address has been removed from the email list</h2>
+<h2 style="text-align: center;">You have been removed from the email list</h2>
+<p style="text-align: center;">&nbsp;</p>
+<h2 style="text-align: center;"><strong>You may now close this page</strong></h2>
 <p>&nbsp;</p>
 <hr />
 <p style="text-align: center;">Triggered at:&nbsp;<span id="datetime"></span></p>
