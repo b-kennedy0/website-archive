@@ -6,11 +6,12 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class.
 
-link:
+status:
   name: "Service Status"
   baseURL: "https://bradleykennedy.statuspage.io/"
   icon: "fas fa-exclamation-triangle"
-  
+
+link:
   name: "Social Media & Other Profile Links"
   baseURL: "https://bradleykennedy.co.uk/"
   icon: "fas fa-link"
