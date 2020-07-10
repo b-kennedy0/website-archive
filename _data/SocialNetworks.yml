@@ -7,6 +7,10 @@
 #   icon: Specify a valid fontawesome icon class.
 
 link:
+  name: "Service Status"
+  baseURL: "https://bradleykennedy.statuspage.io/"
+  icon: "fas fa-exclamation-triangle"
+  
   name: "Social Media & Other Profile Links"
   baseURL: "https://bradleykennedy.co.uk/"
   icon: "fas fa-link"
