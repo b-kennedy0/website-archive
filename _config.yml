@@ -100,6 +100,8 @@ social-network-links:
 # spotify: yourname
 # telephone: +441244512752
   link: links/
+  status: 
+  
 
 # Select which share links to show in posts
 share-links-active:
