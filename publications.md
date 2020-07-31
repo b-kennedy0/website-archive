@@ -15,7 +15,7 @@ title: Publications & Awards
 
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
-Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) Editorial Article: Postgraduate study during Covid-19, Issue 115 (June), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf)  (OA)  
+Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) *Editorial Article:* Postgraduate study during Covid-19, Issue 115 (June), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf)  (OA)  
 
 **Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf)  (OA)  
 
