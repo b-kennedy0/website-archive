@@ -85,6 +85,3 @@ Open Science Workshop @ University College Cork, Ireland (*31st Oct - 2nd Novemb
 <img src="https://b-kennedy0.github.io/img/BPS Conference 2017.jpg" alt="BPS Welsh Branch Conference 2017" width="300" height="190" style="border-width: 10px; margin-right: auto; margin-left: auto; display: block;"/>  
 
 ---
-<hr />
-<h3>Check out a Lab Report writing guide I have co-authored</h3><iframe src="https://read.amazon.co.uk/kp/card?asin=B07QJD7TJR&amp;preview=inline&amp;linkCode=kpe&amp;ref_=cm_sw_r_kb_dp_AKCTCb6X7P882" width="336" height="550" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-<hr />
