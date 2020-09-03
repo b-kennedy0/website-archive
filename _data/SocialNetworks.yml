@@ -7,7 +7,7 @@
 #   icon: Specify a valid fontawesome icon class.
 
 status:
-  name: "Service Status"
+  name: "Web Service Status"
   baseURL: "https://bradleykennedy.statuspage.io/"
   icon: "fas fa-exclamation-triangle"
 
