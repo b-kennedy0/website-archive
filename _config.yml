@@ -30,6 +30,7 @@ navbar-links:
   Academia:
     - Research: "research"
     - Open Science: "open-science"
+    - Projects: "projects"
     - Teaching: "teaching"
     - Qualifications: "qualifications"
     - Publications & Awards: "publications"
