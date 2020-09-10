@@ -11,7 +11,8 @@ For my birthday this year, I would be eternally grateful if you could support my
 <img style="float:right; border-width: 10px; margin-right: 20px; margin-left: 20px; border-radius: 35%;" src="https://hawaiioceanproject.com/wp-content/uploads/whale_watch-1080x628.png" width="240" height="240" />  
 If you usually buy me a gift or a card, perhaps this year you could consider giving towards one of my planned excursions instead? Whatever you can help with, even just the 50p you might have spent on a card would be amazing to chip away at cost.
 
-# Itinerary
+# Itinerary Progress
+*Updated automatically*  
 <iframe width="747" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQiaSQpe8dDYDW11U3P6yIiQdD3LwFNixKoz0oxUWtU4IzxjSjovkyP-gT3-Pb7uyUxDkcRb-QCkPy/pubchart?oid=283182079&amp;format=image"></iframe>
 
 # Support button (link to formR?) 
