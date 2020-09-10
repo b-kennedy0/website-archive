@@ -14,7 +14,7 @@ If you usually buy me a gift or a card, perhaps this year you could consider giv
 
 # Itinerary Progress
 *Updated automatically*  
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQiaSQpe8dDYDW11U3P6yIiQdD3LwFNixKoz0oxUWtU4IzxjSjovkyP-gT3-Pb7uyUxDkcRb-QCkPy/pubchart?oid=283182079&amp;format=interactive" width="747" height="371" frameborder="0" scrolling="no" seamless=""></iframe>  
+<html><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQQiaSQpe8dDYDW11U3P6yIiQdD3LwFNixKoz0oxUWtU4IzxjSjovkyP-gT3-Pb7uyUxDkcRb-QCkPy/pubchart?oid=283182079&amp;format=interactive" width="747" height="371" frameborder="0" scrolling="no" seamless=""></iframe></html>  
 
 # Support button (link to formR?) 
 
