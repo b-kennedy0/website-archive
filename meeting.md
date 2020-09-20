@@ -8,7 +8,7 @@ title: Meet with...
 <p>&nbsp;</p>
 <div class="text-center">
   <div class="btn-group">
-  <a href="https://hook.integromat.com/veirohloph4r49a9txd3npz741acr5ln?action=meeting" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');" class="button">ARRIVED</a>
+  <a href="https://hook.integromat.com/veirohloph4r49a9txd3npz741acr5ln?action=meeting" target="_self" onclick="window.open('https://bradleykennedy.co.uk/meeting-click/');" class="button">ARRIVED</a>
 </div>
   </div>
 <hr />
