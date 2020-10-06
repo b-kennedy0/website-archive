@@ -15,7 +15,7 @@ title: Publications & Awards
 
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
-Slack, H., Lloyd, A., Urquhart, J., & **Kennedy, B. J.** (2020) *Editorial Article:* Highlighting the racial inequality present within academia: PsyPAG’s response to the Black Lives Matter movement, Issue 116 (September), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPAG-116-WEB.pdf)  (OA)  
+Slack, H., Lloyd, A., Urquhart, J., & **Kennedy, B. J.** (2020) *Editorial Article:* Highlighting the racial inequality present within academia: PsyPAG’s response to the Black Lives Matter movement, Issue 116 (September), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPag-116-WEB.pdf)  (OA)  
 
 Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) *Editorial Article:* Postgraduate study during Covid-19, Issue 115 (June), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf)  (OA)  
 
