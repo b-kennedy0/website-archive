@@ -33,5 +33,5 @@ description: The Research Portal has been closed down
 <p style="text-align: center;">If you had an account, your details have been moved to a future studies mailing list. You will be notified when a new study becomes available. You also have the option to unsubscribe in all emails.</p>
 <hr />
 <p style="text-align: center;">:love_letter: If you you'd like to sign up to hear about future studies, click the button below.</p>
-<div style="text-align: center;"><a class="button button1" href="https://google.co.uk" target="_blank" rel="noopener">Sign up to Future Studies mailing list</a></div>
+<div style="text-align: center;"><a class="button button1" href="https://link.bradleykennedy.co.uk/results" target="_blank" rel="noopener">Sign up to Future Studies mailing list</a></div>
 </html>
