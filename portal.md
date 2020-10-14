@@ -29,9 +29,9 @@ description: The Research Portal has been closed down
 }
 </style>
 </head
-<h1 style="text-align: center;">Unfortunately, due to increased cost the Research Portal has been closed down :pensive:</h1>
-<h3 style="text-align: center;">If you had an account, your details have been moved to a future studies mailing list. You will be notified when a new study becomes available. You also have the option to unsubscribe in all emails.</h3>
+<h3 style="text-align: center;">Unfortunately, due to increased cost the Research Portal has been closed :pensive:</h3>
+<p style="text-align: center;">If you had an account, your details have been moved to a future studies mailing list. You will be notified when a new study becomes available. You also have the option to unsubscribe in all emails.</p>
 <hr />
-<h3 style="text-align: center;">:love_letter: If you you'd like to sign up to hear about future studies, click the button below.</h3>
+<p style="text-align: center;">:love_letter: If you you'd like to sign up to hear about future studies, click the button below.</p>
 <div style="text-align: center;"><a class="button button1" href="https://google.co.uk" target="_blank" rel="noopener">Sign up to Future Studies mailing list</a></div>
 </html>
