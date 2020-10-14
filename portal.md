@@ -28,7 +28,7 @@ description: The Research Portal has been closed down
   color: white;
 }
 </style>
-</head
+  </head>
 <h3 style="text-align: center;">Unfortunately, due to increased cost the Research Portal has been closed :pensive:</h3>
 <p style="text-align: center;">If you had an account, your details have been moved to a future studies mailing list. You will be notified when a new study becomes available. You also have the option to unsubscribe in all emails.</p>
 <hr />
