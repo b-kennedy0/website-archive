@@ -1,4 +1,21 @@
 ---
 layout: page
 ---
-<div class="typeform-widget" data-url="https://bradleykennedy.typeform.com/to/Z7vNaQ" data-transparency="19" data-hide-headers=true data-hide-footer=true style="width: 100%; height: 500px;"></div> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm", b="https://embed.typeform.com/"; if(!gi.call(d,id)) { js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script> 
+<div id="tripetto"></div>
+<script src="https://unpkg.com/tripetto-runner-foundation"></script>
+<script src="https://unpkg.com/tripetto-runner-chat"></script>
+<script src="https://unpkg.com/tripetto-services"></script>
+<script>
+var tripetto = TripettoServices.init({ token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiTFQ1V2JpNWZ3b0t2VkxMZWJqZ0dBVlZJMXY5K2MrazI0N3d5VjNRK2t6WT0iLCJkZWZpbml0aW9uIjoiMVpHWU5WR1pac3I5bnJPTUNpNS9pbUFHN0NkN3hocDFyd3FPNzlBTXY5Yz0iLCJ0eXBlIjoiY29sbGVjdCJ9.SQHsxWTmje54454vDrTmkwPzx1Oa0DzQDSUNDtLkpLY" });
+
+TripettoChat.run({
+    element: document.getElementById("tripetto"),
+    definition: tripetto.definition,
+    styles: tripetto.styles,
+    l10n: tripetto.l10n,
+    locale: tripetto.locale,
+    translations: tripetto.translations,
+    attachments: tripetto.attachments,
+    onSubmit: tripetto.onSubmit
+});
+</script>
