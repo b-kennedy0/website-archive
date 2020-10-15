@@ -1,7 +1,13 @@
 ---
 layout: page
 ---
-<div id="tripetto"></div>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+</head>
+<body>
 <script src="https://unpkg.com/tripetto-runner-foundation"></script>
 <script src="https://unpkg.com/tripetto-runner-chat"></script>
 <script src="https://unpkg.com/tripetto-services"></script>
@@ -9,7 +15,7 @@ layout: page
 var tripetto = TripettoServices.init({ token: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjoiTFQ1V2JpNWZ3b0t2VkxMZWJqZ0dBVlZJMXY5K2MrazI0N3d5VjNRK2t6WT0iLCJkZWZpbml0aW9uIjoiMVpHWU5WR1pac3I5bnJPTUNpNS9pbUFHN0NkN3hocDFyd3FPNzlBTXY5Yz0iLCJ0eXBlIjoiY29sbGVjdCJ9.SQHsxWTmje54454vDrTmkwPzx1Oa0DzQDSUNDtLkpLY" });
 
 TripettoChat.run({
-    element: document.getElementById("tripetto"),
+    element: document.body,
     definition: tripetto.definition,
     styles: tripetto.styles,
     l10n: tripetto.l10n,
@@ -19,3 +25,5 @@ TripettoChat.run({
     onSubmit: tripetto.onSubmit
 });
 </script>
+</body>
+</html>
