@@ -15,7 +15,7 @@ title: Publications & Awards
 
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
-Cassandra D Gould van Praag, **Bradley J Kennedy**, Alexandra Lautarescu, & Esther Plomp. (2020, October 20). Open Research Calendar (Version v1.2). Zenodo. http://doi.org/10.5281/zenodo.4109950   
+Cassandra D Gould van Praag, **Bradley J Kennedy**, Alexandra Lautarescu, & Esther Plomp. (2020, October 20). Open Research Calendar (Version v1.2). Zenodo. <http://doi.org/10.5281/zenodo.4109950>   
 
 Slack, H., Lloyd, A., Urquhart, J., & **Kennedy, B. J.** (2020) *Editorial Article:* Highlighting the racial inequality present within academia: PsyPAG’s response to the Black Lives Matter movement, Issue 116 (September), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPag-116-WEB.pdf)  (OA)  
 
