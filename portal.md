@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research Portal Moved
+title: Research Portal
 description: The Research Portal has been closed down
 ---
 <html>
