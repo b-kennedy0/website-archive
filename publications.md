@@ -25,8 +25,6 @@ Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) *Editorial Artic
 
 **Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  (OA, OM)  
 
-**Kennedy, B. J.**, Lautarescu, A., Plomp, E., & Gould van Praag, C. (2020) Open Research Calendar; A community tool (Twitter: @openresearchcal). (<https://openresearchcalendar.github.io/>) (OA, OM, OD)  
-
 Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2020). Open Access: A primer from UKRN. <https://doi.org/10.31219/osf.io/94rsp>  (OA)   
 
 Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. [ISBN:9781093510195](https://www.amazon.co.uk/dp/B07QJD7TJR/ref=cm_sw_em_r_mt_dp_U_AKCTCb6X7P882)  
