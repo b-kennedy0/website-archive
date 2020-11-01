@@ -21,7 +21,7 @@ Slack, H., Lloyd, A., Urquhart, J., & **Kennedy, B. J.** (2020) *Editorial Artic
 
 Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) *Editorial Article:* Postgraduate study during Covid-19, Issue 115 (June), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf)  (OA)  
 
-**Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf)  (OA)  
+**Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf)  (OA)  
 
 **Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  (OA, OM)  
 
