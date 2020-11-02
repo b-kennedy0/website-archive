@@ -51,6 +51,10 @@ Stewart, S. L. K., **Kennedy, B. J.**, & Haigh, M. (*in prep*). Breaking bad, br
 ---
 
 ## Conferences / Workshop Attended (not presented)  {#conferences}  
+Virtually attended: Remote SIPS (Society for the Improvement of Psychological Science) conference (*22nd-24th June 2020*)  
+
+Virtually attended: ReproducibiliTea Virtual Meeting: How can ECRs influence research culture and integrity? (*29th May 2020*)  
+
 "Beware: Results May Vary - Openness as a Way of Enhancing Research Quality", University of Manchester (*28th February 2020*)   
 
 Advanced Methods for Reproducible Science 2020 - Winter School @ Cumberland Lodge, The Great Park, Windsor (*5th-10th January 2020*)  
