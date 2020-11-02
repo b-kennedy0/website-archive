@@ -19,7 +19,7 @@ Click/Tap icon to view on Github >> <a title="Open Github" href="https://github.
 <a title="Open App" href="https://twitter.com/OpenResearchCal" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px; float: right;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/logos/ORC-badge.png?raw=true" alt="" width="165" height="160" /></a>
 # Open Research Calendar (Twitter)  
 #### Click/Tap icon to run >>  
-The tool was created to serve the open research community in collating worldwide :earth_africa: open research events into one database. This translates onto a Google Calendar :calendar: which can be synced into a person’s own personal calendar (updating as new events get added). Read more [here.](https://openresearchcalendar.github.io/Open-Research-Calendar/)  
+The tool was created to serve the open research community in collating worldwide :earth_africa: open research events into one database. This translates onto a Google Calendar :calendar: which can be synced into a person’s own personal calendar (updating as new events get added). Read more [here.](https://openresearchcalendar.github.io/)  
 
 Click/Tap icon to view on Github >> <a title="Open Github" href="https://github.com/openresearchcalendar/Open-Research-Calendar" target="_blank" rel="noopener"><img style="border-width: 10px; margin-right: 20px; margin-left: 20px;" src="https://github.com/b-kennedy0/b-kennedy0.github.io/blob/master/img/github_icon.png?raw=true" alt="Github-icon" width="74" height="63" /></a>  
 
