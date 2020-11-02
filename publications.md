@@ -15,38 +15,25 @@ title: Publications & Awards
 
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
-Cassandra D Gould van Praag, **Bradley J Kennedy**, Alexandra Lautarescu, & Esther Plomp. (2020, October 20). Open Research Calendar. Zenodo. <https://doi.org/10.5281/zenodo.4109949>  (OA, OM, OD)  
-
-Slack, H., Lloyd, A., Urquhart, J., & **Kennedy, B. J.** (2020) *Editorial Article:* Highlighting the racial inequality present within academia: PsyPAG’s response to the Black Lives Matter movement, Issue 116 (September 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPag-116-WEB.pdf)  (OA)  
-
-Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) *Editorial Article:* Postgraduate study during Covid-19, Issue 115 (June 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf)  (OA)  
-
-**Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf)  (OA)  
-
-**Kennedy, B. J.** (2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (*January 22, 2020*). <https://osf.io/j8npx/>  (OA, OM)  
-
-Rumsey, S., Lunny, C., & **Kennedy, B. J.** (2020). Open Access: A primer from UKRN. <https://doi.org/10.31219/osf.io/94rsp>  (OA)   
-
-Ashcroft, S., & **Kennedy, B. J.** (2019). *How to write a lab report. The secret recipe for success.* UK: Amazon. [ISBN:9781093510195](https://www.amazon.co.uk/dp/B07QJD7TJR/ref=cm_sw_em_r_mt_dp_U_AKCTCb6X7P882)  
-
-**Kennedy, B. J.** (2019). The RISC Project; Researching Intentions in Social Contexts. (oral presentation). Annual Postgraduate Conference, University of Chester (*June 25, 2019*)
-
-<p><img style="float: right;" src="/img/ChesterDataInsights.jpg" alt="Chester Data Insights Talk" width="330" height="247" /></p>
-**Kennedy, B. J.** (2019) Open Science & Utilising Open Data. (Invited talk). Chester Data Insights, Chester UK (*May 28, 2019*).
-
-Stewart, S. L. K., & **Kennedy, B. J.** (2019) Becoming an Open Scientist: Lessons from the Replication Crisis. (Co-presented workshop). University of Chester annual Research Festival (*April 8, 2019*) - <https://www.chester.ac.uk/research/festival>  
-
-**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. L. K. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (*February 21, 2019*).
-
-Stewart, S. L. K., **Kennedy, B. J.**, & Haigh, M. (*in prep*). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect. *in prep* (OM, OD)  
-
-**Kennedy, B. J.**, Scudds, A., Lafferty, M., & Stewart, S. L. K. (2018). Understanding current social opinions of job roles and sectors of work – A pilot study. PsyPag 2018 Conference, University of Huddersfield (*July 25, 2018*). <https://doi.org/10.6084/m9.figshare.6860342.v1> (OA)  
-
-**Kennedy, B. J.** (2018). Intention is in the eye of the beholder: Exploring the parameters of intentionality judgements utilising the side-effect effect. (oral presentation). Annual Postgraduate Conference, University of Chester (*February 2018*)
-
-**Kennedy, B. J.**, Karlsson, E., Mullins, P., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). Annual Postgraduate Conference, Bangor (*September 2017*)
-
-**Kennedy, B. J.**, Karlsson, E., & Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). British Psychological Society (BPS) Welsh Branch - Annual Student Conference (*April 2017*)  
+<div style="padding-left: 30px; text-indent: -30px; line-height: 1.5;">
+<p>Cassandra D Gould van Praag,&nbsp;<strong>Bradley J Kennedy</strong>, Alexandra Lautarescu, &amp; Esther Plomp. (2020, October 20). Open Research Calendar. Zenodo. <a href="https://doi.org/10.5281/zenodo.4109949">https://doi.org/10.5281/zenodo.4109949</a>&nbsp;(OA, OM, OD)</p>
+<p>Slack, H., Lloyd, A., Urquhart, J., &amp;&nbsp;<strong>Kennedy, B. J.</strong>&nbsp;(2020)&nbsp;<em>Editorial Article:</em>&nbsp;Highlighting the racial inequality present within academia: PsyPAG&rsquo;s response to the Black Lives Matter movement, Issue 116 (September 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016).&nbsp;<a href="http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPag-116-WEB.pdf">Link to Issue</a>&nbsp;(OA)</p>
+<p>Lloyd, A.,&nbsp;<strong>Kennedy, B. J.</strong>, Slack, H., &amp; Urquhart, J. (2020)&nbsp;<em>Editorial Article:</em>&nbsp;Postgraduate study during Covid-19, Issue 115 (June 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016).&nbsp;<a href="http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf">Link to Issue</a>&nbsp;(OA)</p>
+<p><strong>Kennedy, B. J.</strong>&nbsp;(2020) Lead Editor of Issue 114 (March 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016).&nbsp;<a href="http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf">Link to Issue</a>&nbsp;(OA)</p>
+<p><strong>Kennedy, B. J.</strong>&nbsp;(2020) Data wrangling and general tips in R. (Invited talk). University of Chester CORA, Staff R users group, Chester UK (<em>January 22, 2020</em>).&nbsp;<a href="https://osf.io/j8npx/">https://osf.io/j8npx/</a>&nbsp;(OA, OM)</p>
+<p>Rumsey, S., Lunny, C., &amp;&nbsp;<strong>Kennedy, B. J.</strong>&nbsp;(2020). Open Access: A primer from UKRN.&nbsp;<a href="https://doi.org/10.31219/osf.io/94rsp">https://doi.org/10.31219/osf.io/94rsp</a>&nbsp;(OA)</p>
+<p>Ashcroft, S., &amp;&nbsp;<strong>Kennedy, B. J.</strong>&nbsp;(2019).&nbsp;<em>How to write a lab report. The secret recipe for success.</em>&nbsp;UK: Amazon.&nbsp;<a href="https://www.amazon.co.uk/dp/B07QJD7TJR/ref=cm_sw_em_r_mt_dp_U_AKCTCb6X7P882">ISBN:9781093510195</a></p>
+<p><strong>Kennedy, B. J.</strong>&nbsp;(2019). The RISC Project; Researching Intentions in Social Contexts. (oral presentation). Annual Postgraduate Conference, University of Chester (<em>June 25, 2019</em>)</p>
+ <p><img style="float: right;" src="/img/ChesterDataInsights.jpg" alt="Chester Data Insights Talk" width="330" height="247" /></p>
+<p><strong>Kennedy, B. J.</strong>&nbsp;(2019) Open Science &amp; Utilising Open Data. (Invited talk). Chester Data Insights, Chester UK (<em>May 28, 2019</em>).</p>
+<p>Stewart, S. L. K., &amp;&nbsp;<strong>Kennedy, B. J.</strong>&nbsp;(2019) Becoming an Open Scientist: Lessons from the Replication Crisis. (Co-presented workshop). University of Chester annual Research Festival (<em>April 8, 2019</em>) -&nbsp;<a href="https://www.chester.ac.uk/research/festival">https://www.chester.ac.uk/research/festival</a></p>
+<p><strong>Kennedy, B. J.</strong>, Scudds, A., Lafferty, M., &amp; Stewart, S. L. K. (2019). Knobe (2003) Replication study. (oral presentation). University of Chester PGR Symposium 2019 (<em>February 21, 2019</em>).</p>
+<p>Stewart, S. L. K.,&nbsp;<strong>Kennedy, B. J.</strong>, &amp; Haigh, M. (<em>in prep</em>). Breaking bad, breaking good: Valence of agents and recipients modulates the side-effect effect.&nbsp;<em>in prep</em>&nbsp;(OM, OD)</p>
+<p><strong>Kennedy, B. J.</strong>, Scudds, A., Lafferty, M., &amp; Stewart, S. L. K. (2018). Understanding current social opinions of job roles and sectors of work &ndash; A pilot study. PsyPag 2018 Conference, University of Huddersfield (<em>July 25, 2018</em>).&nbsp;<a href="https://doi.org/10.6084/m9.figshare.6860342.v1">https://doi.org/10.6084/m9.figshare.6860342.v1</a>&nbsp;(OA)</p>
+<p><strong>Kennedy, B. J.</strong>&nbsp;(2018). Intention is in the eye of the beholder: Exploring the parameters of intentionality judgements utilising the side-effect effect. (oral presentation). Annual Postgraduate Conference, University of Chester (<em>February 2018</em>)</p>
+<p><strong>Kennedy, B. J.</strong>, Karlsson, E., Mullins, P., &amp; Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). Annual Postgraduate Conference, Bangor (<em>September 2017</em>)</p>
+<p><strong>Kennedy, B. J.</strong>, Karlsson, E., &amp; Carey, D. P. (2017). Diffusion spectrum imaging (DSI) of the arcuate fasciculus and frontal aslant tract in atypical language dominance. (oral presentation). British Psychological Society (BPS) Welsh Branch - Annual Student Conference (<em>April 2017</em>)</p>
+</div>
 
 ---
 
