@@ -17,9 +17,9 @@ title: Publications & Awards
 
 Cassandra D Gould van Praag, **Bradley J Kennedy**, Alexandra Lautarescu, & Esther Plomp. (2020, October 20). Open Research Calendar. Zenodo. <https://doi.org/10.5281/zenodo.4109949>  (OA, OM, OD)  
 
-Slack, H., Lloyd, A., Urquhart, J., & **Kennedy, B. J.** (2020) *Editorial Article:* Highlighting the racial inequality present within academia: PsyPAG’s response to the Black Lives Matter movement, Issue 116 (September), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPag-116-WEB.pdf)  (OA)  
+Slack, H., Lloyd, A., Urquhart, J., & **Kennedy, B. J.** (2020) *Editorial Article:* Highlighting the racial inequality present within academia: PsyPAG’s response to the Black Lives Matter movement, Issue 116 (September 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPag-116-WEB.pdf)  (OA)  
 
-Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) *Editorial Article:* Postgraduate study during Covid-19, Issue 115 (June), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf)  (OA)  
+Lloyd, A., **Kennedy, B. J.**, Slack, H., & Urquhart, J. (2020) *Editorial Article:* Postgraduate study during Covid-19, Issue 115 (June 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf)  (OA)  
 
 **Kennedy, B. J.** (2020) Lead Editor of Issue 114 (March 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016). [Link to Issue](http://www.psypag.co.uk/wp-content/uploads/2020/03/PsyPag-114-1.pdf)  (OA)  
 
