@@ -16,7 +16,6 @@ title: Publications & Awards
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
 <div style="padding-left: 36px; text-indent: -36px; line-height: 1.8;">
-<p>Gould van Praag, C.D.,&nbsp;<strong>Kennedy, B. J.</strong> , Lautarescu, A., &amp; Plomp, E. (2020). Open Research Calendar Poster. Zenodo. <a href="http://doi.org/10.5281/zenodo.4256614">http://doi.org/10.5281/zenodo.4256614</a>&nbsp;(OA)</p>
 <p>Gould van Praag, C.D.,&nbsp;<strong>Kennedy, B. J.</strong> , Lautarescu, A., &amp; Plomp, E. (2020, October 20). Open Research Calendar. Zenodo. <a href="https://doi.org/10.5281/zenodo.4109949">https://doi.org/10.5281/zenodo.4109949</a>&nbsp;(OA, OM, OD)</p>
 <p>Slack, H., Lloyd, A., Urquhart, J., &amp;&nbsp;<strong>Kennedy, B. J.</strong>&nbsp;(2020)&nbsp;<em>Editorial Article:</em>&nbsp;Highlighting the racial inequality present within academia: PsyPAG&rsquo;s response to the Black Lives Matter movement, Issue 116 (September 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016).&nbsp;<a href="http://www.psypag.co.uk/wp-content/uploads/2020/09/PsyPag-116-WEB.pdf">Link to Issue</a>&nbsp;(OA)</p>
 <p>Lloyd, A.,&nbsp;<strong>Kennedy, B. J.</strong>, Slack, H., &amp; Urquhart, J. (2020)&nbsp;<em>Editorial Article:</em>&nbsp;Postgraduate study during Covid-19, Issue 115 (June 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016).&nbsp;<a href="http://www.psypag.co.uk/wp-content/uploads/2020/06/PsyPAG-115-June.pdf">Link to Issue</a>&nbsp;(OA)</p>
@@ -39,6 +38,8 @@ title: Publications & Awards
 ---
 
 ## Conferences / Workshop Attended (not presented)  {#conferences}  
+Gould van Praag, C.D., **Kennedy, B. J.**, Lautarescu, A., & Plomp, E. (2020). Open Research Calendar Poster. Zenodo. <http://doi.org/10.5281/zenodo.4256614> (OA)  
+
 Virtually attended: Remote SIPS (Society for the Improvement of Psychological Science) conference (*22nd-24th June 2020*)  
 
 Virtually attended: ReproducibiliTea Virtual Meeting: How can ECRs influence research culture and integrity? (*29th May 2020*)  
