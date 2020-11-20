@@ -3,14 +3,13 @@ layout: page
 ---
 <html lang="en-GB">
  <body>
- {% assign doclist = site.pages | sort: 'url'  %}
-    <ul>
-       {% for doc in doclist %}
-            {% if doc.name contains '.md' or doc.name contains '.html' %}
-                <li><a href="{{ site.baseurl }}{{ doc.url }}">{{ doc.url }}</a></li>
-            {% endif %}
-        {% endfor %}
-    </ul>
+   <h2>Research Admin Emails</h2>
+     <ul>
+       <li><a href="https://bradleykennedy.co.uk//emails/results" target="_blank" rel="noopener">Results Distribution Mailing List</a></li>
+       <li><a href="https://bradleykennedy.co.uk//emails/future-studies" target="_blank" rel="noopener">Future Studies Mailing List</a></li>
+       <li><a href="https://bradleykennedy.co.uk//emails/both" target="_blank" rel="noopener">Both Mailing Lists</a></li>
+       <li><a href="https://bradleykennedy.co.uk//emails/voucher" target="_blank" rel="noopener">Voucher Processing email</a></li>
+     </ul>
 </body>
 </html>
     
