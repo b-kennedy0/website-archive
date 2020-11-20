@@ -6,7 +6,7 @@ layout: page
     <ul>
        {% for emails in site.emails %}
             {% if emails.name contains '.md' or emails.name contains '.html' %}
-                <li><a href="{{ site.baseurl }}{{ emails.url }}">{{ emails.url }}</a></li>
+                <li><a href="{{ site.baseurl }}{{ emails.url }}">{{ emails.type }}</a></li>
             {% endif %}
         {% endfor %}
     </ul>
