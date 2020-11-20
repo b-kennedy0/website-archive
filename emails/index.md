@@ -1,7 +1,10 @@
 ---
 layout: page
 ---
-{% assign doclist = site.pages | sort: 'url'  %}
+<!doctype html>
+<html lang="en-GB">
+ <body>
+    {% assign doclist = site.pages | sort: 'url'  %}
     <ul>
        {% for doc in doclist %}
             {% if doc.name contains '.md' or doc.name contains '.html' %}
@@ -9,4 +12,6 @@ layout: page
             {% endif %}
         {% endfor %}
     </ul>
+</body>
+</html>
     
