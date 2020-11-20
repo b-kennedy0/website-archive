@@ -3,7 +3,7 @@ layout: page
 ---
 <html lang="en-GB">
  <body>
-    {% assign doclist = /emails | sort: 'url'  %}
+    {% assign doclist = site.emails | sort: 'url'  %}
     <ul>
        {% for doc in doclist %}
             {% if doc.name contains '.md' or doc.name contains '.html' %}
