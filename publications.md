@@ -16,6 +16,7 @@ title: Publications & Awards
 (OA = Open Access; OM = Open Materials; OD = Open Data and Analysis Code)  
 
 <div style="padding-left: 36px; text-indent: -36px; line-height: 1.8;">
+<p><strong>Kennedy, B. J.</strong>&nbsp;(2020) Lead Editor of Issue 117 (December 2020), PsyPAG Quarterly Journal (ISSN: 1746-6016).&nbsp;<a href="http://www.psypag.co.uk/wp-content/uploads/2020/12/PsyPag-117-WEB.pdf" target="_blank" rel="noopener">Link to Issue</a>&nbsp;(OA)</p>
 <p><strong>Kennedy, B. J.</strong>, Scudds, A., Lafferty, M., &amp; Stewart, S. L. K. (2020) Open Science practices in psychological research (Invited Speaker), Research Webinar - School of Psychology, University of Chester (<em>November 25, 2020</em>). <a href="https://osf.io/8xgn3/" target="_blank" rel="noopener">https://osf.io/8xgn3/</a>&nbsp;(OM)</p>
 <p><strong>Kennedy, B. J.</strong> (2020) Open Access Publishing (Invited Speaker), BPS/UKRN Webinar: The Truth About Open Research (<em>November 13, 2020</em>). <a href="https://osf.io/fsnyw/" target="_blank" rel="noopener">https://osf.io/fsnyw/</a> (OM)</p>
 <p>Gould van Praag, C.D.,&nbsp;<strong>Kennedy, B. J.</strong> , Lautarescu, A., &amp; Plomp, E. (2020, October 20). Open Research Calendar. Zenodo. <a href="https://doi.org/10.5281/zenodo.4109949" target="_blank" rel="noopener">https://doi.org/10.5281/zenodo.4109949</a>&nbsp;(OA, OM, OD)</p>
