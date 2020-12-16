@@ -15,7 +15,7 @@ layout: page
           const filePath = file.path;
           const fileName = filePath.replace('.html', '').toLowerCase().replace(/-/g, '');
           const isHTML = (/.html$/).test(filePath);
-          const isNotIndex = filePath !== 'index.html';
+          const isNotIndex = filePath !== 'emails/index.html';
           return isHTML && isNotIndex ;
         }
       }
