@@ -25,7 +25,7 @@ layout: page
         const response = await fetch('https://api.github.com/repos/b-kennedy0/b-kennedy0.github.io/contents/emails');
         const data = await response.json();
         let htmlString = '<ul>';
-        for (let file of data) {
+        for (let file of data.filter(filterFiles(filter))) {
           const fileName = file.path.replace('.html', '').replace('emails/', '');
           const filePath = file.path.replace('emails/', '');
           htmlString += `<li><a href="${filePath}">${fileName}</a></li>`;
