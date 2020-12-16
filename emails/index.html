@@ -16,9 +16,7 @@ layout: page
           const fileName = filePath.replace('.html', '').toLowerCase().replace(/-/g, '');
           const isHTML = (/.html$/).test(filePath);
           const isNotIndex = filePath !== 'index.html';
-          const isInFilter = filter.split(' ')
-            .every((token) => fileName.indexOf(token.toLowerCase()) !== -1)
-          return isHTML && isNotIndex && isInFilter;
+          return isHTML && isNotIndex ;
         }
       }
       
@@ -29,7 +27,7 @@ layout: page
         for (let file of data) {
           const fileName = file.path.replace('.html', '').replace('emails/', '');
           const filePath = file.path.replace('emails/', '');
-          htmlString += `<li><a href="${file.path}">${fileName}</a></li>`;
+          htmlString += `<li><a href="${filePath}">${fileName}</a></li>`;
         }
         htmlString += '</ul>';
         document.getElementById('list').innerHTML = htmlString;
