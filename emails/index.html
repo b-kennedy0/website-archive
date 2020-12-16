@@ -28,7 +28,7 @@ layout: page
         let htmlString = '<ul>';
         for (let file of data) {
           const fileName = file.path.replace('.html', '').replace('emails/', '');
-          const file.path = file.path.replace('emails/', '');
+          const filePath = file.path.replace('emails/', '');
           htmlString += `<li><a href="${file.path}">${fileName}</a></li>`;
         }
         htmlString += '</ul>';
