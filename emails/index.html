@@ -9,12 +9,26 @@ layout: page
     </div>
     
     <script>
+      const filterFiles = (filter) => {
+        filter = filter.toLowerCase()
+        return (file) => {
+          const filePath = file.path;
+          const fileName = filePath.replace('.html', '').toLowerCase().replace(/-/g, '');
+          const isHTML = (/.html$/).test(filePath);
+          const isNotIndex = filePath !== 'index.html';
+          const isInFilter = filter.split(' ')
+            .every((token) => fileName.indexOf(token.toLowerCase()) !== -1)
+          return isHTML && isNotIndex && isInFilter;
+        }
+      }
+      
       (async () => {
         const response = await fetch('https://api.github.com/repos/b-kennedy0/b-kennedy0.github.io/contents/emails');
         const data = await response.json();
         let htmlString = '<ul>';
         for (let file of data) {
-          const fileName = file.path.replace('.html', '');
+          const fileName = file.path.replace('.html', '').replace('emails/', '');
+          const file.path = file.path.replace('emails/', '');
           htmlString += `<li><a href="${file.path}">${fileName}</a></li>`;
         }
         htmlString += '</ul>';
