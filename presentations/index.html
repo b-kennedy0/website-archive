@@ -14,7 +14,7 @@ layout: page
         filter = filter.toLowerCase()
         return (file) => {
           const filePath = file.path.replace('presentations/', '');
-          const fileName = file.path.replace('presentations/', '').toLowerCase().replace(/-/g, '').replace(/_/g, '');
+          const fileName = file.path.replace('presentations/', '').toLowerCase().replace(/-/g, '').replace(/_/g, ' ');
           const isNotIndex = filePath !== 'index.html';
           return isNotIndex;
         }
