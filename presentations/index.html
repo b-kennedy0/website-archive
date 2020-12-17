@@ -23,9 +23,10 @@ layout: page
       const renderList = (data, filter = '') => {
         let htmlString = '<ul>';
         for (let file of data.filter(filterFiles(filter))) {
-          const fileName = file.path.replace('presentations/', '').toLowerCase().replace(/-/g, ' ').replace(/_/g, '');
+          const fileName = file.path.replace('presentations/', '').toLowerCase().replace(/-/g, ' ').replace(/_/g, ' ');
           const presName = file.path.replace('presentations/', '')
-          const filePath = file.path.replace('presentations/', 'presentations/' + "${presName}" + '/');
+          var presentation = 'presentations/$presName/'
+          const filePath = file.path.replace('presentations/', 'presentations/' + presentation);
           htmlString += `<li><a href="${filePath}">${fileName}</a></li>`;
         }
       htmlString += '</ul>';
