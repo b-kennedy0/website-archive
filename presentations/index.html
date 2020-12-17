@@ -24,9 +24,8 @@ layout: page
         let htmlString = '<ul>';
         for (let file of data.filter(filterFiles(filter))) {
           const fileName = file.path.replace('presentations/', '').toLowerCase().replace(/-/g, ' ').replace(/_/g, ' ');
-          const presName = file.path.replace('presentations/', '')
           var pres1 = file.path.replace('presentations/', '');
-          const filePath = file.path.replace('presentations/', 'presentations/' + pres1 + '/');
+          const filePath = file.path.replace('presentations/', pres1 + '/');
           htmlString += `<li><a href="${filePath}">${fileName}</a></li>`;
         }
       htmlString += '</ul>';
