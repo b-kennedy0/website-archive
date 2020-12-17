@@ -1,3 +1,3 @@
 ---
-redirect_to: /presentations
+redirect_to: /presentations/index
 ---
