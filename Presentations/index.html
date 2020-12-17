@@ -4,7 +4,7 @@ layout: page
 <html>
   <body>
     <div>
-      <h2>Research Admin Emails</h2>
+      <h2>List of Presentations</h2>
       <ul id="list">
       </ul>
     </div>
@@ -13,19 +13,18 @@ layout: page
       const filterFiles = (filter) => {
         filter = filter.toLowerCase()
         return (file) => {
-          const filePath = file.path.replace('emails/', '');
-          const fileName = file.path.replace('.html', '').replace('emails/', '').toLowerCase().replace(/-/g, '');
-          const isHTML = (/.html$/).test(filePath);
+          const filePath = file.path.replace('Presentations/', '');
+          const fileName = file.path.replace('Presentations/', '').toLowerCase().replace(/-/g, '');
           const isNotIndex = filePath !== 'index.html';
-          return isHTML && isNotIndex;
+          return isNotIndex;
         }
       }
       
       const renderList = (data, filter = '') => {
         let htmlString = '<ul>';
         for (let file of data.filter(filterFiles(filter))) {
-          const filePath = file.path.replace('emails/', '');
-          const fileName = file.path.replace('.html', '').replace('emails/', '').toLowerCase().replace(/-/g, ' ');
+          const fileName = file.path.replace('Presentations/', '').toLowerCase().replace(/-/g, ' ');
+          const filePath = file.path.replace('Presentations/', 'Presentations/$file.name/');
           htmlString += `<li><a href="${filePath}">${fileName}</a></li>`;
         }
       htmlString += '</ul>';
@@ -33,7 +32,7 @@ layout: page
       }
       
       (async () => {
-        const response = await fetch('https://api.github.com/repos/b-kennedy0/b-kennedy0.github.io/contents/emails');
+        const response = await fetch('https://api.github.com/repos/b-kennedy0/b-kennedy0.github.io/contents/Presentations');
         const data = await response.json();
         renderList(data);
       })()
