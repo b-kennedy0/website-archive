@@ -7,6 +7,7 @@ title: Success
 <h1 style="text-align: center;">Brad has been notified</h1>
 <h2 style="text-align: center;">He will be with you soon</h2>
 <p>&nbsp;</p>
+<p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://raw.githubusercontent.com/b-kennedy0/b-kennedy0.github.io/master/img/animate-walk.gif" alt="" width="189" height="147" /></p>
 <hr />
 <p style="text-align: center;">Triggered at:&nbsp;<span id="datetime"></span></p>
 <script>
