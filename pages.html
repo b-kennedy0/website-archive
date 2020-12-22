@@ -16,7 +16,7 @@ layout: page
       const filterFiles1 = (filter) => {
         filter = filter.toLowerCase()
         return (file) => {
-          const filePath = file.path.replace('.md', '');
+          const filePath = file.path;
           const fileName = file.path.replace('.md', '').toLowerCase().replace(/-/g, ' ');
           const isMD = (/.md$/).test(filePath);
           const isNotREADME = filePath !== 'README.md';
@@ -38,7 +38,7 @@ layout: page
       const filterFiles2 = (filter) => {
         filter = filter.toLowerCase()
         return (file) => {
-          const filePath = file.path.replace('.html', '');
+          const filePath = file.path;
           const fileName = file.path.replace('.html', '').toLowerCase().replace(/-/g, ' ');
           const isHTML = (/.html$/).test(filePath);
           return isHTML;
