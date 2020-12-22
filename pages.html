@@ -13,7 +13,7 @@ layout: page
     </div>
     
     <script>
-      const filterFiles = (filter_md) => {
+      const filterFiles1 = (filter) => {
         filter = filter.toLowerCase()
         return (file) => {
           const filePath = file.path;
@@ -26,7 +26,7 @@ layout: page
       
       const renderList1 = (data, filter = '') => {
         let htmlString = '<ul>';
-        for (let file of data.filter(filterFiles(filter_md))) {
+        for (let file of data.filter(filterFiles1(filter))) {
           const filePath = file.path;
           const fileName = file.path.replace('.md', '').toLowerCase().replace(/-/g, ' ');
           htmlString += `<li><a href="${filePath}">${fileName}</a></li>`;
@@ -35,7 +35,7 @@ layout: page
         document.getElementById('md_list').innerHTML = htmlString;
       }
       
-      const filterFiles = (filter_html) => {
+      const filterFiles2 = (filter) => {
         filter = filter.toLowerCase()
         return (file) => {
           const filePath = file.path;
@@ -47,7 +47,7 @@ layout: page
       
       const renderList2 = (data, filter = '') => {
         let htmlString = '<ul>';
-        for (let file of data.filter(filterFiles(filter_html))) {
+        for (let file of data.filter(filterFiles2(filter))) {
           const filePath = file.path;
           const fileName = file.path.replace('.html', '').toLowerCase().replace(/-/g, ' ');
           htmlString += `<li><a href="${filePath}">${fileName}</a></li>`;
