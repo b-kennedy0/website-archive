@@ -24,7 +24,7 @@ layout: page
         }
       }
       
-      const renderList = (data, filter = '') => {
+      const renderList1 = (data, filter = '') => {
         let htmlString = '<ul>';
         for (let file of data.filter(filterFiles(filter_md))) {
           const filePath = file.path;
@@ -45,7 +45,7 @@ layout: page
         }
       }
       
-      const renderList = (data, filter = '') => {
+      const renderList2 = (data, filter = '') => {
         let htmlString = '<ul>';
         for (let file of data.filter(filterFiles(filter_html))) {
           const filePath = file.path;
@@ -59,7 +59,8 @@ layout: page
       (async () => {
         const response = await fetch('https://api.github.com/repos/b-kennedy0/b-kennedy0.github.io/contents/');
         const data = await response.json();
-        renderList(data);
+        renderList1(data);
+        renderList2(data);
       })()
     </script>
   <body>
