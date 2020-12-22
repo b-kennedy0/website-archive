@@ -1,4 +1,5 @@
 # --- General options --- #
+remote_theme: daattali/beautiful-jekyll@5.0.0
 
 # url is the full website URL
 # baseurl is the website's URL without the hostname
@@ -13,8 +14,6 @@ baseurl: ""
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
-
-# Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
 title: Bradley Kennedy
@@ -124,15 +123,6 @@ google_analytics: "UA-119326789-2"
 
 # Google Tag Manager ID
 #gtm: ""
-
-# Matomo (aka Piwik) Web statistics
-# Uncomment the following section to enable Matomo. The opt-out parameter controls
-# whether or not you want to allow users to opt out of tracking.
-
-#matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
 
 # --- Comments --- #
 
@@ -268,7 +258,3 @@ plugins:
 gems:
   - jemoji
   - jekyll-redirect-from
-  
-
-# Beautiful Jekyll / Dean Attali
-# 2fc73a3a967e97599c9763d05e564189
