@@ -16,7 +16,7 @@ layout: page
       const filterFiles1 = (filter) => {
         filter = filter.toLowerCase()
         return (file) => {
-          const filePath = file.path;
+          const filePath = file.path.replace('.md', '');
           const fileName = file.path.replace('.md', '').toLowerCase().replace(/-/g, ' ');
           const isMD = (/.md$/).test(filePath);
           const isNotREADME = filePath !== 'README.md';
@@ -27,7 +27,7 @@ layout: page
       const renderList1 = (data, filter = '') => {
         let htmlString = '<ul>';
         for (let file of data.filter(filterFiles1(filter))) {
-          const filePath = file.path;
+          const filePath = file.path.replace('.md', '');
           const fileName = file.path.replace('.md', '').toLowerCase().replace(/-/g, ' ');
           htmlString += `<li><a href="https://bradleykennedy.co.uk/${filePath}">${fileName}</a></li>`;
         }
@@ -38,7 +38,7 @@ layout: page
       const filterFiles2 = (filter) => {
         filter = filter.toLowerCase()
         return (file) => {
-          const filePath = file.path;
+          const filePath = file.path.replace('.html', '');
           const fileName = file.path.replace('.html', '').toLowerCase().replace(/-/g, ' ');
           const isHTML = (/.html$/).test(filePath);
           return isHTML;
@@ -48,7 +48,7 @@ layout: page
       const renderList2 = (data, filter = '') => {
         let htmlString = '<ul>';
         for (let file of data.filter(filterFiles2(filter))) {
-          const filePath = file.path;
+          const filePath = file.path.replace('.html', '');
           const fileName = file.path.replace('.html', '').toLowerCase().replace(/-/g, ' ');
           htmlString += `<li><a href="https://bradleykennedy.co.uk/${filePath}">${fileName}</a></li>`;
         }
